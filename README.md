@@ -1,0 +1,1 @@
+# Sehore-Real-Estate-Price-Predictor.AI
