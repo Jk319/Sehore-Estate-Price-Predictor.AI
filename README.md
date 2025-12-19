@@ -1,11 +1,11 @@
 # Sehore-Real-Estate-Price-Predictor.AI
 
-# 🏠 Sehore Real Estate Price Predictor.AI  
+#  Sehore Real Estate Price Predictor.AI  
 ### *AI-powered real estate valuation using Machine Learning, Deep Learning & Flask*
 
 ---
 
-## 📌 Overview
+##  Overview
 
 - **Goal:** Predict real-estate property prices for the *Sehore district* using ML + DL models.  
 - **Dataset:** 2,000+ real estate entries collected from Sehore district.  
@@ -51,7 +51,7 @@
 - VS Code
 ---
 
-## 🧼 Preprocessing Steps
+##  Preprocessing Steps
 
 - Handled missing values  
 - Label encoding for categorical features  
@@ -110,8 +110,8 @@
 
 ##  Sample Predictions
 
-- ✅ **Area: 1200 sqft** → *Predicted Price: ₹ 18.4 lakhs (RF)*  
-- ✅ **Area: 800 sqft** → *Predicted Price: ₹ 11.7 lakhs (ANN)*
+-  **Area: 1200 sqft** → *Predicted Price: ₹ 18.4 lakhs (RF)*  
+-  **Area: 800 sqft** → *Predicted Price: ₹ 11.7 lakhs (ANN)*
   
 - Charts:  
   - Tehsil-wise price curve  
@@ -119,7 +119,7 @@
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 ```plaintext
 Sehore_RealEstate_WebApp/
 │ app.py
@@ -156,7 +156,7 @@ Sehore_RealEstate_WebApp/
 - Add feature to compare predicted vs actual trends  
 - Introduce ensemble hybrid model (RF + ANN)  
 
-## 👨‍💻 Author
+##  Author
 
 **Jatin Kushwaha**  
 [GitHub](https://github.com/Jk319) | [LinkedIn](https://linkedin.com/in/jatin-kushwaha)
