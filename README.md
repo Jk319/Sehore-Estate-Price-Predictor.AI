@@ -1,6 +1,5 @@
 # Sehore-Real-Estate-Price-Predictor.AI
 
-#  Sehore Real Estate Price Predictor.AI  
 ### *AI-powered real estate valuation using Machine Learning, Deep Learning & Flask*
 
 ---
