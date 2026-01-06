@@ -1,0 +1,2001 @@
+District,Tehsil,Village/Town,Property_Type,Ownership,Size_sq_m,Market_Price,Stamp_Duty%,Registration%,Broker%,Population,Amenities,Road_Access,Nearest_Neigh_km
+Sehore,Sehore,Kachhi Barod,Agricultural,Private,4911.6,13745598,5.0,2,4,2589,11,No,0.6
+Sehore,Jawar,Doraha Mal,Commercial,Government,13137.0,59416644,5.0,2,0,4912,4,Yes,17.2
+Sehore,Shyampur,Ralayati,Industrial,Government,6231.9,48504362,7.5,3,5,9478,15,No,15.0
+Sehore,Rehti,Jetpura,Industrial,Institutional,5518.6,46378572,5.0,3,4,5900,2,Yes,6.5
+Sehore,Jawar,Mangrola,Mixed-use,Government,1521.6,12689894,7.5,3,4,5186,2,Yes,14.4
+Sehore,Jawar,Khejra Khurd,Agricultural,Private,6946.8,31281216,7.5,3,0,2857,1,No,11.2
+Sehore,Ashta,Kachnariya,Industrial,Government,1031.6,3956494,7.5,3,4,4178,15,Yes,14.3
+Sehore,Shyampur,Jhal,Commercial,Cooperative,3290.8,15193274,7.5,3,2,3860,10,No,3.0
+Sehore,Rehti,Sehore City,Mixed-use,Private,10704.7,41392892,5.0,2,4,1092,9,No,14.6
+Sehore,Jawar,Bagwada,Mixed-use,Government,12549.2,15509562,6.0,2,2,1509,2,No,11.5
+Sehore,Sehore,Sonda,Industrial,Cooperative,2146.6,8041942,5.0,3,2,2956,12,No,17.6
+Sehore,Shyampur,Kurawar,Commercial,Institutional,6069.3,17073679,7.5,2,2,7451,13,Yes,10.5
+Sehore,Ashta,Kachnariya Kalan,Residential,Private,10266.0,18108429,5.0,2,0,5405,7,No,0.7
+Sehore,Rehti,Kothri,Commercial,Government,9576.3,47743705,7.5,2,2,1638,14,Yes,12.0
+Sehore,Ichhawar,Ralayati,Commercial,Government,12230.3,55780583,7.5,2,4,2020,13,No,18.7
+Sehore,Budhni,Kachnariya,Commercial,Government,13511.4,67303099,7.5,2,4,5577,8,No,15.7
+Sehore,Budhni,Jetpura Kalan,Mixed-use,Private,5128.1,20130603,5.0,3,1,6673,1,No,1.3
+Sehore,Shyampur,Bamuliya Mal,Mixed-use,Private,12728.8,21990629,7.5,3,4,9274,10,No,15.2
+Sehore,Jawar,Pathar,Agricultural,Government,6762.7,17477063,7.5,3,3,7179,7,Yes,9.9
+Sehore,Shyampur,Kachhi Barod,Agricultural,Cooperative,9176.2,31632019,6.0,2,4,732,4,Yes,6.2
+Sehore,Ichhawar,Rasuliya Khurd,Agricultural,Private,8051.6,11092370,6.0,3,1,5813,9,Yes,16.5
+Sehore,Sehore,Pipliya,Mixed-use,Government,7670.5,49467569,5.0,2,0,7541,3,Yes,14.3
+Sehore,Budhni,Pipalia,Industrial,Government,8601.5,50784429,5.0,3,1,11344,2,No,0.2
+Sehore,Jawar,Bamuliya Mal,Agricultural,Government,14807.3,112721722,6.0,3,0,2604,3,Yes,12.5
+Sehore,Nasrullaganj,Kalapipal,Mixed-use,Institutional,3136.8,25186774,7.5,3,3,11359,1,No,16.5
+Sehore,Sehore,Mardikhurd,Commercial,Cooperative,3861.1,4183261,7.5,3,0,11453,13,No,2.7
+Sehore,Jawar,Doraha,Residential,Private,2451.1,17965387,5.0,2,4,5413,3,No,19.1
+Sehore,Sehore,Pathar,Mixed-use,Institutional,4327.8,24066319,5.0,2,3,3361,2,No,4.1
+Sehore,Ashta,Gopalpur,Industrial,Private,1742.2,2272264,6.0,2,0,11414,13,Yes,4.9
+Sehore,Rehti,Ralayati,Commercial,Cooperative,8987.3,11938866,7.5,2,1,11926,6,Yes,11.4
+Sehore,Ichhawar,Magarda,Agricultural,Government,5303.7,13817169,7.5,2,3,6276,3,No,10.2
+Sehore,Jawar,Banet,Commercial,Institutional,9897.5,44647353,6.0,2,1,9907,9,No,11.2
+Sehore,Ichhawar,Gunaur,Agricultural,Private,1741.6,2649062,7.5,2,4,11854,3,No,7.5
+Sehore,Ichhawar,Kachhi Barod,Commercial,Private,5767.7,31732116,6.0,2,1,10343,1,Yes,0.5
+Sehore,Shyampur,Bagmau,Industrial,Institutional,10309.3,42207688,7.5,2,5,8087,10,No,7.0
+Sehore,Shyampur,Borkhedi,Commercial,Cooperative,8083.9,31374272,5.0,3,5,2906,7,No,17.7
+Sehore,Rehti,Budhni,Industrial,Institutional,2228.2,10426765,7.5,2,3,2098,14,No,4.2
+Sehore,Sehore,Sonda Khurd,Industrial,Cooperative,11023.1,50167706,6.0,3,2,5584,6,No,2.7
+Sehore,Jawar,Bagwada,Commercial,Government,8560.3,73481958,7.5,3,3,9031,14,No,7.6
+Sehore,Nasrullaganj,Ladkui,Industrial,Government,7095.9,37910766,6.0,3,4,6802,1,Yes,4.4
+Sehore,Ichhawar,Bamuliya Mal,Industrial,Cooperative,2770.3,12587808,7.5,2,3,9346,11,Yes,5.5
+Sehore,Ichhawar,Rasuliya Khurd,Industrial,Government,2328.2,8223029,5.0,2,3,5230,10,Yes,13.6
+Sehore,Budhni,Bilkisganj,Residential,Private,13809.0,109860399,6.0,2,2,5894,4,Yes,19.2
+Sehore,Nasrullaganj,Kothri,Agricultural,Institutional,8785.1,66995490,6.0,3,5,2920,5,No,2.1
+Sehore,Ichhawar,Kothrikalan,Commercial,Cooperative,1847.1,15297409,6.0,2,4,9099,11,No,14.0
+Sehore,Nasrullaganj,Doraha Mal,Commercial,Private,9984.9,21698888,6.0,2,0,2271,15,No,9.5
+Sehore,Shyampur,Dhaturiya,Residential,Institutional,13969.7,79335737,5.0,3,0,8107,11,No,17.7
+Sehore,Budhni,Bhatkhedi,Residential,Government,2093.4,7119311,6.0,2,0,11009,4,No,5.9
+Sehore,Budhni,Harpura Kalan,Mixed-use,Cooperative,318.1,2585638,6.0,2,2,4190,4,No,19.6
+Sehore,Ashta,Jamuniya,Agricultural,Government,856.0,2491329,6.0,3,3,7143,6,Yes,5.5
+Sehore,Shyampur,Bamuliya Mal,Residential,Institutional,8305.0,16985376,7.5,2,5,9448,1,No,7.7
+Sehore,Shyampur,Pachama,Industrial,Private,10453.7,33057417,6.0,3,2,8448,14,No,8.2
+Sehore,Rehti,Paraswada,Agricultural,Institutional,8321.5,40863919,6.0,2,3,11056,2,No,17.2
+Sehore,Budhni,Budhni,Commercial,Private,3705.0,8954458,5.0,2,4,3932,13,Yes,17.3
+Sehore,Ashta,Ashta,Agricultural,Private,2411.2,14488927,6.0,3,5,1783,10,Yes,1.2
+Sehore,Ichhawar,Bankheri,Residential,Government,1448.2,12470646,5.0,3,5,3868,4,Yes,14.4
+Sehore,Sehore,Harpura Khurd,Mixed-use,Government,7182.6,18519602,6.0,2,3,4769,12,Yes,8.9
+Sehore,Ashta,Bilkisganj,Commercial,Government,4007.9,32165054,7.5,2,5,2081,12,Yes,3.8
+Sehore,Rehti,Bilpank,Commercial,Cooperative,9558.6,54851698,7.5,3,4,10545,5,Yes,8.6
+Sehore,Rehti,Chandpur,Mixed-use,Private,9850.2,86141106,6.0,3,1,1109,1,Yes,9.9
+Sehore,Ashta,Bamuliya Khurd,Industrial,Private,10136.6,83009808,6.0,2,5,11101,2,No,11.8
+Sehore,Rehti,Banet Mal,Mixed-use,Private,8572.5,58440373,6.0,3,2,7921,6,No,6.1
+Sehore,Shyampur,Karadiya,Mixed-use,Government,3483.4,8236233,7.5,3,3,7667,15,No,6.6
+Sehore,Sehore,Khejra Khurd,Industrial,Cooperative,2358.1,16277666,6.0,3,0,2334,13,No,7.7
+Sehore,Ichhawar,Ladkheda,Agricultural,Private,6561.0,49464943,5.0,2,4,3063,4,Yes,0.4
+Sehore,Shyampur,Kothrikalan,Agricultural,Institutional,3030.5,15087585,5.0,3,4,4599,4,Yes,9.8
+Sehore,Shyampur,Jhal,Industrial,Government,7351.1,46505364,6.0,2,0,5346,12,No,12.2
+Sehore,Ichhawar,Chandpur,Mixed-use,Cooperative,12070.0,52272313,5.0,3,5,2648,6,No,13.7
+Sehore,Sehore,Bamuliya Kalan,Residential,Government,7982.2,29763851,6.0,2,2,9312,8,Yes,0.5
+Sehore,Rehti,Sonda Khurd,Commercial,Government,14173.1,92213792,6.0,3,2,9143,6,No,14.0
+Sehore,Ichhawar,Harpura Khurd,Mixed-use,Government,10644.9,62539819,5.0,3,4,7746,15,Yes,6.3
+Sehore,Budhni,Badiyakhedi,Commercial,Institutional,1293.1,6371781,7.5,3,0,7414,7,Yes,15.8
+Sehore,Nasrullaganj,Patla,Agricultural,Private,7148.3,19919929,5.0,3,2,10218,8,Yes,15.7
+Sehore,Rehti,Jamuniya,Agricultural,Government,12376.1,76320100,7.5,2,2,1042,12,Yes,10.5
+Sehore,Nasrullaganj,Bagwada,Industrial,Cooperative,10533.6,82389691,6.0,3,1,2410,5,Yes,0.7
+Sehore,Sehore,Bilkisganj,Agricultural,Cooperative,11654.9,104239538,6.0,3,4,2621,10,No,15.2
+Sehore,Budhni,Mardikhurd,Industrial,Institutional,3030.9,17737857,6.0,2,4,2155,6,Yes,2.6
+Sehore,Rehti,Gunaur,Industrial,Institutional,2195.0,16801484,6.0,2,5,7164,11,No,8.0
+Sehore,Rehti,Bamuliya Kalan,Residential,Institutional,4914.3,34655305,5.0,2,5,11801,12,Yes,10.0
+Sehore,Budhni,Chandbad,Commercial,Private,7879.9,67144488,5.0,2,2,5900,6,Yes,8.3
+Sehore,Budhni,Dewas Naka,Industrial,Private,7908.2,48513246,6.0,2,4,1515,14,Yes,9.0
+Sehore,Budhni,Jetpura,Commercial,Government,923.2,5971420,5.0,2,5,11474,4,No,0.9
+Sehore,Jawar,Bilpank,Commercial,Government,7548.7,27051537,7.5,3,0,8409,13,No,9.9
+Sehore,Sehore,Gunaur,Residential,Private,3065.9,3949016,5.0,3,0,5774,12,Yes,11.7
+Sehore,Rehti,Pipliya,Commercial,Cooperative,3254.7,17216842,7.5,3,2,9163,6,No,3.3
+Sehore,Jawar,Kachnariya Kalan,Agricultural,Institutional,3000.9,24557640,6.0,2,5,4725,8,Yes,9.0
+Sehore,Sehore,Pipalia,Commercial,Private,701.6,5217860,7.5,2,1,9392,12,No,16.7
+Sehore,Jawar,Pipliya Khurd,Agricultural,Institutional,6999.6,43276012,5.0,3,1,8423,1,No,0.3
+Sehore,Ichhawar,Dhodal,Commercial,Cooperative,14206.2,58367221,6.0,3,3,9910,13,Yes,18.4
+Sehore,Shyampur,Harpura Mal,Mixed-use,Institutional,11941.4,75663033,5.0,2,4,1807,15,Yes,17.1
+Sehore,Ashta,Ashta,Agricultural,Private,4607.4,18666270,7.5,2,0,927,6,Yes,13.0
+Sehore,Sehore,Bhatkhedi,Residential,Institutional,6308.9,7439179,5.0,2,2,2373,5,No,18.6
+Sehore,Jawar,Bherunda,Residential,Cooperative,2684.8,5102984,7.5,2,3,9549,12,No,5.5
+Sehore,Shyampur,Kothri,Commercial,Government,1052.2,6759495,5.0,2,3,7135,14,No,8.3
+Sehore,Ashta,Bagmau,Residential,Private,14394.7,115316037,7.5,3,5,7900,4,No,0.6
+Sehore,Nasrullaganj,Salkanpur,Commercial,Cooperative,12170.5,109129218,5.0,3,4,11567,8,Yes,14.3
+Sehore,Ashta,Pathar,Agricultural,Private,9002.9,41864024,6.0,2,2,10840,15,No,14.6
+Sehore,Ichhawar,Harpura Khurd,Agricultural,Cooperative,2675.5,11275182,6.0,3,2,2468,14,No,13.5
+Sehore,Sehore,Rasuliya,Industrial,Private,9064.1,73221420,6.0,3,5,7694,8,Yes,17.8
+Sehore,Rehti,Rampura,Commercial,Institutional,8139.9,62319927,5.0,2,1,11407,7,Yes,16.5
+Sehore,Budhni,Rampura,Mixed-use,Private,7832.0,43888309,6.0,2,5,3765,11,No,9.8
+Sehore,Rehti,Bhatkhedi,Mixed-use,Cooperative,7885.0,59570286,5.0,3,5,6734,12,Yes,4.6
+Sehore,Shyampur,Kothrikalan,Commercial,Private,13406.3,117362017,5.0,3,1,1233,12,No,4.9
+Sehore,Sehore,Dewas Naka,Commercial,Private,14277.1,36093259,5.0,2,2,2033,4,Yes,16.6
+Sehore,Budhni,Kothri,Agricultural,Cooperative,14269.1,62432167,6.0,3,0,11483,10,No,6.9
+Sehore,Rehti,Pipalia,Agricultural,Cooperative,9319.3,77876223,7.5,2,5,8100,1,No,6.5
+Sehore,Ashta,Bamuliya,Industrial,Cooperative,11313.5,80985417,6.0,3,5,8083,1,No,0.9
+Sehore,Shyampur,Kurawar,Industrial,Institutional,8192.5,13630005,7.5,2,3,6273,12,No,4.9
+Sehore,Shyampur,Rehti,Agricultural,Institutional,8325.2,55215396,6.0,2,4,6777,2,Yes,13.7
+Sehore,Ashta,Rampura,Industrial,Private,7570.9,35624414,7.5,3,4,10760,12,Yes,5.1
+Sehore,Budhni,Sewas,Industrial,Government,13541.7,45325638,5.0,2,2,9898,6,No,2.3
+Sehore,Ichhawar,Doraha,Commercial,Cooperative,7334.8,7668827,7.5,2,3,768,5,Yes,4.5
+Sehore,Shyampur,Bilpank,Industrial,Private,1594.9,3371048,7.5,2,3,8178,6,No,0.5
+Sehore,Rehti,Rasuliya Kalan,Mixed-use,Private,6325.9,8023107,6.0,3,0,1117,2,No,17.6
+Sehore,Rehti,Gopalpur,Industrial,Government,13606.7,108911617,5.0,2,1,1465,10,Yes,13.3
+Sehore,Shyampur,Bamuliya Mal,Mixed-use,Institutional,8395.9,40493744,7.5,2,4,6820,2,Yes,4.7
+Sehore,Ichhawar,Dewas Naka,Commercial,Cooperative,247.0,365548,5.0,2,4,10960,5,Yes,6.1
+Sehore,Ichhawar,Karadiya,Commercial,Cooperative,12034.3,30198103,6.0,3,3,3558,2,Yes,7.8
+Sehore,Budhni,Patla,Commercial,Government,12928.9,19961603,7.5,2,4,2748,4,No,16.8
+Sehore,Rehti,Amlaha,Agricultural,Cooperative,970.3,4322656,6.0,3,0,3205,11,No,7.9
+Sehore,Jawar,Paraswada,Industrial,Cooperative,9718.9,68454502,5.0,2,4,8590,5,No,15.5
+Sehore,Sehore,Kalapipal Road,Residential,Cooperative,1069.7,1795750,5.0,2,2,4594,7,No,9.3
+Sehore,Rehti,Dewas Naka,Mixed-use,Institutional,13796.4,108205596,6.0,3,3,11329,10,Yes,9.4
+Sehore,Budhni,Doraha Mal,Industrial,Institutional,8028.5,47616498,5.0,3,5,4444,15,No,17.5
+Sehore,Jawar,Karadiya,Agricultural,Government,8524.9,32293222,6.0,2,2,8531,11,No,5.6
+Sehore,Sehore,Jetpura Kalan,Commercial,Government,12049.5,78401969,5.0,3,5,8942,9,No,4.2
+Sehore,Shyampur,Kherdi,Mixed-use,Government,1828.8,12402812,6.0,2,1,9849,13,No,3.7
+Sehore,Shyampur,Bhatkhedi,Commercial,Cooperative,7306.4,23131507,7.5,3,4,5643,3,No,12.2
+Sehore,Nasrullaganj,Bherunda,Industrial,Cooperative,128.7,323220,6.0,3,3,9071,10,No,10.3
+Sehore,Sehore,Bankheri,Agricultural,Private,14725.1,88717282,6.0,2,3,7212,7,No,2.5
+Sehore,Ichhawar,Bherunda,Agricultural,Private,692.2,1081382,5.0,3,1,1621,15,No,4.2
+Sehore,Ashta,Ashta,Residential,Institutional,14654.4,99013562,6.0,3,1,3826,4,No,18.6
+Sehore,Rehti,Chandpur,Commercial,Private,8341.4,29476358,5.0,2,3,3378,9,Yes,19.1
+Sehore,Budhni,Bagmau,Mixed-use,Institutional,12158.5,24274521,5.0,3,1,4015,8,Yes,17.8
+Sehore,Jawar,Mardikhurd,Residential,Private,3642.5,12632022,7.5,3,3,3546,4,Yes,17.0
+Sehore,Sehore,Ralayati,Industrial,Government,11108.3,45275255,7.5,3,0,8918,13,No,4.2
+Sehore,Shyampur,Jhal,Mixed-use,Institutional,4885.4,24389173,7.5,3,3,9987,4,No,3.0
+Sehore,Budhni,Kalapipal Road,Industrial,Government,11838.0,31454126,6.0,3,3,4541,4,No,18.0
+Sehore,Sehore,Kalapipal Road,Industrial,Private,10322.5,56840567,7.5,2,3,11732,13,Yes,7.8
+Sehore,Rehti,Rasuliya,Industrial,Private,7405.1,50306013,6.0,2,3,4226,6,Yes,5.5
+Sehore,Nasrullaganj,Borkhedi,Commercial,Government,3349.5,19038413,7.5,2,0,6299,6,Yes,15.2
+Sehore,Budhni,Harpura,Residential,Private,3815.8,19849910,6.0,3,1,4853,3,No,5.6
+Sehore,Ichhawar,Bilpank,Industrial,Institutional,2566.1,3936991,5.0,2,4,10775,13,Yes,5.8
+Sehore,Shyampur,Kalapipal,Commercial,Government,336.4,2923564,7.5,2,0,1713,5,Yes,10.7
+Sehore,Shyampur,Gunaur,Agricultural,Government,2358.6,19947154,5.0,2,2,2864,13,No,10.3
+Sehore,Ashta,Rampura,Mixed-use,Private,5955.6,13912342,6.0,2,1,4013,14,No,11.5
+Sehore,Nasrullaganj,Khejra Khurd,Commercial,Cooperative,2693.2,5060548,5.0,2,5,9978,13,Yes,1.4
+Sehore,Sehore,Chandbad,Residential,Institutional,6954.7,51400132,7.5,3,4,8921,12,No,17.8
+Sehore,Shyampur,Rasuliya Khurd,Mixed-use,Institutional,11812.9,66385841,7.5,3,2,8626,15,No,3.4
+Sehore,Shyampur,Paraswada,Residential,Government,1175.4,10528900,6.0,2,4,6806,7,No,6.1
+Sehore,Ashta,Karadiya,Industrial,Government,11274.6,30718363,7.5,2,3,9723,13,Yes,13.0
+Sehore,Nasrullaganj,Pipalkheda,Commercial,Government,324.4,913696,6.0,3,3,6591,8,No,7.5
+Sehore,Jawar,Khejra Khurd,Commercial,Cooperative,14397.5,42658757,5.0,2,2,6178,1,No,9.4
+Sehore,Sehore,Dhaturiya Khurd,Industrial,Private,9005.7,34565633,7.5,3,0,7905,2,No,6.7
+Sehore,Nasrullaganj,Rampura,Commercial,Private,14882.1,32257134,7.5,3,0,454,9,Yes,12.7
+Sehore,Rehti,Ichhawar,Industrial,Cooperative,5063.9,29894269,6.0,3,2,6078,1,Yes,17.7
+Sehore,Shyampur,Jhal,Mixed-use,Private,10021.5,53954934,7.5,2,1,6241,6,No,14.7
+Sehore,Nasrullaganj,Patla,Commercial,Government,1470.4,5986169,6.0,2,0,771,5,Yes,19.1
+Sehore,Jawar,Sonda Khurd,Mixed-use,Government,6310.4,48005592,5.0,3,4,9359,5,Yes,0.1
+Sehore,Budhni,Harpura,Residential,Institutional,10930.4,79749261,5.0,3,1,11070,8,Yes,1.7
+Sehore,Shyampur,Magarda,Mixed-use,Institutional,12770.9,110408867,6.0,3,5,10944,6,Yes,13.4
+Sehore,Nasrullaganj,Kalapipal Road,Commercial,Government,12238.8,54719515,6.0,3,4,4974,8,No,1.1
+Sehore,Nasrullaganj,Bamuliya,Residential,Government,8360.8,64845575,5.0,2,3,2560,15,Yes,14.0
+Sehore,Rehti,Sonda,Industrial,Cooperative,8533.3,28950724,5.0,2,4,7933,15,Yes,15.5
+Sehore,Ashta,Jhal,Industrial,Cooperative,2378.4,11381579,5.0,3,2,1987,5,Yes,9.8
+Sehore,Shyampur,Pipalkheda,Mixed-use,Government,6127.3,47765983,6.0,2,4,2751,6,Yes,12.0
+Sehore,Sehore,Bilkisganj,Residential,Private,1308.1,9025160,5.0,3,3,1562,15,Yes,19.8
+Sehore,Ashta,Gopalpur,Commercial,Private,2071.6,18374281,6.0,3,5,9421,2,Yes,3.4
+Sehore,Nasrullaganj,Dhodal,Residential,Private,14945.0,24790263,5.0,2,1,2834,15,No,16.5
+Sehore,Shyampur,Kachhi Barod,Agricultural,Institutional,9262.3,48244542,7.5,3,1,1114,8,No,3.2
+Sehore,Budhni,Dewas Naka,Mixed-use,Government,10360.4,13015459,6.0,2,5,7794,13,No,7.2
+Sehore,Nasrullaganj,Bairagarh,Industrial,Cooperative,12119.9,34917440,6.0,3,1,3993,8,Yes,14.1
+Sehore,Ashta,Bilkisganj,Residential,Private,2283.4,20518189,5.0,2,5,1253,5,No,13.8
+Sehore,Jawar,Borkhedi,Industrial,Cooperative,1909.5,11751995,7.5,3,5,3486,15,No,13.2
+Sehore,Rehti,Harpura,Industrial,Government,5228.7,7274677,6.0,3,1,8202,8,No,15.7
+Sehore,Rehti,Mogra,Commercial,Institutional,11199.6,74578991,7.5,3,4,11516,3,Yes,17.4
+Sehore,Ichhawar,Bamuliya,Industrial,Private,7344.5,65417100,5.0,2,1,3982,9,No,19.1
+Sehore,Jawar,Banet,Industrial,Private,11581.2,70092940,7.5,3,4,6161,6,Yes,2.2
+Sehore,Jawar,Ladkui,Commercial,Institutional,10230.9,80437307,7.5,3,4,6451,15,Yes,8.8
+Sehore,Ashta,Paraswada,Mixed-use,Institutional,8118.8,57206596,5.0,3,2,343,7,Yes,9.5
+Sehore,Sehore,Khejra Khurd,Mixed-use,Government,13852.5,106365276,5.0,3,2,4969,15,Yes,16.4
+Sehore,Nasrullaganj,Pipalkheda,Agricultural,Private,7998.7,10593104,6.0,2,3,86,7,Yes,19.2
+Sehore,Nasrullaganj,Mangrola,Mixed-use,Cooperative,323.8,2573681,7.5,3,4,10917,1,No,19.8
+Sehore,Jawar,Mangrola,Mixed-use,Institutional,11712.7,91849483,6.0,3,1,8980,11,Yes,0.4
+Sehore,Sehore,Bilkisganj,Agricultural,Government,14203.0,16553982,5.0,3,1,10821,5,No,8.4
+Sehore,Sehore,Pipalia,Commercial,Institutional,1536.3,12987775,6.0,2,0,2598,14,Yes,17.1
+Sehore,Ashta,Chandpur,Residential,Institutional,14479.9,27612678,6.0,3,0,8249,13,No,10.3
+Sehore,Shyampur,Jetpura Kalan,Mixed-use,Institutional,11799.6,45429315,5.0,3,1,6405,13,Yes,11.0
+Sehore,Nasrullaganj,Budhni,Mixed-use,Private,14882.5,34205001,6.0,2,4,11347,9,Yes,9.6
+Sehore,Rehti,Ichhawar,Agricultural,Cooperative,11906.6,53094059,7.5,3,1,2794,4,No,15.5
+Sehore,Budhni,Bilpank,Industrial,Cooperative,5858.2,35970631,5.0,2,0,7470,4,Yes,11.5
+Sehore,Ashta,Jetpura Kalan,Agricultural,Institutional,6279.8,48355420,6.0,3,0,2246,14,Yes,11.9
+Sehore,Budhni,Pipliya Khurd,Commercial,Cooperative,7455.6,66869913,7.5,3,0,10289,13,Yes,15.7
+Sehore,Rehti,Bagwada,Agricultural,Cooperative,4458.3,35083501,5.0,3,5,2293,12,No,16.3
+Sehore,Ichhawar,Mardikhurd,Agricultural,Cooperative,14721.1,129560938,6.0,2,3,5102,12,No,8.2
+Sehore,Ashta,Pathar,Agricultural,Government,10700.1,85130414,7.5,2,2,1907,2,No,15.4
+Sehore,Rehti,Bherunda,Commercial,Government,8766.8,14296116,5.0,3,2,9064,13,Yes,16.3
+Sehore,Nasrullaganj,Gunaur,Agricultural,Private,13438.3,94315572,5.0,3,3,1573,11,No,5.5
+Sehore,Ashta,Chandbad,Residential,Private,14238.8,81252773,5.0,3,0,7737,13,No,8.2
+Sehore,Budhni,Jetpura,Commercial,Government,1303.6,3059599,7.5,2,5,325,8,Yes,14.6
+Sehore,Ichhawar,Dhaturiya,Mixed-use,Government,14845.5,15473345,7.5,3,4,3122,8,Yes,1.3
+Sehore,Jawar,Bamuliya Kalan,Industrial,Government,12389.4,41401044,5.0,3,4,6792,15,No,5.5
+Sehore,Budhni,Sonda Khurd,Agricultural,Cooperative,101.7,194947,7.5,2,5,4194,12,Yes,11.6
+Sehore,Budhni,Jetpura Kalan,Commercial,Government,10689.1,30430213,5.0,2,5,1232,11,No,2.7
+Sehore,Jawar,Mardikhurd,Residential,Private,9805.6,66069074,7.5,2,3,1802,6,Yes,9.0
+Sehore,Ichhawar,Rasuliya Khurd,Residential,Institutional,4930.7,21147845,7.5,3,3,10914,4,Yes,4.2
+Sehore,Rehti,Salkanpur,Commercial,Cooperative,7374.6,23533673,5.0,3,0,7149,8,Yes,1.3
+Sehore,Ashta,Paraswada,Mixed-use,Institutional,3121.3,5878444,6.0,2,2,4626,3,No,15.4
+Sehore,Shyampur,Kukri,Residential,Cooperative,5269.8,32430350,6.0,2,5,4565,14,No,19.3
+Sehore,Nasrullaganj,Harpura,Industrial,Government,6616.9,13683047,5.0,3,3,3636,9,Yes,2.3
+Sehore,Rehti,Sewas,Agricultural,Private,4135.4,25913866,6.0,3,0,1081,10,Yes,4.9
+Sehore,Nasrullaganj,Bamuliya,Commercial,Government,9442.6,83280087,5.0,2,0,5413,13,No,11.4
+Sehore,Ashta,Borkhedi,Commercial,Government,1698.3,5860331,6.0,3,5,4505,10,Yes,12.6
+Sehore,Rehti,Pandharinath,Industrial,Cooperative,9399.3,76341646,6.0,2,2,5897,8,Yes,10.7
+Sehore,Shyampur,Bilpank,Industrial,Private,10370.8,18932303,5.0,2,3,768,4,No,8.3
+Sehore,Budhni,Kachhi Barod,Mixed-use,Cooperative,10799.0,29868493,5.0,2,2,1636,1,No,0.3
+Sehore,Sehore,Bherunda,Agricultural,Cooperative,13405.1,23430287,5.0,2,0,4151,13,Yes,1.0
+Sehore,Nasrullaganj,Bijepur,Commercial,Private,13899.3,68334457,5.0,3,2,1689,2,Yes,18.5
+Sehore,Nasrullaganj,Sehore City,Industrial,Institutional,14025.1,98549036,7.5,2,0,1647,11,Yes,13.4
+Sehore,Jawar,Bhopal Pura,Commercial,Government,11083.1,76024766,5.0,2,1,2222,5,No,1.3
+Sehore,Shyampur,Amlaha,Mixed-use,Government,549.8,3741912,7.5,2,2,10324,13,No,16.7
+Sehore,Sehore,Kothrikalan,Residential,Government,7148.1,7584008,6.0,2,4,2918,11,No,2.3
+Sehore,Ichhawar,Ladkui,Residential,Government,6272.6,28082102,7.5,2,2,11743,9,No,17.7
+Sehore,Ichhawar,Kalapipal Road,Mixed-use,Government,14308.0,62942187,7.5,3,2,5222,5,Yes,18.5
+Sehore,Ashta,Bankheri,Industrial,Institutional,5682.8,30025539,5.0,2,5,2127,15,Yes,4.7
+Sehore,Budhni,Harpura Mal,Industrial,Cooperative,13647.2,77042520,7.5,2,0,8536,3,Yes,16.0
+Sehore,Jawar,Jawar,Mixed-use,Private,3683.1,19955840,6.0,2,2,4328,6,Yes,16.6
+Sehore,Ashta,Kalapipal,Industrial,Government,2164.5,15844627,7.5,2,4,2471,10,No,1.5
+Sehore,Budhni,Harpura Khurd,Industrial,Government,10245.6,91616310,6.0,2,0,238,13,Yes,15.5
+Sehore,Ashta,Ichhawar,Residential,Institutional,2540.7,17626321,7.5,2,0,11321,4,No,19.1
+Sehore,Budhni,Ralayati,Mixed-use,Institutional,934.1,5648286,7.5,2,5,2503,6,No,7.6
+Sehore,Budhni,Rampura,Agricultural,Institutional,3971.2,6672901,5.0,3,2,8096,9,Yes,3.1
+Sehore,Nasrullaganj,Rampura,Mixed-use,Private,4766.6,22646093,7.5,3,3,480,1,Yes,0.2
+Sehore,Nasrullaganj,Bagwada,Industrial,Institutional,9579.1,16375552,7.5,3,4,2506,7,No,11.3
+Sehore,Jawar,Sonda,Commercial,Institutional,7714.3,68852753,6.0,2,2,5131,14,Yes,15.7
+Sehore,Sehore,Shyampur,Mixed-use,Private,9405.3,13395910,5.0,2,3,9914,14,No,12.4
+Sehore,Ashta,Bamuliya Khurd,Mixed-use,Government,1956.4,2906612,5.0,2,3,4192,14,Yes,17.8
+Sehore,Ashta,Jetpura,Agricultural,Government,8248.4,39502694,5.0,2,3,11816,13,Yes,10.6
+Sehore,Budhni,Ladkheda,Agricultural,Government,2390.5,3643706,7.5,3,4,11156,5,Yes,10.5
+Sehore,Nasrullaganj,Sonda,Agricultural,Government,389.0,3125836,7.5,2,2,11883,12,No,4.4
+Sehore,Nasrullaganj,Bamuliya,Residential,Cooperative,13111.8,99338869,6.0,3,1,5861,13,No,15.2
+Sehore,Ashta,Banet,Industrial,Government,10839.2,42840647,7.5,2,2,3190,14,Yes,13.4
+Sehore,Shyampur,Pachama,Agricultural,Cooperative,11898.0,94049805,7.5,2,1,1835,6,Yes,11.2
+Sehore,Ichhawar,Mardikhurd,Agricultural,Government,7028.0,53792501,5.0,3,0,4796,11,Yes,19.9
+Sehore,Nasrullaganj,Chandpur,Commercial,Government,3197.3,22765964,6.0,2,4,4272,10,No,17.7
+Sehore,Budhni,Pipalkheda,Commercial,Government,12104.7,20825664,7.5,3,4,7692,12,Yes,10.9
+Sehore,Jawar,Chandpur,Mixed-use,Private,9492.6,24528131,5.0,2,3,10601,6,Yes,0.9
+Sehore,Sehore,Rehti,Residential,Private,13778.5,81224276,7.5,3,2,6428,2,No,19.2
+Sehore,Sehore,Gunaur,Mixed-use,Private,239.2,592888,5.0,2,4,1798,6,No,2.3
+Sehore,Ichhawar,Kalapipal Road,Mixed-use,Private,3726.2,14973097,6.0,3,2,11998,5,Yes,19.2
+Sehore,Sehore,Sehore City,Mixed-use,Government,5925.1,34827388,6.0,2,0,1299,5,Yes,16.2
+Sehore,Nasrullaganj,Kachhi Barod,Mixed-use,Institutional,3449.6,14405589,6.0,3,0,9660,3,No,4.0
+Sehore,Ichhawar,Ladkui,Mixed-use,Government,1176.6,5424521,6.0,3,3,1307,2,No,18.7
+Sehore,Nasrullaganj,Paraswada,Mixed-use,Cooperative,14114.8,18953741,6.0,2,2,3943,8,No,8.6
+Sehore,Ashta,Sewas,Residential,Private,11215.4,49483779,5.0,2,1,957,9,Yes,7.3
+Sehore,Sehore,Kachnariya Kalan,Residential,Private,5843.4,37860936,5.0,3,5,3537,2,Yes,15.4
+Sehore,Nasrullaganj,Magarda,Agricultural,Private,12275.6,62269289,5.0,3,4,1832,8,No,8.5
+Sehore,Ichhawar,Bamuliya Khurd,Commercial,Institutional,4412.8,38413567,5.0,2,2,9135,1,No,15.6
+Sehore,Rehti,Dewas Naka,Commercial,Cooperative,12953.5,107537291,7.5,2,3,805,4,Yes,12.9
+Sehore,Budhni,Jawar,Residential,Institutional,6816.9,44662538,7.5,2,4,6083,10,Yes,16.1
+Sehore,Nasrullaganj,Bagmau,Commercial,Private,10742.6,49683059,6.0,2,3,9845,12,No,15.4
+Sehore,Sehore,Bamuliya Mal,Agricultural,Cooperative,1417.6,7339907,5.0,3,4,6343,11,Yes,3.0
+Sehore,Budhni,Bairagarh,Residential,Institutional,8576.7,62939156,5.0,2,1,1825,3,Yes,6.0
+Sehore,Ichhawar,Jhal,Industrial,Private,6164.7,40671119,7.5,3,1,6570,11,Yes,9.2
+Sehore,Sehore,Ichhawar,Industrial,Government,11259.2,39137137,7.5,2,4,9990,4,No,13.4
+Sehore,Rehti,Dhaturiya Khurd,Commercial,Government,9886.3,54268138,5.0,3,0,5697,7,Yes,19.6
+Sehore,Sehore,Magarda,Residential,Government,6141.0,43630836,7.5,2,3,10878,5,Yes,15.7
+Sehore,Sehore,Bagmau,Industrial,Institutional,6151.3,9734022,5.0,2,4,7945,13,No,2.1
+Sehore,Ichhawar,Salkanpur,Mixed-use,Institutional,8606.9,76117641,5.0,3,1,4425,7,Yes,4.9
+Sehore,Nasrullaganj,Pipliya,Agricultural,Private,12831.2,98290068,5.0,3,1,66,1,No,12.0
+Sehore,Sehore,Kothri,Residential,Private,12519.0,88960411,7.5,2,0,1380,11,Yes,16.3
+Sehore,Rehti,Ichhawar,Residential,Private,5677.9,8220975,7.5,3,0,4851,11,Yes,17.2
+Sehore,Rehti,Jawar,Industrial,Cooperative,11622.9,91857963,7.5,2,4,7313,11,No,12.6
+Sehore,Ashta,Bhatkhedi,Commercial,Institutional,4110.2,33562857,6.0,3,4,4662,7,Yes,1.3
+Sehore,Shyampur,Chandbad,Industrial,Cooperative,10097.2,58265853,6.0,2,4,1558,12,No,14.5
+Sehore,Shyampur,Badiyakhedi,Residential,Government,8516.1,72045195,5.0,3,0,6559,15,No,1.4
+Sehore,Jawar,Bankheri,Commercial,Cooperative,3543.1,30109028,6.0,3,5,2855,4,No,18.3
+Sehore,Sehore,Kachhi Barod,Industrial,Private,7006.7,18493038,5.0,2,0,9928,3,Yes,7.7
+Sehore,Jawar,Kalapipal,Commercial,Institutional,2054.8,10204105,7.5,3,3,2036,4,Yes,9.0
+Sehore,Nasrullaganj,Kankariya,Agricultural,Private,10911.7,25637570,7.5,3,0,2357,14,No,6.0
+Sehore,Ashta,Pandharinath,Industrial,Institutional,4328.6,6160468,6.0,2,5,4148,14,Yes,8.0
+Sehore,Budhni,Patla,Industrial,Cooperative,10035.8,23710035,5.0,2,0,2695,11,Yes,17.6
+Sehore,Ichhawar,Kachhi Barod,Commercial,Institutional,7829.8,68819457,5.0,3,5,8099,13,No,4.8
+Sehore,Sehore,Bilpank,Mixed-use,Government,13159.5,102441557,5.0,3,3,527,6,Yes,11.5
+Sehore,Shyampur,Budhni,Industrial,Cooperative,6089.5,51254368,5.0,3,3,11520,1,No,17.2
+Sehore,Shyampur,Chandpur,Industrial,Government,12912.7,14509932,5.0,3,4,2403,2,Yes,3.7
+Sehore,Rehti,Harpura Khurd,Commercial,Private,14882.9,95696705,7.5,3,0,5539,9,No,18.7
+Sehore,Nasrullaganj,Ladkheda,Mixed-use,Government,11008.7,57054786,5.0,2,4,2323,6,No,19.4
+Sehore,Ashta,Harpura Mal,Mixed-use,Institutional,3589.5,21492117,7.5,3,4,314,3,Yes,17.9
+Sehore,Ashta,Dhodal,Residential,Government,9961.7,53178131,7.5,3,4,4831,11,Yes,6.0
+Sehore,Rehti,Bamuliya Kalan,Mixed-use,Private,9737.3,31826633,6.0,3,0,11441,11,No,1.9
+Sehore,Ichhawar,Chandpur,Mixed-use,Cooperative,6757.9,32578562,7.5,2,0,10135,8,No,7.7
+Sehore,Budhni,Bamuliya Kalan,Residential,Cooperative,7463.9,39242040,6.0,2,4,9464,15,No,10.2
+Sehore,Ichhawar,Paraswada,Agricultural,Government,7449.1,52129665,7.5,3,5,8641,1,No,12.9
+Sehore,Jawar,Bhatkhedi,Residential,Institutional,13254.7,83618082,6.0,3,3,11972,10,No,13.7
+Sehore,Ashta,Ichhawar,Residential,Government,4251.6,22678718,7.5,3,2,4446,5,Yes,18.7
+Sehore,Sehore,Paraswada,Mixed-use,Cooperative,3005.9,11495041,7.5,3,1,10507,4,Yes,13.7
+Sehore,Nasrullaganj,Pipalkheda,Commercial,Government,8229.0,67577726,7.5,2,2,6683,3,No,1.7
+Sehore,Rehti,Banet,Mixed-use,Institutional,10858.5,91833471,5.0,3,3,2797,10,Yes,8.1
+Sehore,Jawar,Doraha Mal,Commercial,Institutional,7983.7,57909454,6.0,2,1,8315,2,No,7.4
+Sehore,Ashta,Rasuliya Khurd,Industrial,Institutional,14347.4,123339097,7.5,3,0,10042,6,No,15.5
+Sehore,Nasrullaganj,Jetpura,Commercial,Private,2976.9,17935888,5.0,2,0,7934,10,No,3.4
+Sehore,Jawar,Sewas,Agricultural,Government,4095.5,5330393,6.0,2,3,5089,2,No,5.9
+Sehore,Budhni,Harpura Khurd,Agricultural,Government,1679.8,11475486,6.0,2,3,7846,12,Yes,4.8
+Sehore,Sehore,Mogra,Agricultural,Private,319.6,1906787,5.0,2,2,1477,1,No,3.6
+Sehore,Sehore,Bamuliya Kalan,Mixed-use,Private,10465.5,54313517,7.5,2,4,2206,13,No,0.2
+Sehore,Rehti,Paraswada,Commercial,Institutional,6080.7,49384296,6.0,3,3,1006,6,No,15.9
+Sehore,Shyampur,Mangrola,Industrial,Institutional,4535.9,10617267,6.0,3,4,5576,12,No,10.9
+Sehore,Rehti,Pipliya Khurd,Industrial,Institutional,11965.3,42340629,7.5,3,1,8275,3,No,19.2
+Sehore,Budhni,Bilkisganj,Industrial,Institutional,458.9,3882568,5.0,2,0,2604,13,No,7.5
+Sehore,Jawar,Pipliya Khurd,Commercial,Private,14380.2,29465363,5.0,3,2,1184,4,Yes,6.5
+Sehore,Shyampur,Rehti,Mixed-use,Government,9530.6,41986702,7.5,2,5,1694,5,No,5.8
+Sehore,Sehore,Badiyakhedi,Mixed-use,Cooperative,2229.6,19408138,7.5,2,3,7406,15,No,14.4
+Sehore,Nasrullaganj,Rasuliya Khurd,Industrial,Government,11223.7,22872694,7.5,2,2,4767,4,Yes,10.6
+Sehore,Ichhawar,Bijepur,Residential,Government,2921.1,4391362,5.0,2,5,166,11,No,12.5
+Sehore,Ashta,Pachama,Residential,Private,7832.3,33858594,6.0,2,1,11806,9,No,7.0
+Sehore,Ichhawar,Gopalpur,Industrial,Private,10004.1,24165197,5.0,3,3,7656,6,No,15.0
+Sehore,Rehti,Harpura Mal,Agricultural,Cooperative,2104.1,4709059,7.5,2,2,2383,10,Yes,10.3
+Sehore,Shyampur,Pachama,Mixed-use,Government,10965.0,45394711,7.5,2,5,7251,2,No,3.6
+Sehore,Shyampur,Banet Mal,Commercial,Government,6688.0,45060767,5.0,2,0,5388,3,Yes,3.2
+Sehore,Jawar,Sonda,Commercial,Private,11013.5,81447296,7.5,2,5,5017,4,Yes,4.8
+Sehore,Ichhawar,Harpura Khurd,Agricultural,Government,11857.1,93025967,7.5,2,2,9158,5,No,8.4
+Sehore,Shyampur,Rasuliya Khurd,Industrial,Cooperative,3345.5,24977284,6.0,2,0,9405,6,No,17.3
+Sehore,Shyampur,Bamuliya Kalan,Residential,Government,13407.6,78151015,7.5,3,0,3110,10,Yes,8.9
+Sehore,Ichhawar,Nasrullaganj,Agricultural,Government,10027.5,57830260,7.5,3,5,1893,4,No,14.2
+Sehore,Rehti,Chandbad,Mixed-use,Government,2029.6,2485503,7.5,2,1,6018,7,Yes,11.0
+Sehore,Ichhawar,Rehti,Residential,Institutional,11434.1,56159307,7.5,3,4,8298,9,No,7.1
+Sehore,Jawar,Doraha Mal,Agricultural,Institutional,2835.1,17292457,6.0,2,0,3359,1,No,19.6
+Sehore,Jawar,Badiyakhedi,Residential,Institutional,1713.5,2623827,5.0,2,5,9397,15,Yes,0.6
+Sehore,Ichhawar,Rasuliya Khurd,Mixed-use,Government,11706.0,80047206,7.5,3,5,443,2,No,4.1
+Sehore,Nasrullaganj,Dhaturiya Khurd,Mixed-use,Government,925.8,7023113,5.0,3,3,1404,4,No,1.9
+Sehore,Budhni,Patla,Industrial,Private,9528.7,65310124,5.0,2,1,1984,14,No,8.3
+Sehore,Ichhawar,Jawar,Residential,Private,1809.7,7348570,5.0,2,1,735,2,Yes,9.0
+Sehore,Rehti,Bamuliya Mal,Mixed-use,Cooperative,13991.4,36148330,7.5,2,0,4860,10,Yes,8.7
+Sehore,Rehti,Pipalia,Mixed-use,Private,9932.2,46112682,7.5,3,4,1747,3,No,3.6
+Sehore,Budhni,Pathar,Residential,Cooperative,9410.2,19995637,6.0,2,4,10944,6,Yes,3.1
+Sehore,Nasrullaganj,Pachama,Commercial,Private,12612.7,72286029,7.5,3,2,11872,7,Yes,16.2
+Sehore,Ashta,Ladkui,Mixed-use,Institutional,1992.8,13065763,6.0,2,0,3799,8,Yes,2.9
+Sehore,Jawar,Kalapipal,Agricultural,Institutional,8131.4,33330202,5.0,2,0,4299,2,Yes,0.6
+Sehore,Shyampur,Jawar,Industrial,Private,5478.4,12576384,5.0,3,2,1038,3,Yes,8.9
+Sehore,Budhni,Jhal,Industrial,Private,6232.1,12712866,6.0,2,2,5283,5,Yes,16.6
+Sehore,Ashta,Amlaha,Agricultural,Private,3805.5,7601705,7.5,3,3,8182,10,No,7.4
+Sehore,Nasrullaganj,Bamuliya Khurd,Residential,Institutional,6686.8,42906172,6.0,3,2,7015,14,Yes,18.9
+Sehore,Nasrullaganj,Borkhedi,Residential,Government,12564.6,37804324,6.0,2,0,772,9,Yes,15.4
+Sehore,Budhni,Rehti,Commercial,Private,12107.0,83459175,6.0,2,0,7411,7,No,15.3
+Sehore,Budhni,Jamuniya,Commercial,Cooperative,7782.9,41677282,7.5,2,5,11030,6,No,2.2
+Sehore,Ashta,Kachhi Barod,Agricultural,Private,6994.8,17933870,5.0,3,3,1715,4,Yes,9.3
+Sehore,Jawar,Dhodal,Residential,Private,12209.9,40314677,7.5,3,3,4969,4,No,3.6
+Sehore,Jawar,Ichhawar,Residential,Cooperative,2791.3,14664188,7.5,3,3,7028,12,No,12.0
+Sehore,Shyampur,Ichhawar,Commercial,Private,8454.0,31027039,7.5,2,4,6645,3,No,18.4
+Sehore,Sehore,Pipalkheda,Industrial,Government,1257.7,7145217,7.5,2,1,11510,14,No,0.5
+Sehore,Ashta,Khejra,Industrial,Cooperative,6429.4,22405239,6.0,2,0,1958,1,No,11.8
+Sehore,Shyampur,Bherunda,Agricultural,Private,373.1,2328452,7.5,2,4,9094,2,No,11.5
+Sehore,Rehti,Bagwada,Residential,Institutional,11784.1,15771550,7.5,2,4,4926,11,No,18.6
+Sehore,Sehore,Kachnariya Kalan,Mixed-use,Cooperative,9612.1,59443296,5.0,3,4,7242,11,Yes,16.3
+Sehore,Sehore,Kachnariya Kalan,Mixed-use,Institutional,1602.7,13245684,5.0,2,1,7995,5,Yes,9.8
+Sehore,Nasrullaganj,Bagwada,Commercial,Government,11452.0,51478453,5.0,3,4,9363,15,Yes,19.9
+Sehore,Shyampur,Ashta,Residential,Institutional,2543.9,11310932,7.5,2,0,3561,8,Yes,10.4
+Sehore,Ichhawar,Kachhi Barod,Residential,Cooperative,899.4,2038821,7.5,2,5,10870,11,No,2.0
+Sehore,Budhni,Chandpur,Agricultural,Cooperative,13520.4,110591121,5.0,3,0,8856,9,No,18.6
+Sehore,Ashta,Doraha,Mixed-use,Cooperative,13420.9,46072777,5.0,2,0,7443,15,No,10.5
+Sehore,Jawar,Bagmau,Industrial,Institutional,6610.0,7219919,5.0,2,0,4301,9,Yes,8.4
+Sehore,Rehti,Gopalpur,Residential,Government,12644.4,51108655,5.0,3,4,6656,2,Yes,18.7
+Sehore,Shyampur,Jetpura Khurd,Mixed-use,Institutional,11888.6,68944532,6.0,2,3,11948,13,No,11.6
+Sehore,Shyampur,Jetpura Kalan,Residential,Institutional,723.6,2776547,7.5,2,2,1498,13,No,2.3
+Sehore,Sehore,Shyampur,Industrial,Government,2721.3,8906651,7.5,2,2,11893,7,No,2.2
+Sehore,Shyampur,Kherdi,Industrial,Government,4449.3,6057013,7.5,3,5,10530,5,No,7.7
+Sehore,Jawar,Jetpura,Mixed-use,Cooperative,462.3,2137896,6.0,2,0,7323,1,Yes,11.3
+Sehore,Budhni,Badiyakhedi,Commercial,Government,14719.9,56591699,5.0,3,2,8940,9,Yes,0.1
+Sehore,Jawar,Khejra,Mixed-use,Cooperative,8027.9,40255666,7.5,2,3,2302,5,No,9.6
+Sehore,Shyampur,Kachnariya Kalan,Mixed-use,Private,6419.7,38427762,5.0,2,2,1260,4,Yes,11.8
+Sehore,Jawar,Harpura Kalan,Mixed-use,Government,14978.8,119606652,7.5,3,0,3861,4,No,14.4
+Sehore,Ashta,Magarda,Commercial,Government,733.4,2226676,7.5,2,3,5496,13,Yes,18.2
+Sehore,Rehti,Mardikhurd,Agricultural,Cooperative,2238.1,4468489,5.0,3,2,10704,1,Yes,14.0
+Sehore,Nasrullaganj,Ichhawar,Mixed-use,Cooperative,6078.8,9151249,7.5,3,5,1120,13,Yes,14.0
+Sehore,Ashta,Bijepur,Mixed-use,Private,13005.2,61043814,7.5,2,0,4498,2,No,5.5
+Sehore,Budhni,Amlaha,Agricultural,Government,13793.2,82934660,6.0,3,4,10915,9,Yes,14.0
+Sehore,Sehore,Bamuliya Khurd,Mixed-use,Cooperative,4729.3,23900868,7.5,3,5,1529,6,No,11.8
+Sehore,Rehti,Bamuliya Mal,Residential,Private,1931.8,4014554,7.5,2,0,11313,13,No,19.9
+Sehore,Jawar,Pachama,Residential,Institutional,1771.8,8497281,6.0,2,1,9814,9,No,4.2
+Sehore,Rehti,Bagwada,Industrial,Government,1572.1,8857449,6.0,3,4,964,7,No,0.3
+Sehore,Ashta,Kalapipal Road,Mixed-use,Institutional,12120.3,41084266,7.5,3,1,819,5,No,20.0
+Sehore,Nasrullaganj,Harpura Mal,Mixed-use,Cooperative,6515.6,27910761,6.0,3,2,2701,1,No,6.4
+Sehore,Rehti,Jamuniya,Industrial,Institutional,8099.8,9990890,6.0,3,2,3666,4,Yes,8.6
+Sehore,Jawar,Bhatkhedi,Agricultural,Cooperative,13148.2,95537883,7.5,2,3,5563,12,No,1.2
+Sehore,Sehore,Ladkheda Khurd,Agricultural,Institutional,3495.2,4996712,7.5,3,1,3109,2,Yes,3.1
+Sehore,Ichhawar,Mogra,Industrial,Cooperative,10433.7,49993986,6.0,2,2,10097,2,No,0.7
+Sehore,Budhni,Bhopal Pura,Agricultural,Private,1457.1,12073168,7.5,3,4,8521,11,No,19.9
+Sehore,Ashta,Mangrola,Residential,Private,7160.8,36736071,6.0,3,5,8152,9,Yes,4.0
+Sehore,Budhni,Bhopal Pura,Mixed-use,Institutional,6705.8,48850062,5.0,3,3,2260,12,No,15.9
+Sehore,Ichhawar,Rasuliya Kalan,Industrial,Private,2277.3,4297861,5.0,2,1,8713,5,Yes,14.7
+Sehore,Shyampur,Magarda,Commercial,Cooperative,5238.1,29909224,6.0,2,3,9128,6,Yes,7.4
+Sehore,Nasrullaganj,Pipliya,Commercial,Institutional,1988.5,12674685,7.5,2,4,5363,15,No,7.3
+Sehore,Nasrullaganj,Jawar,Residential,Cooperative,3876.6,24122415,6.0,3,2,2436,14,Yes,16.9
+Sehore,Budhni,Barkheda,Commercial,Government,2380.1,15954767,6.0,3,4,10122,13,No,13.7
+Sehore,Budhni,Mogra,Industrial,Cooperative,11481.2,33791119,6.0,2,3,2830,1,Yes,17.4
+Sehore,Sehore,Banet Mal,Commercial,Private,13474.3,51593654,5.0,2,0,9990,13,No,19.3
+Sehore,Ashta,Bamuliya,Agricultural,Government,575.3,3377613,5.0,3,5,8984,9,Yes,5.4
+Sehore,Jawar,Dhodal,Commercial,Institutional,256.3,2015212,7.5,2,4,1182,12,No,8.9
+Sehore,Nasrullaganj,Pipliya,Residential,Cooperative,5232.5,12442884,6.0,3,5,5939,5,No,8.6
+Sehore,Jawar,Mangrola,Agricultural,Private,7168.7,42699133,6.0,2,0,10565,11,No,4.9
+Sehore,Budhni,Patla,Mixed-use,Cooperative,14408.3,73481446,6.0,3,4,9354,10,No,19.8
+Sehore,Ichhawar,Doraha Mal,Mixed-use,Private,4646.6,41272358,6.0,2,3,1764,5,No,13.7
+Sehore,Nasrullaganj,Pachama,Commercial,Private,12168.5,96067668,7.5,3,5,4189,3,No,2.7
+Sehore,Jawar,Harpura Mal,Commercial,Cooperative,2508.0,7232386,7.5,2,1,1896,11,No,0.7
+Sehore,Ichhawar,Bilpank,Commercial,Government,7794.9,39890179,5.0,2,1,2437,2,Yes,16.3
+Sehore,Ashta,Banet,Commercial,Government,13343.3,15080859,7.5,3,3,7160,7,Yes,1.0
+Sehore,Ashta,Pipliya,Mixed-use,Cooperative,10745.8,21208144,7.5,2,2,3152,6,No,16.0
+Sehore,Nasrullaganj,Nasrullaganj,Commercial,Institutional,13934.1,86377558,7.5,2,4,8411,13,Yes,15.7
+Sehore,Nasrullaganj,Sonda Khurd,Mixed-use,Government,2989.2,10386394,7.5,3,5,1650,1,Yes,4.1
+Sehore,Ashta,Paraswada,Industrial,Government,132.3,997404,6.0,3,5,9689,7,No,16.7
+Sehore,Rehti,Budhni,Residential,Cooperative,6538.1,53449584,6.0,3,2,1557,2,Yes,18.1
+Sehore,Sehore,Bhatkhedi,Agricultural,Private,10657.7,70688658,5.0,3,0,7373,9,No,2.1
+Sehore,Nasrullaganj,Bamuliya Khurd,Industrial,Private,7880.1,8828511,7.5,2,3,6926,9,Yes,6.0
+Sehore,Ichhawar,Pachama,Mixed-use,Cooperative,2456.8,14385709,5.0,2,4,7151,9,Yes,9.5
+Sehore,Shyampur,Bamuliya Kalan,Residential,Institutional,537.1,3986789,6.0,2,2,7480,14,Yes,11.4
+Sehore,Sehore,Budhni,Mixed-use,Government,1967.4,16813684,5.0,3,5,5923,8,Yes,7.7
+Sehore,Nasrullaganj,Bilkisganj,Mixed-use,Private,11434.9,101121007,7.5,3,1,1243,13,No,7.3
+Sehore,Rehti,Bherunda,Industrial,Cooperative,6897.2,45856246,7.5,2,3,4912,7,Yes,15.7
+Sehore,Budhni,Bijepur,Mixed-use,Government,4262.5,25014112,7.5,3,1,7189,5,Yes,3.3
+Sehore,Shyampur,Dhodal,Mixed-use,Private,6783.2,50801434,6.0,3,2,2210,2,No,13.7
+Sehore,Rehti,Jamuniya,Residential,Institutional,6572.0,33164815,5.0,2,1,6065,8,Yes,14.2
+Sehore,Ashta,Jawar,Residential,Cooperative,3355.8,22259068,6.0,3,2,915,8,Yes,4.3
+Sehore,Ichhawar,Mardikhurd,Industrial,Government,7586.2,63392859,7.5,3,5,4637,1,Yes,1.9
+Sehore,Ichhawar,Harpura,Agricultural,Cooperative,3666.3,7662559,6.0,2,3,8934,15,No,0.2
+Sehore,Budhni,Nasrullaganj,Agricultural,Private,1444.7,8082934,5.0,2,3,1839,14,Yes,6.4
+Sehore,Sehore,Bilkisganj,Residential,Institutional,3473.0,26170874,6.0,2,4,2280,4,Yes,0.8
+Sehore,Budhni,Jhal,Mixed-use,Institutional,10232.8,10609653,6.0,3,5,10759,2,No,11.3
+Sehore,Rehti,Bairagarh,Commercial,Government,11977.9,61988313,6.0,2,3,5696,3,No,5.7
+Sehore,Shyampur,Barkheda,Industrial,Private,14393.3,105708026,7.5,2,3,3362,13,No,16.2
+Sehore,Budhni,Ladkui,Residential,Private,3926.6,5352865,6.0,3,1,11266,3,Yes,9.4
+Sehore,Nasrullaganj,Ladkui,Agricultural,Cooperative,3900.0,27734956,5.0,3,1,6942,9,Yes,8.2
+Sehore,Nasrullaganj,Bijepur,Industrial,Private,11200.4,51325130,7.5,2,5,4168,15,No,18.6
+Sehore,Jawar,Gunaur,Agricultural,Government,4823.4,13615552,7.5,3,3,2309,9,Yes,6.7
+Sehore,Ashta,Mogra,Industrial,Institutional,10593.9,43941255,6.0,3,2,1361,6,No,3.3
+Sehore,Ichhawar,Ashta,Mixed-use,Private,8149.4,29879384,6.0,2,0,8133,11,No,14.6
+Sehore,Budhni,Bilpank,Residential,Private,14952.0,70298289,7.5,3,0,9897,11,Yes,2.9
+Sehore,Nasrullaganj,Ralayati,Industrial,Private,10326.1,24960051,7.5,2,3,11798,10,No,18.4
+Sehore,Rehti,Khejra,Residential,Government,14973.3,121938819,7.5,2,1,7221,15,No,15.7
+Sehore,Rehti,Nasrullaganj,Residential,Government,12910.2,91357383,7.5,2,0,5284,2,No,4.4
+Sehore,Ichhawar,Kachnariya,Mixed-use,Institutional,6647.1,54006187,6.0,2,3,4678,1,No,2.1
+Sehore,Shyampur,Salkanpur,Commercial,Cooperative,8956.8,12504945,6.0,3,5,509,15,Yes,13.4
+Sehore,Budhni,Jawar,Residential,Cooperative,4374.7,28086919,5.0,3,5,249,4,Yes,0.2
+Sehore,Rehti,Paraswada,Residential,Government,6471.9,32695122,7.5,3,0,1229,9,No,12.6
+Sehore,Budhni,Amlaha,Agricultural,Government,14400.9,55780351,5.0,3,5,9341,6,Yes,1.0
+Sehore,Sehore,Doraha,Residential,Private,6160.8,30157992,7.5,2,5,364,7,No,18.9
+Sehore,Ashta,Doraha,Mixed-use,Cooperative,10779.6,51957728,5.0,2,3,8257,5,Yes,14.4
+Sehore,Jawar,Bamuliya Mal,Commercial,Institutional,4656.8,30693501,6.0,2,0,95,7,No,9.2
+Sehore,Ichhawar,Dhodal,Agricultural,Private,3332.1,20202738,5.0,2,3,3531,7,No,5.2
+Sehore,Sehore,Banet,Agricultural,Private,6933.9,21066362,7.5,2,5,3110,11,Yes,4.5
+Sehore,Jawar,Kankariya,Agricultural,Private,1120.6,7729708,5.0,2,5,6960,14,Yes,7.2
+Sehore,Ashta,Rasuliya Kalan,Mixed-use,Cooperative,7695.7,22654646,5.0,2,0,6341,7,No,4.5
+Sehore,Ichhawar,Bamuliya Kalan,Residential,Institutional,13454.1,49458535,6.0,3,4,9167,13,No,6.5
+Sehore,Ichhawar,Kurawar,Commercial,Cooperative,4730.3,19687181,5.0,2,3,11044,13,Yes,16.0
+Sehore,Ichhawar,Paraswada,Agricultural,Institutional,7848.3,12729169,6.0,3,0,11435,10,Yes,0.1
+Sehore,Shyampur,Barkheda,Residential,Institutional,12640.5,35459108,7.5,2,1,3147,7,Yes,2.1
+Sehore,Ichhawar,Kothri,Agricultural,Private,7872.0,65171395,7.5,2,5,6047,10,Yes,8.7
+Sehore,Budhni,Rampura,Industrial,Government,8070.1,29524670,7.5,2,5,9692,15,No,11.4
+Sehore,Shyampur,Doraha Mal,Industrial,Government,10583.3,18558568,7.5,2,5,874,13,No,18.4
+Sehore,Shyampur,Mangrola,Mixed-use,Government,1082.2,9558765,7.5,2,4,9583,8,Yes,16.1
+Sehore,Nasrullaganj,Dhodal,Agricultural,Private,9887.8,88628617,5.0,2,5,7861,3,Yes,1.2
+Sehore,Jawar,Bamuliya Kalan,Agricultural,Government,9409.1,72539092,5.0,2,5,2597,1,No,1.9
+Sehore,Nasrullaganj,Jamuniya,Agricultural,Government,10988.6,92265100,7.5,2,0,6955,6,Yes,14.1
+Sehore,Ichhawar,Ladkheda Khurd,Residential,Government,618.8,1647778,5.0,3,5,11451,3,Yes,17.1
+Sehore,Ichhawar,Ralayati,Industrial,Institutional,12769.3,25762534,5.0,2,2,11811,4,Yes,18.0
+Sehore,Ichhawar,Rampura,Residential,Cooperative,5085.1,6998515,6.0,3,1,97,11,Yes,7.0
+Sehore,Jawar,Ralayati,Industrial,Cooperative,5389.4,44326451,5.0,2,1,1213,11,Yes,13.1
+Sehore,Budhni,Sonda Khurd,Residential,Cooperative,4534.2,35917724,5.0,2,4,8748,4,Yes,18.9
+Sehore,Ashta,Jetpura,Commercial,Institutional,1077.9,4415935,5.0,2,4,1379,13,Yes,18.8
+Sehore,Sehore,Jamuniya,Residential,Private,5554.0,30310624,6.0,3,3,7594,13,Yes,7.7
+Sehore,Sehore,Kothrikalan,Residential,Cooperative,5481.8,8132560,7.5,3,2,4973,11,Yes,8.9
+Sehore,Sehore,Pipalkheda,Commercial,Institutional,9101.5,22831259,5.0,3,2,189,5,No,3.4
+Sehore,Jawar,Paraswada,Commercial,Cooperative,2089.6,16834891,5.0,2,2,2456,5,Yes,15.7
+Sehore,Ichhawar,Magarda,Mixed-use,Institutional,4057.0,8967774,7.5,2,4,8127,10,Yes,14.8
+Sehore,Sehore,Patla,Commercial,Institutional,13619.0,91107382,7.5,3,2,3664,4,No,16.1
+Sehore,Ichhawar,Pathar,Industrial,Government,13343.3,84512240,6.0,2,1,4072,5,Yes,19.0
+Sehore,Ashta,Doraha Mal,Commercial,Private,1254.0,9625241,7.5,3,3,508,6,No,7.5
+Sehore,Shyampur,Badiyakhedi,Mixed-use,Institutional,7530.7,55490176,6.0,3,5,10465,6,Yes,7.3
+Sehore,Jawar,Jhal,Agricultural,Cooperative,14867.6,47083252,6.0,3,0,7109,4,No,2.6
+Sehore,Ichhawar,Magarda,Agricultural,Institutional,410.1,2699250,5.0,3,4,5069,9,Yes,16.3
+Sehore,Ichhawar,Ladkheda,Mixed-use,Government,4900.6,41751206,7.5,3,3,4999,14,No,3.7
+Sehore,Jawar,Ashta,Industrial,Institutional,2119.7,8359126,7.5,2,2,3025,7,Yes,18.7
+Sehore,Nasrullaganj,Jawar,Agricultural,Government,3777.4,30891898,6.0,2,2,5239,15,No,4.3
+Sehore,Ashta,Mogra,Mixed-use,Cooperative,3362.6,24084821,5.0,2,5,346,1,Yes,10.0
+Sehore,Rehti,Dhaturiya,Commercial,Private,1264.7,8649430,6.0,2,4,4651,6,Yes,4.3
+Sehore,Nasrullaganj,Bhopal Pura,Industrial,Cooperative,3955.6,30668290,7.5,3,0,1892,8,Yes,12.9
+Sehore,Ichhawar,Rasuliya Khurd,Residential,Cooperative,11965.8,95756274,5.0,2,3,7632,8,Yes,11.6
+Sehore,Sehore,Banet Mal,Agricultural,Cooperative,2889.4,13708020,5.0,3,0,10629,14,Yes,18.5
+Sehore,Rehti,Kothrikalan,Industrial,Private,446.8,3792620,6.0,2,0,464,15,Yes,9.7
+Sehore,Ichhawar,Paraswada,Residential,Institutional,2859.7,13454653,5.0,2,3,483,10,No,4.6
+Sehore,Budhni,Ladkui,Industrial,Private,7456.1,17267040,5.0,2,0,3295,7,No,7.1
+Sehore,Ichhawar,Sewas,Industrial,Government,13604.7,16520349,7.5,2,4,11948,11,No,15.7
+Sehore,Rehti,Paraswada,Agricultural,Institutional,12422.5,97870110,7.5,2,1,2480,3,Yes,12.8
+Sehore,Shyampur,Bilpank,Mixed-use,Government,13412.8,78157968,5.0,2,2,6007,14,No,13.9
+Sehore,Jawar,Harpura Kalan,Commercial,Government,3461.4,15280599,7.5,3,0,7742,7,Yes,18.2
+Sehore,Shyampur,Shyampur,Mixed-use,Government,5885.2,29324031,5.0,2,1,6294,1,Yes,0.4
+Sehore,Budhni,Kothrikalan,Industrial,Private,5365.0,41646211,7.5,2,4,11154,9,Yes,14.2
+Sehore,Shyampur,Jetpura Kalan,Industrial,Institutional,8049.3,24680484,6.0,3,1,5363,8,No,2.7
+Sehore,Jawar,Ladkui,Commercial,Government,14288.1,119407669,7.5,2,5,1788,13,No,5.1
+Sehore,Ichhawar,Kachnariya,Mixed-use,Government,10782.9,68148278,7.5,2,1,5845,7,Yes,7.6
+Sehore,Rehti,Ladkui,Agricultural,Private,13511.3,39695461,7.5,3,1,1142,14,Yes,10.7
+Sehore,Nasrullaganj,Pipalkheda,Industrial,Institutional,1639.8,4739872,6.0,3,1,9206,5,Yes,13.1
+Sehore,Rehti,Kothrikalan,Residential,Private,3358.7,13713351,6.0,2,4,4749,11,No,4.7
+Sehore,Shyampur,Bamuliya Mal,Agricultural,Cooperative,1023.8,7006867,6.0,2,2,5267,5,Yes,16.0
+Sehore,Budhni,Bhatkhedi,Residential,Cooperative,14662.1,46058715,5.0,3,2,7066,5,Yes,11.4
+Sehore,Budhni,Bagmau,Industrial,Government,8896.7,40985978,6.0,3,1,1036,8,Yes,16.2
+Sehore,Ashta,Bamuliya,Commercial,Cooperative,14647.8,92769032,5.0,3,0,2277,12,Yes,3.1
+Sehore,Budhni,Bankheri,Mixed-use,Government,11298.3,50164133,7.5,3,3,8765,10,No,8.2
+Sehore,Shyampur,Ladkui,Residential,Government,6441.3,52468066,5.0,2,4,3087,3,No,13.1
+Sehore,Ashta,Paraswada,Agricultural,Cooperative,9759.3,42578389,5.0,2,5,11272,10,No,4.1
+Sehore,Budhni,Ladkheda Khurd,Industrial,Institutional,4686.8,5844522,7.5,3,1,3870,2,Yes,1.0
+Sehore,Budhni,Pipliya Khurd,Residential,Institutional,12645.1,91003825,6.0,3,2,4683,10,No,16.0
+Sehore,Nasrullaganj,Borkhedi,Residential,Private,97.8,427085,7.5,3,3,5066,5,No,10.0
+Sehore,Nasrullaganj,Bagmau,Industrial,Cooperative,13856.5,111939848,5.0,3,1,6368,15,No,8.6
+Sehore,Ashta,Bamuliya,Agricultural,Private,424.0,1252543,6.0,2,3,3313,1,No,19.5
+Sehore,Sehore,Bamuliya Kalan,Commercial,Cooperative,6665.4,12526151,7.5,3,1,9377,12,No,4.5
+Sehore,Jawar,Jawar,Agricultural,Cooperative,10807.7,26305618,6.0,2,1,8717,3,No,8.3
+Sehore,Jawar,Kalapipal,Agricultural,Government,14812.7,115933122,7.5,3,4,10220,14,No,12.3
+Sehore,Rehti,Pathar,Industrial,Cooperative,3780.4,33188121,6.0,3,5,3677,5,No,15.7
+Sehore,Nasrullaganj,Bamuliya Kalan,Residential,Cooperative,8575.2,49974936,5.0,2,5,4284,5,No,5.8
+Sehore,Nasrullaganj,Sonda,Agricultural,Private,7925.3,50786694,7.5,2,1,3728,1,No,10.1
+Sehore,Ichhawar,Kachnariya Kalan,Industrial,Government,14825.8,94174414,7.5,3,0,4132,3,Yes,19.4
+Sehore,Shyampur,Paraswada,Residential,Government,1797.9,8683673,5.0,3,2,4987,15,No,3.9
+Sehore,Sehore,Bhatkhedi,Agricultural,Cooperative,12021.3,24707300,5.0,2,1,216,1,No,5.6
+Sehore,Sehore,Dewas Naka,Industrial,Private,2293.9,13505353,7.5,2,0,2367,15,No,2.2
+Sehore,Budhni,Pipalia,Industrial,Institutional,12888.4,102005927,7.5,3,1,5469,10,No,12.6
+Sehore,Shyampur,Sehore City,Mixed-use,Cooperative,14565.1,23756412,7.5,2,0,4327,12,No,11.1
+Sehore,Jawar,Jetpura,Agricultural,Cooperative,5867.3,9840263,5.0,3,0,3403,5,Yes,3.9
+Sehore,Sehore,Harpura,Commercial,Private,12881.0,32965344,6.0,3,1,4393,7,Yes,13.2
+Sehore,Ashta,Dewas Naka,Commercial,Cooperative,10735.9,46437939,7.5,3,4,509,1,No,14.2
+Sehore,Ichhawar,Bilpank,Agricultural,Cooperative,11318.7,98179608,5.0,2,5,10907,8,No,17.8
+Sehore,Budhni,Khejra Khurd,Agricultural,Government,14903.7,50922733,6.0,2,1,3791,9,No,19.0
+Sehore,Ichhawar,Harpura,Mixed-use,Institutional,6378.1,23641854,6.0,3,5,2662,4,Yes,2.8
+Sehore,Ichhawar,Bamuliya Khurd,Commercial,Private,2113.5,4386646,6.0,2,1,3399,15,Yes,4.7
+Sehore,Jawar,Bankheri,Agricultural,Cooperative,7069.2,10899056,7.5,2,5,7058,13,No,7.4
+Sehore,Ashta,Ralayati,Industrial,Government,11656.5,68509681,6.0,3,1,978,3,No,12.9
+Sehore,Jawar,Nasrullaganj,Residential,Government,13660.7,93954592,7.5,3,3,2845,4,Yes,4.4
+Sehore,Ichhawar,Shyampur,Commercial,Institutional,6920.1,59321755,7.5,2,0,7491,12,Yes,19.2
+Sehore,Ichhawar,Bairagarh,Residential,Institutional,952.7,7159153,7.5,3,2,10872,15,No,14.6
+Sehore,Budhni,Gopalpur,Industrial,Institutional,12386.6,53403089,7.5,2,2,869,7,No,12.8
+Sehore,Jawar,Mangrola,Industrial,Government,11846.2,56308394,5.0,3,4,1100,3,Yes,6.4
+Sehore,Ashta,Kherdi,Agricultural,Cooperative,5961.5,31418368,7.5,3,4,11923,12,Yes,18.9
+Sehore,Shyampur,Bagwada,Commercial,Cooperative,8635.2,73605656,5.0,2,1,1435,2,Yes,2.5
+Sehore,Shyampur,Pipliya,Residential,Government,10477.6,92833230,7.5,3,5,10112,1,Yes,9.1
+Sehore,Ashta,Jamuniya,Agricultural,Private,11985.2,101397899,7.5,2,2,1746,10,No,13.9
+Sehore,Ichhawar,Kalapipal Road,Agricultural,Private,7450.4,17741696,5.0,3,3,4220,4,Yes,11.2
+Sehore,Ichhawar,Harpura,Residential,Institutional,12868.8,28275690,5.0,3,1,6224,11,No,13.7
+Sehore,Nasrullaganj,Pipliya Khurd,Industrial,Government,13638.9,94385324,5.0,2,1,4799,5,No,8.9
+Sehore,Ashta,Kankariya,Mixed-use,Cooperative,7667.9,43253741,6.0,2,2,7662,1,Yes,0.3
+Sehore,Rehti,Bamuliya Kalan,Industrial,Institutional,1144.9,8161660,6.0,2,5,7393,8,No,12.5
+Sehore,Ichhawar,Pipalkheda,Industrial,Government,2466.6,19785055,7.5,3,3,3870,5,Yes,9.1
+Sehore,Shyampur,Gopalpur,Agricultural,Government,2467.5,9548094,5.0,2,3,1369,15,No,7.1
+Sehore,Budhni,Patla,Mixed-use,Government,494.4,1953416,7.5,2,1,9757,5,Yes,1.5
+Sehore,Sehore,Ladkui,Residential,Government,8903.9,31399043,7.5,3,1,7191,4,No,13.4
+Sehore,Ichhawar,Rasuliya Khurd,Industrial,Government,12413.9,84188077,7.5,2,0,7119,7,Yes,6.8
+Sehore,Nasrullaganj,Bamuliya Khurd,Mixed-use,Private,9722.9,52598932,5.0,2,1,11909,2,Yes,13.1
+Sehore,Ashta,Shyampur,Agricultural,Government,10589.2,23892109,7.5,2,1,2537,2,Yes,15.7
+Sehore,Rehti,Bairagarh,Mixed-use,Private,10691.5,56735634,6.0,3,4,8233,7,No,17.9
+Sehore,Budhni,Kherdi,Residential,Institutional,3991.2,21144858,6.0,3,2,2238,14,Yes,0.9
+Sehore,Sehore,Bhopal Pura,Mixed-use,Cooperative,6678.3,34696034,5.0,3,4,5412,13,No,12.8
+Sehore,Nasrullaganj,Ladkheda,Agricultural,Private,8969.2,60934626,5.0,3,5,3003,2,Yes,14.3
+Sehore,Sehore,Patla,Commercial,Private,2964.2,3369886,7.5,2,0,4708,3,No,10.7
+Sehore,Budhni,Pathar,Industrial,Private,1423.5,11247937,6.0,2,3,9685,10,No,11.5
+Sehore,Budhni,Dhaturiya Khurd,Commercial,Government,1734.5,9360094,5.0,2,3,6968,7,Yes,14.8
+Sehore,Ichhawar,Sehore City,Residential,Private,5269.7,13562457,5.0,3,1,8962,7,Yes,17.5
+Sehore,Ashta,Harpura Khurd,Residential,Institutional,12159.4,38438567,7.5,2,4,11679,1,No,11.1
+Sehore,Ichhawar,Sonda Khurd,Mixed-use,Government,9927.0,54761719,7.5,2,0,7440,7,No,3.4
+Sehore,Shyampur,Jhal,Commercial,Government,2725.5,14844381,5.0,3,5,3389,4,No,8.2
+Sehore,Budhni,Rampura,Agricultural,Private,13258.4,115451503,6.0,2,3,7502,2,Yes,8.7
+Sehore,Nasrullaganj,Kachhi Barod,Residential,Private,2912.9,18382124,5.0,2,1,11795,10,Yes,2.1
+Sehore,Jawar,Kachnariya,Commercial,Cooperative,11078.6,75628985,5.0,3,2,11653,13,Yes,8.2
+Sehore,Shyampur,Dewas Naka,Industrial,Private,9787.6,42869057,7.5,3,4,2786,1,Yes,17.1
+Sehore,Nasrullaganj,Bagwada,Residential,Government,7049.0,32120583,6.0,2,3,8293,12,Yes,7.1
+Sehore,Sehore,Kherdi,Mixed-use,Government,8152.0,27645622,7.5,3,1,11118,1,Yes,14.1
+Sehore,Sehore,Bhatkhedi,Industrial,Cooperative,11474.7,67621376,6.0,2,1,5353,8,Yes,6.2
+Sehore,Ichhawar,Magarda,Agricultural,Government,9067.0,57750441,7.5,2,3,4930,15,Yes,11.6
+Sehore,Ashta,Ralayati,Agricultural,Cooperative,2209.4,13121053,6.0,3,0,7224,10,No,9.7
+Sehore,Ashta,Gunaur,Mixed-use,Cooperative,4660.3,30001731,6.0,3,5,10172,14,No,8.2
+Sehore,Budhni,Pipliya,Commercial,Institutional,1759.2,8261813,6.0,3,4,10370,6,Yes,8.0
+Sehore,Budhni,Pachama,Agricultural,Private,4037.1,14244087,7.5,2,5,10535,9,No,17.5
+Sehore,Rehti,Dhaturiya,Residential,Private,2527.3,5348596,6.0,2,3,6607,5,Yes,0.5
+Sehore,Ichhawar,Khejra,Mixed-use,Institutional,5429.9,9963851,5.0,2,4,8891,10,Yes,17.5
+Sehore,Ashta,Dhodal,Industrial,Institutional,10028.0,53417720,5.0,3,2,1786,9,No,8.4
+Sehore,Jawar,Ashta,Commercial,Cooperative,11841.5,98540091,5.0,2,1,802,11,No,14.4
+Sehore,Sehore,Kachhi Barod,Mixed-use,Institutional,9704.1,11046169,6.0,3,2,1640,9,No,15.4
+Sehore,Jawar,Ralayati,Mixed-use,Institutional,6525.3,36253639,7.5,3,5,369,11,Yes,10.7
+Sehore,Ichhawar,Sonda Khurd,Residential,Private,1765.9,12362999,6.0,3,5,2063,1,Yes,5.5
+Sehore,Nasrullaganj,Dewas Naka,Agricultural,Government,9053.7,77002985,6.0,3,2,10949,6,No,11.2
+Sehore,Sehore,Bhatkhedi,Commercial,Institutional,14104.8,56738511,5.0,2,2,5689,10,No,17.5
+Sehore,Ichhawar,Karadiya,Industrial,Government,2828.8,22180245,5.0,2,2,3915,4,No,8.8
+Sehore,Ashta,Jetpura,Industrial,Institutional,7247.6,29790398,7.5,3,5,5385,6,Yes,12.1
+Sehore,Rehti,Dhaturiya,Residential,Government,8052.9,28187715,6.0,2,1,4759,6,No,4.4
+Sehore,Ichhawar,Kalapipal Road,Residential,Private,11136.1,46271515,7.5,2,0,1163,15,No,4.8
+Sehore,Ichhawar,Rasuliya Kalan,Industrial,Cooperative,2423.2,17396655,7.5,2,4,5727,9,No,14.3
+Sehore,Rehti,Gunaur,Agricultural,Government,2779.7,17647612,5.0,3,1,11728,14,No,2.1
+Sehore,Budhni,Rampura,Agricultural,Cooperative,5574.2,9321552,5.0,2,2,905,9,Yes,7.3
+Sehore,Budhni,Jetpura,Industrial,Cooperative,4664.3,22262365,6.0,2,2,2362,5,No,17.5
+Sehore,Nasrullaganj,Barkheda,Industrial,Private,5397.6,18363942,7.5,3,1,4309,5,Yes,0.8
+Sehore,Jawar,Jamuniya,Mixed-use,Private,3395.9,6786686,5.0,3,0,1174,12,Yes,4.9
+Sehore,Ichhawar,Kalapipal,Residential,Cooperative,7629.9,61931864,7.5,2,2,2902,8,No,4.0
+Sehore,Nasrullaganj,Harpura Mal,Industrial,Government,4794.3,7195089,5.0,2,3,11379,5,No,6.6
+Sehore,Jawar,Harpura Khurd,Commercial,Cooperative,12197.5,88724511,5.0,2,4,9299,14,Yes,7.2
+Sehore,Shyampur,Salkanpur,Agricultural,Institutional,13050.8,64895262,7.5,3,3,6257,15,Yes,11.9
+Sehore,Sehore,Pipliya Khurd,Residential,Institutional,3429.3,25750823,5.0,3,3,10357,13,No,5.3
+Sehore,Rehti,Jawar,Mixed-use,Private,10367.2,19669940,7.5,3,3,3783,10,Yes,10.7
+Sehore,Jawar,Banet Mal,Agricultural,Government,1500.4,2520485,7.5,3,5,8603,5,No,3.5
+Sehore,Nasrullaganj,Badiyakhedi,Agricultural,Institutional,9319.3,79338039,7.5,3,4,6123,8,Yes,11.3
+Sehore,Rehti,Jamuniya,Agricultural,Institutional,11333.2,22795001,7.5,2,4,891,3,Yes,1.5
+Sehore,Shyampur,Mangrola,Mixed-use,Private,12314.4,41794062,7.5,2,5,10018,15,No,18.0
+Sehore,Shyampur,Ashta,Agricultural,Institutional,13745.3,42631557,6.0,2,2,3426,7,No,15.2
+Sehore,Ichhawar,Sewas,Industrial,Private,1318.4,8976927,7.5,2,1,8703,9,No,15.1
+Sehore,Budhni,Bilkisganj,Mixed-use,Government,9177.5,81557876,7.5,2,2,5564,10,Yes,17.8
+Sehore,Ashta,Bamuliya Khurd,Mixed-use,Government,12514.2,57094275,7.5,2,2,5221,3,No,18.5
+Sehore,Jawar,Amlaha,Agricultural,Private,9449.8,59117416,7.5,2,5,7663,12,Yes,15.4
+Sehore,Rehti,Salkanpur,Commercial,Cooperative,378.0,2629106,5.0,2,4,1357,1,Yes,19.2
+Sehore,Ichhawar,Bagmau,Industrial,Institutional,2085.3,16534587,6.0,2,1,11903,7,Yes,11.5
+Sehore,Rehti,Mangrola,Residential,Private,717.3,2598005,5.0,3,1,11758,8,Yes,8.1
+Sehore,Rehti,Kukri,Industrial,Government,5736.4,24187278,6.0,2,1,11358,6,No,11.4
+Sehore,Jawar,Harpura Kalan,Commercial,Private,10588.4,63668585,7.5,3,3,1530,6,No,9.1
+Sehore,Jawar,Kurawar,Agricultural,Cooperative,12320.5,35917588,6.0,2,2,5730,13,Yes,2.1
+Sehore,Nasrullaganj,Bagwada,Industrial,Private,9927.6,76507579,5.0,3,3,3027,8,Yes,17.1
+Sehore,Sehore,Dhaturiya Khurd,Industrial,Cooperative,149.9,1246104,6.0,2,4,1396,7,No,5.2
+Sehore,Sehore,Doraha,Residential,Private,9381.9,61662940,6.0,2,2,8822,14,No,8.3
+Sehore,Nasrullaganj,Shyampur,Agricultural,Private,639.1,4060989,7.5,2,1,8084,4,Yes,5.4
+Sehore,Shyampur,Sonda Khurd,Commercial,Cooperative,2084.1,16376275,5.0,3,5,4296,11,No,9.1
+Sehore,Jawar,Pipliya Khurd,Agricultural,Government,13904.3,77902397,7.5,2,3,8164,7,No,13.9
+Sehore,Ashta,Bilpank,Commercial,Government,7624.4,54196149,6.0,3,2,5291,13,No,2.3
+Sehore,Jawar,Dhodal,Mixed-use,Cooperative,2105.9,10377201,6.0,3,1,398,11,No,16.1
+Sehore,Budhni,Kachhi Barod,Industrial,Institutional,11652.8,83030079,5.0,2,2,3462,10,Yes,10.2
+Sehore,Jawar,Gunaur,Industrial,Cooperative,9806.3,37981309,7.5,2,5,3884,4,No,5.8
+Sehore,Shyampur,Mogra,Residential,Institutional,1486.9,10021232,7.5,2,4,1896,6,Yes,10.3
+Sehore,Sehore,Budhni,Commercial,Government,5986.8,22686659,5.0,2,2,1161,11,Yes,17.3
+Sehore,Jawar,Bilkisganj,Mixed-use,Private,10884.5,41892219,6.0,2,0,4449,13,No,1.4
+Sehore,Ashta,Doraha Mal,Industrial,Institutional,1567.6,4265019,6.0,3,1,9074,11,Yes,1.3
+Sehore,Shyampur,Bamuliya Kalan,Agricultural,Private,14324.9,120168369,5.0,3,4,7678,1,No,3.1
+Sehore,Sehore,Bamuliya,Mixed-use,Cooperative,3133.9,7582937,5.0,3,2,2411,3,No,0.4
+Sehore,Jawar,Bhopal Pura,Industrial,Private,1689.6,12887420,5.0,2,1,5054,7,No,2.1
+Sehore,Sehore,Ladkui,Residential,Cooperative,259.0,1390634,6.0,2,0,2531,13,Yes,0.7
+Sehore,Rehti,Chandpur,Industrial,Cooperative,10843.9,16923289,6.0,2,3,8958,10,Yes,0.3
+Sehore,Shyampur,Gopalpur,Mixed-use,Institutional,528.0,932573,5.0,2,2,9275,1,Yes,16.0
+Sehore,Jawar,Bamuliya Kalan,Industrial,Private,2907.4,21019161,7.5,3,1,2675,2,Yes,4.2
+Sehore,Sehore,Bilpank,Residential,Cooperative,13278.2,82865101,6.0,2,1,2015,1,No,6.4
+Sehore,Nasrullaganj,Sonda,Residential,Cooperative,1735.5,4056681,5.0,3,0,7501,5,No,5.0
+Sehore,Ashta,Patla,Commercial,Institutional,4453.6,32476309,5.0,2,2,2412,2,No,0.4
+Sehore,Rehti,Banet,Commercial,Institutional,11349.5,24234912,7.5,2,4,4499,5,No,16.0
+Sehore,Shyampur,Banet,Industrial,Private,3187.0,7843374,7.5,3,2,1596,4,Yes,9.5
+Sehore,Budhni,Dhaturiya Khurd,Industrial,Institutional,10825.4,12913095,7.5,2,2,5701,14,No,11.7
+Sehore,Rehti,Barkheda,Industrial,Private,2040.7,3776122,7.5,2,2,8848,10,Yes,3.5
+Sehore,Sehore,Bijepur,Industrial,Institutional,11009.0,81672138,6.0,3,3,9159,7,No,2.6
+Sehore,Shyampur,Pachama,Residential,Private,7543.0,23789673,6.0,3,0,8425,12,Yes,8.8
+Sehore,Budhni,Bilpank,Residential,Private,7401.2,44094054,7.5,2,0,7212,5,Yes,1.1
+Sehore,Jawar,Pipalkheda,Mixed-use,Government,12517.4,91169036,5.0,3,4,4457,9,No,5.5
+Sehore,Ashta,Rampura,Commercial,Private,3422.1,29853420,6.0,3,2,7122,3,Yes,14.3
+Sehore,Ashta,Dhaturiya,Residential,Government,3053.6,20809742,7.5,2,0,5936,15,No,0.1
+Sehore,Jawar,Ladkui,Residential,Private,387.7,2089063,6.0,2,2,11753,7,No,4.9
+Sehore,Budhni,Bamuliya Kalan,Residential,Private,7781.1,43371060,7.5,2,0,4180,2,No,16.0
+Sehore,Ashta,Kherdi,Residential,Cooperative,8550.3,59262644,5.0,2,1,11281,8,Yes,18.7
+Sehore,Shyampur,Bamuliya Khurd,Residential,Cooperative,212.9,1567211,6.0,3,4,1396,14,No,9.7
+Sehore,Nasrullaganj,Badiyakhedi,Commercial,Private,835.9,6997214,7.5,3,5,3640,4,No,2.5
+Sehore,Budhni,Bagwada,Industrial,Private,13949.2,72356327,5.0,3,0,10898,10,No,13.9
+Sehore,Rehti,Rampura,Commercial,Institutional,2319.2,2656340,7.5,3,5,247,2,No,4.1
+Sehore,Jawar,Mardikhurd,Industrial,Cooperative,527.2,1883798,7.5,3,2,9585,15,No,17.3
+Sehore,Sehore,Ralayati,Commercial,Private,1504.7,8131838,6.0,2,1,11622,13,Yes,13.8
+Sehore,Ichhawar,Chandbad,Commercial,Cooperative,8979.2,64079731,5.0,2,3,2355,1,No,10.1
+Sehore,Budhni,Dewas Naka,Agricultural,Institutional,13580.1,64377169,6.0,2,3,5154,3,Yes,7.0
+Sehore,Shyampur,Budhni,Residential,Institutional,1380.9,8227457,7.5,2,4,11538,6,Yes,11.0
+Sehore,Sehore,Kothri,Commercial,Institutional,5241.6,5992152,7.5,3,0,569,1,No,12.1
+Sehore,Jawar,Nasrullaganj,Agricultural,Cooperative,6173.3,8829405,5.0,2,4,2398,8,Yes,0.7
+Sehore,Ichhawar,Bankheri,Commercial,Cooperative,1104.2,1895437,5.0,3,4,11769,6,Yes,10.0
+Sehore,Sehore,Jhal,Agricultural,Government,14339.3,102887789,7.5,3,2,6305,12,Yes,19.4
+Sehore,Nasrullaganj,Dhaturiya Khurd,Commercial,Government,14678.8,63877666,5.0,3,3,462,2,Yes,6.7
+Sehore,Ashta,Rasuliya,Industrial,Government,14463.5,50232042,5.0,3,1,5779,9,No,1.8
+Sehore,Sehore,Mangrola,Commercial,Government,14107.8,99529095,7.5,2,3,10997,3,No,9.1
+Sehore,Ashta,Pipliya,Industrial,Cooperative,10577.6,43361970,6.0,3,1,2180,5,Yes,19.1
+Sehore,Shyampur,Sonda,Mixed-use,Cooperative,7698.7,59699365,7.5,3,3,7702,14,Yes,13.3
+Sehore,Ashta,Rasuliya Kalan,Commercial,Institutional,304.5,1310034,5.0,3,4,9317,8,No,19.5
+Sehore,Ichhawar,Chandpur,Agricultural,Institutional,12190.5,42188837,6.0,3,5,6249,9,Yes,19.0
+Sehore,Ichhawar,Kurawar,Agricultural,Cooperative,12664.7,73921447,6.0,2,2,4257,10,Yes,0.4
+Sehore,Sehore,Bamuliya Mal,Agricultural,Institutional,9670.8,16474511,5.0,2,5,11686,10,No,15.5
+Sehore,Budhni,Kukri,Commercial,Cooperative,3796.2,29828248,6.0,2,2,3742,6,No,10.1
+Sehore,Ichhawar,Kothri,Mixed-use,Institutional,8833.4,38497755,5.0,3,3,4304,14,Yes,7.0
+Sehore,Budhni,Pandharinath,Residential,Government,1439.3,10825580,6.0,3,1,10806,12,No,1.7
+Sehore,Ichhawar,Bagwada,Residential,Private,10646.8,14987092,7.5,3,0,3977,8,Yes,2.1
+Sehore,Sehore,Jawar,Residential,Government,2514.3,22618693,5.0,2,4,7369,9,Yes,1.7
+Sehore,Nasrullaganj,Rehti,Residential,Government,4523.4,38423091,5.0,2,0,11352,8,Yes,11.8
+Sehore,Shyampur,Dhaturiya Khurd,Mixed-use,Cooperative,760.2,5316626,7.5,3,1,5862,11,Yes,14.5
+Sehore,Nasrullaganj,Pandharinath,Mixed-use,Institutional,12693.4,77290878,7.5,3,2,204,11,Yes,1.6
+Sehore,Shyampur,Magarda,Commercial,Institutional,7989.2,53122990,5.0,3,1,9194,9,No,10.5
+Sehore,Ashta,Gopalpur,Commercial,Cooperative,9013.3,13068427,5.0,3,0,6857,2,No,0.6
+Sehore,Budhni,Bamuliya Kalan,Industrial,Government,2016.3,5287587,7.5,3,2,7932,8,Yes,10.8
+Sehore,Shyampur,Magarda,Commercial,Private,6755.3,29411243,5.0,2,1,4748,9,Yes,13.5
+Sehore,Rehti,Harpura Kalan,Industrial,Private,299.8,1861954,7.5,3,1,2261,4,No,19.3
+Sehore,Ichhawar,Bherunda,Industrial,Private,11857.0,48324557,7.5,3,4,5823,14,No,5.3
+Sehore,Shyampur,Budhni,Industrial,Cooperative,10259.0,39518268,6.0,2,1,9521,14,No,14.0
+Sehore,Ichhawar,Kurawar,Agricultural,Private,11058.1,85256143,6.0,2,3,1241,1,No,18.6
+Sehore,Jawar,Bankheri,Agricultural,Private,14690.0,126920562,7.5,3,1,4671,14,Yes,14.1
+Sehore,Budhni,Bamuliya Khurd,Mixed-use,Government,8702.1,28790612,6.0,2,1,436,1,No,18.3
+Sehore,Sehore,Kalapipal Road,Residential,Private,4800.6,13581211,5.0,2,2,1217,7,No,14.4
+Sehore,Sehore,Bairagarh,Industrial,Government,3527.8,28017391,7.5,3,1,5126,9,Yes,2.0
+Sehore,Rehti,Budhni,Residential,Institutional,13688.3,59747909,5.0,3,4,9638,13,No,17.1
+Sehore,Budhni,Karadiya,Industrial,Government,8313.0,29657566,5.0,2,4,1301,15,No,18.2
+Sehore,Rehti,Pandharinath,Commercial,Government,8916.7,63492387,6.0,2,2,5985,5,Yes,7.6
+Sehore,Ashta,Jetpura Kalan,Mixed-use,Cooperative,2478.8,17041294,5.0,2,2,4845,7,No,15.5
+Sehore,Sehore,Khejra Khurd,Industrial,Government,627.2,951627,5.0,2,3,3385,1,No,2.5
+Sehore,Sehore,Jetpura,Industrial,Government,7258.8,49223961,5.0,2,3,5260,5,Yes,10.6
+Sehore,Ichhawar,Ralayati,Agricultural,Private,12620.8,63432632,6.0,3,5,3016,7,Yes,3.3
+Sehore,Ichhawar,Dhodal,Agricultural,Cooperative,10303.9,43509384,5.0,3,1,9143,9,No,19.9
+Sehore,Shyampur,Sonda Khurd,Industrial,Institutional,2110.7,9630188,6.0,2,1,7885,2,Yes,18.9
+Sehore,Jawar,Gunaur,Industrial,Cooperative,6310.1,13294783,7.5,2,1,8717,7,No,12.2
+Sehore,Sehore,Jetpura Kalan,Residential,Institutional,7793.8,66161663,6.0,2,1,992,12,No,15.6
+Sehore,Jawar,Jetpura,Residential,Institutional,11840.0,76941451,7.5,2,3,3327,10,No,14.9
+Sehore,Rehti,Kalapipal Road,Industrial,Cooperative,14277.0,102967056,6.0,2,5,10801,12,No,8.3
+Sehore,Ashta,Gopalpur,Mixed-use,Cooperative,7537.2,27978142,6.0,2,3,1311,10,Yes,4.9
+Sehore,Nasrullaganj,Patla,Commercial,Cooperative,3214.1,13561990,5.0,3,5,3429,3,Yes,14.2
+Sehore,Ichhawar,Rasuliya Khurd,Commercial,Cooperative,1621.0,11497127,6.0,3,5,8079,7,Yes,19.4
+Sehore,Budhni,Kalapipal,Commercial,Private,11709.2,26473529,7.5,3,0,4784,5,No,11.6
+Sehore,Jawar,Rehti,Agricultural,Government,14104.8,108386440,7.5,2,1,9626,14,Yes,3.8
+Sehore,Ichhawar,Sonda,Mixed-use,Private,1507.2,13315187,6.0,2,5,6562,5,No,16.6
+Sehore,Ashta,Kalapipal,Mixed-use,Private,13035.8,60024848,5.0,2,0,6604,15,Yes,9.0
+Sehore,Ashta,Magarda,Residential,Private,4424.8,11443754,5.0,3,3,3057,5,No,7.6
+Sehore,Jawar,Barkheda,Industrial,Government,8483.0,61587920,6.0,2,4,137,9,Yes,19.2
+Sehore,Ashta,Pipalkheda,Agricultural,Institutional,988.1,7952042,7.5,3,0,11500,10,Yes,14.8
+Sehore,Jawar,Paraswada,Industrial,Government,14870.3,73549252,7.5,2,1,9431,2,No,4.5
+Sehore,Ashta,Dewas Naka,Mixed-use,Cooperative,967.7,7396674,7.5,3,3,6523,11,No,16.5
+Sehore,Shyampur,Dhaturiya,Mixed-use,Institutional,5390.0,14247236,6.0,3,4,10316,10,No,0.6
+Sehore,Ashta,Rampura,Mixed-use,Cooperative,4576.2,4678312,7.5,3,2,6813,14,Yes,3.5
+Sehore,Ashta,Jetpura Kalan,Residential,Government,8957.7,20846642,5.0,3,2,3952,10,Yes,5.7
+Sehore,Ashta,Kherdi,Commercial,Government,13489.4,51097406,5.0,2,1,2889,1,Yes,5.0
+Sehore,Budhni,Shyampur,Commercial,Institutional,13595.6,101190491,6.0,2,0,10178,15,Yes,19.8
+Sehore,Nasrullaganj,Dhodal,Residential,Government,12841.3,72516903,7.5,3,5,3460,10,Yes,15.1
+Sehore,Jawar,Salkanpur,Commercial,Institutional,12759.0,52987030,5.0,3,1,168,13,Yes,7.0
+Sehore,Jawar,Bherunda,Commercial,Institutional,11309.7,19494835,7.5,2,3,5511,13,No,6.3
+Sehore,Ichhawar,Nasrullaganj,Residential,Government,3701.5,18401281,5.0,2,3,7583,5,No,5.6
+Sehore,Budhni,Ashta,Industrial,Government,8961.8,71118280,7.5,2,4,3378,15,No,6.9
+Sehore,Budhni,Pipliya Khurd,Commercial,Government,5981.2,9618417,5.0,2,3,6151,4,No,2.6
+Sehore,Sehore,Mardikhurd,Industrial,Institutional,2335.1,18270701,7.5,3,2,6326,2,Yes,14.1
+Sehore,Sehore,Bherunda,Industrial,Government,474.6,2642884,5.0,3,2,2301,5,Yes,3.9
+Sehore,Budhni,Kothri,Agricultural,Government,12912.1,49543803,6.0,2,2,3488,12,Yes,2.1
+Sehore,Budhni,Dewas Naka,Commercial,Private,7800.0,35356876,7.5,3,5,2338,5,No,12.1
+Sehore,Ichhawar,Bhatkhedi,Agricultural,Government,2367.6,4137131,7.5,2,5,4217,11,No,14.0
+Sehore,Budhni,Pipliya Khurd,Commercial,Private,4593.5,24537799,6.0,2,3,8122,11,No,16.6
+Sehore,Jawar,Pipalia,Commercial,Government,8866.6,78818920,6.0,3,0,5914,14,Yes,3.4
+Sehore,Shyampur,Bijepur,Agricultural,Cooperative,4182.1,33738520,6.0,3,5,8689,9,Yes,16.6
+Sehore,Ichhawar,Harpura Khurd,Industrial,Cooperative,2093.8,15302095,5.0,3,3,7951,3,Yes,7.3
+Sehore,Jawar,Rasuliya Kalan,Agricultural,Institutional,1275.9,7253259,5.0,2,1,3057,14,No,0.3
+Sehore,Budhni,Mangrola,Commercial,Institutional,10961.7,69162911,7.5,3,1,4963,8,Yes,11.1
+Sehore,Jawar,Pipliya Khurd,Agricultural,Government,9720.1,16768313,5.0,2,1,4531,2,No,11.4
+Sehore,Ichhawar,Kalapipal Road,Residential,Private,9113.8,56879172,6.0,2,5,7314,1,Yes,8.3
+Sehore,Ashta,Jetpura,Agricultural,Private,14446.1,56201859,5.0,2,0,7868,14,No,13.0
+Sehore,Ashta,Bilpank,Mixed-use,Private,824.5,5839163,7.5,2,1,6124,13,Yes,10.8
+Sehore,Ichhawar,Chandbad,Commercial,Institutional,12558.4,21966766,7.5,2,3,144,12,Yes,8.5
+Sehore,Ashta,Kukri,Commercial,Cooperative,7328.9,9514194,6.0,3,3,1866,15,No,16.6
+Sehore,Ashta,Gopalpur,Industrial,Government,5912.6,16242557,7.5,3,0,291,10,No,4.6
+Sehore,Ichhawar,Bankheri,Agricultural,Cooperative,1424.8,10841729,7.5,2,1,11081,2,Yes,19.7
+Sehore,Jawar,Sonda,Residential,Private,9672.3,70999650,6.0,3,5,1576,7,No,2.8
+Sehore,Jawar,Pandharinath,Industrial,Institutional,4198.2,31641913,5.0,2,3,2977,8,No,13.2
+Sehore,Sehore,Sewas,Agricultural,Cooperative,14269.2,116356262,5.0,3,5,3464,13,No,12.1
+Sehore,Ichhawar,Bamuliya Khurd,Residential,Institutional,13209.6,98686491,6.0,3,2,1689,9,No,0.5
+Sehore,Budhni,Dewas Naka,Mixed-use,Government,2652.7,17451227,5.0,2,2,9230,4,No,6.2
+Sehore,Nasrullaganj,Doraha,Industrial,Government,3347.8,12597114,6.0,2,4,6418,10,No,9.0
+Sehore,Ashta,Dhaturiya,Agricultural,Institutional,11608.8,45945134,5.0,3,1,6898,9,Yes,5.7
+Sehore,Shyampur,Bhopal Pura,Commercial,Cooperative,11030.4,34522541,7.5,2,0,9808,6,Yes,10.1
+Sehore,Rehti,Ladkheda Khurd,Agricultural,Cooperative,11149.4,35046301,5.0,3,5,4613,4,No,15.6
+Sehore,Ashta,Rehti,Mixed-use,Government,7196.2,11666628,7.5,3,0,5042,8,No,14.8
+Sehore,Nasrullaganj,Amlaha,Industrial,Institutional,4195.0,19533143,6.0,3,0,8933,13,No,16.9
+Sehore,Rehti,Sonda Khurd,Agricultural,Cooperative,12748.3,26146621,6.0,2,3,9117,15,Yes,7.4
+Sehore,Nasrullaganj,Doraha Mal,Residential,Institutional,12261.8,85493665,7.5,2,0,2493,8,No,18.5
+Sehore,Ichhawar,Bagmau,Residential,Private,11673.9,40444500,5.0,3,5,9259,7,Yes,5.9
+Sehore,Jawar,Rasuliya,Industrial,Cooperative,576.3,4723010,5.0,2,3,4424,15,No,11.9
+Sehore,Jawar,Ladkui,Residential,Cooperative,7287.1,32939535,5.0,2,3,7766,12,Yes,11.0
+Sehore,Ichhawar,Banet,Commercial,Cooperative,6201.9,48752971,7.5,3,0,10114,1,No,10.2
+Sehore,Sehore,Dhodal,Commercial,Institutional,10169.7,75934153,5.0,3,3,3412,10,No,4.2
+Sehore,Ichhawar,Pipliya,Mixed-use,Cooperative,14812.2,17664484,6.0,3,0,11039,11,No,11.5
+Sehore,Ichhawar,Bherunda,Industrial,Private,3994.4,31362354,6.0,2,4,6627,11,No,0.7
+Sehore,Sehore,Pipalia,Commercial,Private,11457.0,48322798,5.0,2,3,3190,13,Yes,15.4
+Sehore,Budhni,Jetpura Khurd,Mixed-use,Government,7398.8,40655061,6.0,3,1,3873,8,Yes,9.2
+Sehore,Ashta,Mangrola,Industrial,Institutional,9192.3,21812642,7.5,3,1,544,4,Yes,19.5
+Sehore,Budhni,Jetpura Khurd,Commercial,Institutional,4593.1,40954545,7.5,2,0,4674,6,No,9.0
+Sehore,Sehore,Kalapipal Road,Commercial,Private,9284.6,70156371,6.0,2,0,6077,5,Yes,19.2
+Sehore,Nasrullaganj,Bilpank,Mixed-use,Institutional,9907.6,29354844,5.0,2,5,11163,14,Yes,9.4
+Sehore,Budhni,Sonda Khurd,Industrial,Private,5844.6,23467479,7.5,3,5,3683,11,Yes,6.9
+Sehore,Ashta,Kachhi Barod,Industrial,Institutional,13246.7,74808752,7.5,2,5,8422,2,No,0.1
+Sehore,Shyampur,Shyampur,Residential,Cooperative,891.6,5164697,5.0,3,5,4938,1,No,17.6
+Sehore,Jawar,Ichhawar,Mixed-use,Private,7802.3,63869890,5.0,3,1,6638,3,Yes,12.1
+Sehore,Sehore,Gunaur,Commercial,Institutional,12507.2,96800456,6.0,2,5,365,8,Yes,10.4
+Sehore,Rehti,Bilpank,Commercial,Cooperative,9499.7,16249603,6.0,2,3,9754,11,Yes,14.4
+Sehore,Sehore,Barkheda,Commercial,Cooperative,6139.7,12644427,7.5,2,4,2236,14,Yes,4.9
+Sehore,Budhni,Paraswada,Residential,Government,14914.4,65179416,7.5,3,2,4462,4,No,16.1
+Sehore,Sehore,Ladkheda Khurd,Commercial,Institutional,5063.4,26204945,6.0,2,0,2976,1,No,16.2
+Sehore,Ichhawar,Dewas Naka,Commercial,Institutional,3287.0,18977054,7.5,2,1,3700,8,No,5.0
+Sehore,Ichhawar,Gunaur,Agricultural,Cooperative,6123.6,46116214,7.5,2,1,10044,7,No,0.1
+Sehore,Nasrullaganj,Bagwada,Industrial,Institutional,2063.7,14691152,7.5,3,0,5816,6,Yes,14.0
+Sehore,Sehore,Bamuliya,Mixed-use,Private,10522.7,79143544,6.0,3,5,316,4,No,16.6
+Sehore,Nasrullaganj,Pipliya,Mixed-use,Government,1853.3,14815700,7.5,3,3,4125,9,No,5.6
+Sehore,Sehore,Sonda,Commercial,Government,14414.1,41030725,5.0,3,3,7645,10,No,5.7
+Sehore,Budhni,Paraswada,Agricultural,Institutional,8538.9,41642635,7.5,2,1,877,5,Yes,12.1
+Sehore,Sehore,Banet,Commercial,Cooperative,8490.0,17238834,6.0,3,3,1240,8,No,3.6
+Sehore,Rehti,Pachama,Mixed-use,Government,8852.8,61065690,7.5,2,1,5302,13,No,17.3
+Sehore,Sehore,Harpura Mal,Mixed-use,Cooperative,10674.9,49184799,5.0,3,3,252,5,Yes,5.0
+Sehore,Ichhawar,Jawar,Mixed-use,Institutional,13436.6,100838831,5.0,3,1,9931,9,Yes,19.5
+Sehore,Budhni,Kothrikalan,Commercial,Cooperative,226.9,234921,5.0,3,2,863,11,No,18.6
+Sehore,Ichhawar,Bamuliya Kalan,Residential,Institutional,11138.6,70069366,5.0,3,5,9290,2,Yes,6.1
+Sehore,Ashta,Pipalia,Mixed-use,Cooperative,4875.2,40020842,7.5,3,1,593,10,No,12.9
+Sehore,Sehore,Dewas Naka,Commercial,Government,4509.0,4918653,7.5,2,0,8546,3,Yes,6.8
+Sehore,Jawar,Ichhawar,Mixed-use,Cooperative,14900.4,65932142,5.0,3,4,10215,7,Yes,18.3
+Sehore,Ashta,Dhaturiya Khurd,Agricultural,Cooperative,8046.5,64651809,5.0,3,5,6021,4,Yes,9.0
+Sehore,Sehore,Sonda,Residential,Cooperative,8612.3,76006700,5.0,3,0,5122,4,No,9.9
+Sehore,Budhni,Harpura,Agricultural,Government,14468.3,90472995,6.0,3,3,1638,1,Yes,10.0
+Sehore,Shyampur,Bankheri,Commercial,Private,7485.2,65611168,5.0,2,3,1461,13,Yes,19.3
+Sehore,Ichhawar,Doraha Mal,Agricultural,Private,8894.5,45585124,5.0,2,3,710,4,No,14.7
+Sehore,Nasrullaganj,Kankariya,Agricultural,Cooperative,4356.2,25577296,6.0,3,3,470,8,No,17.3
+Sehore,Jawar,Karadiya,Residential,Private,10402.1,49550281,6.0,2,4,1218,13,No,12.6
+Sehore,Rehti,Kurawar,Industrial,Government,14418.3,33618712,7.5,3,0,4440,6,No,3.9
+Sehore,Nasrullaganj,Rehti,Mixed-use,Private,8410.5,32230230,5.0,3,2,8972,12,Yes,14.6
+Sehore,Budhni,Harpura Khurd,Industrial,Institutional,4127.0,30565113,6.0,3,1,9917,11,Yes,18.4
+Sehore,Ashta,Rasuliya Khurd,Industrial,Cooperative,120.2,394310,7.5,2,0,11794,5,No,17.9
+Sehore,Budhni,Bijepur,Agricultural,Private,14917.4,44590444,7.5,2,1,1384,13,Yes,13.7
+Sehore,Sehore,Pipalkheda,Commercial,Private,3639.1,14461688,7.5,3,5,4616,11,Yes,13.2
+Sehore,Ashta,Kothrikalan,Industrial,Institutional,2429.1,15989590,5.0,3,2,11388,7,Yes,17.4
+Sehore,Jawar,Magarda,Industrial,Government,3065.3,25933433,7.5,3,2,4369,14,Yes,10.1
+Sehore,Ashta,Jhal,Industrial,Private,7623.4,66473276,7.5,3,0,9824,3,Yes,19.6
+Sehore,Budhni,Kalapipal Road,Mixed-use,Private,8149.5,55278762,7.5,3,1,1342,2,Yes,13.6
+Sehore,Ichhawar,Badiyakhedi,Industrial,Private,1516.0,8030117,7.5,3,4,820,6,Yes,16.0
+Sehore,Jawar,Banet,Residential,Private,8942.5,37793000,6.0,3,5,11063,3,Yes,0.5
+Sehore,Jawar,Kalapipal Road,Industrial,Private,7182.6,61883728,6.0,3,2,7918,12,Yes,17.3
+Sehore,Ichhawar,Rasuliya Kalan,Commercial,Private,6701.4,10106967,6.0,2,4,9426,6,Yes,11.6
+Sehore,Sehore,Jamuniya,Industrial,Cooperative,2053.5,8747009,5.0,3,5,9490,7,Yes,7.3
+Sehore,Ashta,Chandbad,Industrial,Private,11118.8,37911271,5.0,3,3,9151,15,No,0.2
+Sehore,Sehore,Sewas,Industrial,Private,5013.2,37603046,6.0,2,0,6541,7,Yes,8.7
+Sehore,Ashta,Bhatkhedi,Residential,Government,10985.5,88947346,5.0,3,2,181,10,Yes,0.3
+Sehore,Jawar,Pipliya Khurd,Residential,Private,14827.5,21790762,7.5,2,5,522,3,No,2.8
+Sehore,Nasrullaganj,Magarda,Commercial,Government,11529.5,53964336,6.0,3,5,9838,6,Yes,17.2
+Sehore,Ichhawar,Pipalkheda,Residential,Private,9379.4,49406639,5.0,2,3,5765,15,No,18.7
+Sehore,Rehti,Bamuliya,Agricultural,Government,734.2,2413051,7.5,3,5,4724,15,No,4.6
+Sehore,Budhni,Bherunda,Mixed-use,Private,9488.9,18657122,7.5,3,2,10359,6,Yes,5.7
+Sehore,Nasrullaganj,Dhodal,Industrial,Cooperative,2421.0,5672383,7.5,3,1,2070,8,No,1.1
+Sehore,Sehore,Pachama,Residential,Government,14545.1,62065548,6.0,2,2,8926,7,Yes,9.0
+Sehore,Nasrullaganj,Mogra,Commercial,Cooperative,13534.8,57507203,5.0,2,2,1080,6,No,0.6
+Sehore,Rehti,Bankheri,Residential,Private,6663.0,42877244,7.5,2,3,8193,13,Yes,6.4
+Sehore,Ashta,Kachnariya,Mixed-use,Cooperative,8615.5,34353078,5.0,3,2,1279,4,Yes,11.9
+Sehore,Nasrullaganj,Ralayati,Mixed-use,Institutional,924.7,3701583,6.0,3,1,1640,11,No,13.9
+Sehore,Shyampur,Kherdi,Residential,Institutional,10862.4,21560408,7.5,2,5,8646,11,No,8.8
+Sehore,Nasrullaganj,Ladkheda,Mixed-use,Government,6490.9,26656478,5.0,2,1,5330,12,No,5.4
+Sehore,Shyampur,Pipalkheda,Mixed-use,Private,5663.9,26901596,5.0,2,5,11421,8,No,16.0
+Sehore,Budhni,Bijepur,Agricultural,Government,12844.6,95636853,5.0,2,1,468,10,No,8.7
+Sehore,Jawar,Ladkui,Commercial,Government,10377.8,60498787,6.0,2,5,2233,4,No,5.9
+Sehore,Ashta,Banet,Mixed-use,Government,4886.6,34717791,6.0,3,3,10164,14,Yes,5.2
+Sehore,Shyampur,Gopalpur,Commercial,Government,3419.6,18053231,6.0,2,0,2289,4,Yes,0.5
+Sehore,Budhni,Bamuliya,Residential,Private,6395.3,16059820,5.0,3,2,2315,4,No,9.9
+Sehore,Budhni,Kachnariya Kalan,Mixed-use,Government,13350.7,14321861,7.5,3,2,5310,14,Yes,6.6
+Sehore,Nasrullaganj,Doraha Mal,Agricultural,Government,13458.8,19658349,6.0,3,3,9362,12,Yes,4.1
+Sehore,Jawar,Bherunda,Residential,Private,10772.0,44669128,6.0,2,1,11083,3,Yes,15.5
+Sehore,Sehore,Ladkheda Khurd,Commercial,Government,7432.0,35224078,5.0,2,0,6835,15,Yes,19.1
+Sehore,Sehore,Dewas Naka,Industrial,Private,13888.7,63104679,5.0,3,0,3950,7,Yes,6.8
+Sehore,Rehti,Dhaturiya,Mixed-use,Institutional,2098.3,6927142,7.5,2,5,7798,13,No,14.6
+Sehore,Ichhawar,Dewas Naka,Agricultural,Private,10156.9,80730466,6.0,3,4,2786,7,No,8.5
+Sehore,Rehti,Bilpank,Residential,Cooperative,12469.7,13845697,5.0,2,5,6682,4,No,12.7
+Sehore,Sehore,Jetpura,Industrial,Private,4298.2,19696644,6.0,3,5,9654,4,Yes,10.5
+Sehore,Jawar,Pipliya Khurd,Mixed-use,Cooperative,11248.5,86716293,7.5,3,4,1317,5,No,0.8
+Sehore,Rehti,Karadiya,Residential,Institutional,8990.5,66561037,5.0,2,3,7201,5,Yes,2.6
+Sehore,Jawar,Pipliya Khurd,Agricultural,Cooperative,1593.3,2878702,7.5,2,5,1759,6,No,11.3
+Sehore,Rehti,Bilpank,Agricultural,Private,140.9,223450,7.5,3,3,11502,15,Yes,2.8
+Sehore,Jawar,Pipliya Khurd,Mixed-use,Institutional,14090.6,47927340,7.5,2,2,6565,12,No,15.0
+Sehore,Shyampur,Kothri,Mixed-use,Government,13642.2,27695616,6.0,3,0,5453,11,No,1.4
+Sehore,Ashta,Badiyakhedi,Residential,Government,10492.8,31933185,7.5,3,3,5062,8,No,7.9
+Sehore,Rehti,Pipliya,Industrial,Cooperative,9383.1,51972541,6.0,2,5,8923,4,Yes,17.1
+Sehore,Shyampur,Kothrikalan,Commercial,Cooperative,12075.5,16972868,7.5,2,4,2355,7,Yes,7.7
+Sehore,Ichhawar,Sehore City,Residential,Cooperative,4894.0,40164798,7.5,3,5,8349,7,No,6.7
+Sehore,Sehore,Harpura Khurd,Agricultural,Institutional,13335.9,50896736,5.0,3,3,7110,5,Yes,0.2
+Sehore,Sehore,Kukri,Industrial,Institutional,7853.6,58700632,7.5,2,2,11245,1,No,1.5
+Sehore,Sehore,Harpura Kalan,Agricultural,Institutional,1669.1,4007510,6.0,3,2,1175,13,No,18.7
+Sehore,Ashta,Patla,Commercial,Government,7976.9,66185893,6.0,2,4,3873,14,No,16.4
+Sehore,Ashta,Kothri,Industrial,Private,14378.3,61333141,5.0,3,2,2571,15,Yes,10.3
+Sehore,Sehore,Nasrullaganj,Commercial,Private,11975.9,43859056,5.0,2,0,10023,13,No,15.0
+Sehore,Jawar,Khejra,Mixed-use,Private,8791.5,39263427,5.0,3,4,7992,14,No,2.8
+Sehore,Nasrullaganj,Magarda,Commercial,Institutional,1714.0,6685677,7.5,3,4,265,5,No,18.3
+Sehore,Shyampur,Pipalia,Agricultural,Cooperative,11296.7,55773433,7.5,2,4,5323,8,Yes,11.5
+Sehore,Ashta,Magarda,Mixed-use,Private,2174.1,19264109,5.0,2,5,10158,5,No,3.0
+Sehore,Ashta,Bilpank,Residential,Institutional,13677.3,79379177,5.0,3,4,4643,10,Yes,9.4
+Sehore,Nasrullaganj,Kothrikalan,Residential,Government,1517.8,10552981,7.5,3,3,4730,9,No,9.3
+Sehore,Rehti,Barkheda,Agricultural,Private,7741.2,34083619,6.0,2,1,110,9,Yes,16.8
+Sehore,Rehti,Rasuliya Khurd,Mixed-use,Cooperative,10469.3,77973747,6.0,2,4,6935,3,Yes,13.0
+Sehore,Jawar,Dhaturiya,Industrial,Private,11073.5,43017846,7.5,3,5,10252,13,No,3.4
+Sehore,Sehore,Borkhedi,Agricultural,Government,1552.0,13746873,5.0,2,3,6650,3,Yes,13.2
+Sehore,Budhni,Bhatkhedi,Residential,Private,7073.6,35404937,6.0,2,3,5977,14,No,11.3
+Sehore,Sehore,Bamuliya Khurd,Mixed-use,Private,14008.8,117993439,5.0,2,3,11927,3,Yes,13.1
+Sehore,Budhni,Mogra,Mixed-use,Private,14712.0,118743903,5.0,3,5,9441,1,Yes,14.2
+Sehore,Sehore,Karadiya,Agricultural,Cooperative,910.0,7378804,6.0,3,3,9567,6,No,1.5
+Sehore,Shyampur,Sonda Khurd,Industrial,Institutional,4763.0,27371948,5.0,2,3,3492,8,Yes,7.1
+Sehore,Budhni,Harpura Khurd,Industrial,Private,8402.8,28737572,7.5,3,1,6685,14,Yes,10.2
+Sehore,Shyampur,Sonda,Commercial,Private,12929.8,112177375,7.5,3,3,1348,3,Yes,11.9
+Sehore,Budhni,Banet,Residential,Private,9510.0,34900912,5.0,2,1,9340,11,No,17.0
+Sehore,Budhni,Pipliya,Commercial,Private,9760.9,47902931,6.0,3,5,9814,1,Yes,1.0
+Sehore,Ichhawar,Amlaha,Industrial,Government,8875.0,19097475,7.5,2,1,4553,15,No,13.3
+Sehore,Shyampur,Shyampur,Commercial,Institutional,740.0,3645712,6.0,3,4,3741,4,No,7.2
+Sehore,Shyampur,Ashta,Industrial,Cooperative,3603.0,6530403,5.0,2,0,5340,6,No,12.7
+Sehore,Rehti,Ralayati,Residential,Institutional,1974.5,3453229,6.0,2,4,4536,12,No,5.3
+Sehore,Nasrullaganj,Bhatkhedi,Mixed-use,Government,1641.7,2644449,5.0,3,3,892,11,Yes,15.1
+Sehore,Jawar,Rasuliya Khurd,Agricultural,Private,3040.9,16074298,6.0,2,2,10335,13,No,16.4
+Sehore,Budhni,Rehti,Mixed-use,Cooperative,13184.9,60685796,6.0,2,1,3853,11,No,16.1
+Sehore,Nasrullaganj,Harpura Kalan,Industrial,Institutional,4010.0,35330561,7.5,3,0,3849,14,No,14.5
+Sehore,Sehore,Dewas Naka,Residential,Private,6525.5,55473627,7.5,3,3,3632,13,No,10.2
+Sehore,Jawar,Bherunda,Agricultural,Cooperative,5541.5,36858444,5.0,2,5,7245,4,Yes,10.2
+Sehore,Jawar,Rehti,Commercial,Private,5024.9,19829814,7.5,3,5,2731,14,Yes,4.6
+Sehore,Nasrullaganj,Kurawar,Industrial,Institutional,1109.1,4187602,7.5,3,4,4104,10,No,16.0
+Sehore,Ashta,Khejra Khurd,Commercial,Institutional,4431.2,18054505,6.0,3,3,2944,12,Yes,7.0
+Sehore,Rehti,Bijepur,Agricultural,Private,13829.9,67717405,7.5,2,3,1092,8,Yes,6.8
+Sehore,Ichhawar,Dhaturiya,Residential,Private,6115.0,33109614,7.5,3,0,3784,13,No,16.8
+Sehore,Shyampur,Badiyakhedi,Residential,Institutional,12274.1,32246090,6.0,3,2,473,12,Yes,11.9
+Sehore,Ichhawar,Mangrola,Industrial,Institutional,9993.4,89694419,5.0,2,1,7009,14,No,19.4
+Sehore,Ashta,Bagmau,Mixed-use,Cooperative,10629.6,26545478,7.5,2,3,6228,8,No,2.5
+Sehore,Sehore,Sonda Khurd,Industrial,Cooperative,14292.0,14463008,6.0,3,1,4602,3,Yes,2.8
+Sehore,Ichhawar,Chandbad,Commercial,Institutional,9236.7,49450916,5.0,2,5,7221,7,Yes,17.8
+Sehore,Shyampur,Harpura Kalan,Mixed-use,Private,1479.3,11707113,7.5,2,2,2503,11,No,5.6
+Sehore,Sehore,Bherunda,Agricultural,Institutional,481.4,1113785,5.0,3,0,7552,5,No,18.2
+Sehore,Sehore,Kankariya,Commercial,Cooperative,12218.3,22974673,6.0,2,3,2151,7,Yes,1.4
+Sehore,Rehti,Rasuliya Khurd,Industrial,Institutional,5391.7,38084105,7.5,2,3,11278,8,No,17.0
+Sehore,Nasrullaganj,Kurawar,Agricultural,Private,472.8,3980197,7.5,3,0,2981,12,No,6.9
+Sehore,Jawar,Khejra,Agricultural,Institutional,13135.1,55097036,5.0,2,4,8830,4,Yes,6.1
+Sehore,Jawar,Bilpank,Residential,Institutional,13883.3,44536885,7.5,2,2,11299,8,No,11.6
+Sehore,Jawar,Kothrikalan,Agricultural,Private,1787.7,11751371,7.5,3,4,8521,8,No,4.4
+Sehore,Ichhawar,Doraha Mal,Residential,Institutional,288.3,1031493,5.0,3,3,10709,7,No,2.0
+Sehore,Jawar,Jawar,Mixed-use,Institutional,7570.6,11190833,7.5,3,1,1455,5,Yes,11.7
+Sehore,Rehti,Kurawar,Residential,Institutional,3494.3,16951019,6.0,2,5,1752,13,Yes,9.8
+Sehore,Budhni,Gunaur,Industrial,Private,756.4,4819103,7.5,3,3,4984,3,No,15.2
+Sehore,Ashta,Sonda,Mixed-use,Private,2210.4,9775516,7.5,2,1,11870,2,No,18.8
+Sehore,Ichhawar,Bankheri,Residential,Cooperative,575.9,1426786,5.0,2,4,7123,14,No,19.5
+Sehore,Rehti,Budhni,Agricultural,Government,2589.5,17937994,5.0,3,1,497,7,No,9.7
+Sehore,Budhni,Karadiya,Residential,Institutional,4850.8,27700917,5.0,2,0,6633,7,Yes,4.2
+Sehore,Ichhawar,Paraswada,Commercial,Government,4225.9,5291069,6.0,2,4,2187,3,Yes,1.0
+Sehore,Sehore,Chandbad,Residential,Private,14416.3,99663941,5.0,2,0,3453,5,No,4.3
+Sehore,Budhni,Salkanpur,Commercial,Government,5505.2,28275727,5.0,2,1,4035,12,No,6.8
+Sehore,Sehore,Jetpura Khurd,Agricultural,Institutional,1963.5,6743119,7.5,3,2,4931,10,No,8.6
+Sehore,Ashta,Bhopal Pura,Agricultural,Cooperative,6486.6,20374291,7.5,2,5,9607,6,Yes,8.8
+Sehore,Shyampur,Rasuliya Kalan,Industrial,Government,4208.8,23496835,7.5,3,1,10238,8,Yes,7.2
+Sehore,Budhni,Dhodal,Commercial,Cooperative,14729.0,62366615,6.0,2,2,8044,13,No,19.2
+Sehore,Rehti,Bagwada,Mixed-use,Private,9324.3,40397021,6.0,2,2,7795,13,No,4.5
+Sehore,Sehore,Kherdi,Agricultural,Government,4385.1,19874376,6.0,3,3,11841,6,Yes,6.8
+Sehore,Sehore,Paraswada,Mixed-use,Institutional,11239.2,25094524,5.0,3,3,9755,3,No,2.2
+Sehore,Shyampur,Bilkisganj,Commercial,Cooperative,12962.1,85326097,6.0,2,5,10294,9,Yes,6.5
+Sehore,Jawar,Bamuliya Mal,Agricultural,Cooperative,8264.0,41333969,6.0,2,5,9515,1,No,15.7
+Sehore,Sehore,Mangrola,Commercial,Institutional,8517.4,48735725,5.0,2,3,1625,6,Yes,13.5
+Sehore,Budhni,Pandharinath,Industrial,Government,10444.0,17828701,5.0,2,3,3461,8,Yes,7.7
+Sehore,Shyampur,Doraha Mal,Commercial,Private,14149.3,45149814,7.5,3,3,9124,15,Yes,11.2
+Sehore,Ichhawar,Badiyakhedi,Agricultural,Government,1837.9,16235452,6.0,3,1,9751,13,No,15.7
+Sehore,Shyampur,Pipalkheda,Commercial,Institutional,9665.3,74486881,7.5,2,3,11560,5,No,15.0
+Sehore,Jawar,Salkanpur,Mixed-use,Private,6943.3,48494852,7.5,3,0,3576,7,No,10.2
+Sehore,Budhni,Jetpura Kalan,Residential,Government,9659.1,63944469,6.0,3,4,7589,2,No,9.1
+Sehore,Ashta,Sonda,Mixed-use,Government,3339.3,9234464,5.0,2,0,6433,2,Yes,7.1
+Sehore,Ashta,Barkheda,Industrial,Government,8549.9,27161914,7.5,2,0,3239,4,Yes,5.5
+Sehore,Nasrullaganj,Ladkui,Industrial,Cooperative,12511.8,78252947,5.0,3,4,1694,5,Yes,16.5
+Sehore,Nasrullaganj,Kurawar,Residential,Private,12985.4,64264620,5.0,2,0,4163,15,Yes,2.2
+Sehore,Ashta,Pathar,Mixed-use,Private,11593.2,16004241,6.0,2,0,2516,9,No,17.1
+Sehore,Budhni,Ladkheda,Mixed-use,Private,11240.0,17746046,7.5,2,1,4833,3,Yes,19.1
+Sehore,Jawar,Jetpura,Mixed-use,Institutional,4591.3,14182824,5.0,2,1,5280,4,Yes,8.6
+Sehore,Shyampur,Bilpank,Residential,Cooperative,12573.0,105929301,5.0,2,4,6311,1,Yes,6.5
+Sehore,Shyampur,Pandharinath,Residential,Cooperative,1810.8,14513997,7.5,2,4,11221,5,Yes,19.9
+Sehore,Nasrullaganj,Khejra Khurd,Residential,Government,14562.1,75228336,7.5,2,2,1557,2,Yes,16.8
+Sehore,Shyampur,Ladkheda Khurd,Agricultural,Institutional,2119.8,10337482,7.5,2,4,3541,7,No,17.0
+Sehore,Rehti,Jamuniya,Industrial,Institutional,12914.0,32287304,5.0,2,4,1355,1,No,6.1
+Sehore,Budhni,Bamuliya Mal,Industrial,Private,11754.3,105671707,5.0,2,5,2536,2,No,5.8
+Sehore,Ashta,Doraha,Commercial,Private,13807.6,37865409,5.0,3,4,10920,7,Yes,7.8
+Sehore,Sehore,Gunaur,Agricultural,Institutional,5110.1,45923052,5.0,3,5,5159,15,Yes,0.1
+Sehore,Rehti,Pathar,Industrial,Private,14018.8,66341973,7.5,3,4,8663,15,No,8.6
+Sehore,Nasrullaganj,Rampura,Mixed-use,Government,14718.9,18325091,5.0,3,3,7446,6,No,4.2
+Sehore,Rehti,Rampura,Agricultural,Government,12787.9,31635363,7.5,2,3,2606,7,No,2.8
+Sehore,Rehti,Ladkheda,Agricultural,Private,3944.1,31520135,6.0,2,5,751,2,No,17.2
+Sehore,Nasrullaganj,Barkheda,Commercial,Private,14803.5,59577937,7.5,3,1,4320,1,No,15.6
+Sehore,Budhni,Sehore City,Residential,Cooperative,6184.9,35847931,7.5,3,0,8010,3,Yes,0.3
+Sehore,Sehore,Dhaturiya,Commercial,Private,1896.0,15094915,7.5,2,1,3807,3,Yes,3.7
+Sehore,Ichhawar,Pathar,Residential,Institutional,7108.0,56370887,7.5,2,2,9978,10,No,0.7
+Sehore,Nasrullaganj,Kurawar,Residential,Institutional,6829.4,50675993,5.0,3,0,11593,2,Yes,7.0
+Sehore,Ashta,Karadiya,Commercial,Institutional,14510.4,124055688,5.0,2,5,8743,10,Yes,18.5
+Sehore,Ashta,Jhal,Agricultural,Private,9622.2,81673867,6.0,3,4,720,10,No,10.5
+Sehore,Ashta,Paraswada,Mixed-use,Private,12784.2,15211115,6.0,2,4,4763,15,No,4.9
+Sehore,Budhni,Bamuliya Kalan,Agricultural,Government,11816.7,60079752,5.0,3,2,7742,9,No,16.0
+Sehore,Nasrullaganj,Ladkheda Khurd,Commercial,Private,2695.3,16528861,7.5,2,0,6366,4,No,10.0
+Sehore,Ashta,Jetpura Khurd,Commercial,Cooperative,8410.0,60424767,7.5,2,0,3685,14,No,5.1
+Sehore,Jawar,Ladkheda,Mixed-use,Private,4838.5,17686989,6.0,3,3,6146,10,No,14.0
+Sehore,Ashta,Bijepur,Agricultural,Government,8672.6,59776470,6.0,3,4,10496,1,No,7.2
+Sehore,Ichhawar,Sewas,Mixed-use,Cooperative,300.4,460640,5.0,3,2,6937,8,Yes,4.7
+Sehore,Nasrullaganj,Bhatkhedi,Industrial,Private,1318.3,4675719,6.0,3,0,3698,7,Yes,6.0
+Sehore,Ashta,Chandbad,Agricultural,Government,9554.5,48691892,5.0,3,5,6578,10,Yes,12.8
+Sehore,Sehore,Bairagarh,Agricultural,Institutional,6940.7,53435823,5.0,3,0,8758,5,Yes,4.9
+Sehore,Ichhawar,Bamuliya,Commercial,Government,4578.1,4752706,5.0,3,0,7494,12,Yes,6.2
+Sehore,Rehti,Magarda,Commercial,Cooperative,9037.3,32724292,6.0,3,3,4666,14,Yes,7.7
+Sehore,Shyampur,Bilpank,Industrial,Private,2499.3,5789223,6.0,2,1,3538,4,Yes,12.4
+Sehore,Rehti,Jetpura Khurd,Mixed-use,Institutional,5433.8,45901155,5.0,3,5,8861,15,Yes,10.6
+Sehore,Jawar,Shyampur,Agricultural,Private,13681.8,28985873,6.0,3,1,11357,10,Yes,8.9
+Sehore,Budhni,Jamuniya,Agricultural,Government,9035.6,68975623,5.0,3,0,6722,8,Yes,18.1
+Sehore,Rehti,Banet Mal,Commercial,Government,13505.7,54827711,5.0,3,0,6541,4,Yes,16.4
+Sehore,Ashta,Ladkui,Residential,Government,8828.6,44150887,6.0,3,0,3080,3,Yes,8.4
+Sehore,Ashta,Kachhi Barod,Mixed-use,Government,9673.4,26052124,7.5,2,3,9949,8,Yes,12.1
+Sehore,Ashta,Nasrullaganj,Residential,Government,10654.3,65888839,6.0,2,3,2445,3,No,7.6
+Sehore,Nasrullaganj,Dewas Naka,Residential,Institutional,5360.1,31075806,5.0,3,4,10235,13,Yes,4.6
+Sehore,Nasrullaganj,Kachnariya,Commercial,Government,11164.1,18563111,6.0,3,3,8806,13,Yes,5.8
+Sehore,Sehore,Bairagarh,Industrial,Institutional,12581.0,57262461,7.5,2,4,4894,13,No,4.0
+Sehore,Budhni,Bilkisganj,Industrial,Cooperative,6464.4,28222028,6.0,3,0,5695,3,No,13.0
+Sehore,Sehore,Kothri,Commercial,Private,11773.6,26855203,5.0,3,3,9019,1,No,13.3
+Sehore,Ashta,Kothrikalan,Commercial,Government,1113.2,2127345,6.0,3,0,6380,11,No,12.7
+Sehore,Jawar,Dhodal,Commercial,Government,2335.4,15113875,5.0,3,4,2594,2,Yes,7.6
+Sehore,Nasrullaganj,Rasuliya Khurd,Mixed-use,Institutional,6258.1,51897915,5.0,2,2,2544,10,No,3.9
+Sehore,Ashta,Ichhawar,Commercial,Cooperative,12466.3,89548838,5.0,2,1,11568,12,Yes,4.2
+Sehore,Nasrullaganj,Jhal,Agricultural,Cooperative,5749.4,15348220,6.0,3,0,8092,11,Yes,16.0
+Sehore,Shyampur,Sonda,Agricultural,Private,13245.2,49359797,5.0,2,0,1594,2,No,13.4
+Sehore,Ashta,Badiyakhedi,Agricultural,Government,10528.9,43624968,5.0,3,3,3659,14,No,1.4
+Sehore,Ichhawar,Jamuniya,Commercial,Institutional,4793.6,18040281,5.0,3,2,11070,7,No,18.6
+Sehore,Sehore,Bamuliya Kalan,Industrial,Cooperative,3961.9,17948574,6.0,3,1,2748,5,No,14.2
+Sehore,Budhni,Budhni,Agricultural,Cooperative,9412.1,33123169,6.0,2,4,6911,6,No,10.7
+Sehore,Rehti,Barkheda,Commercial,Private,13006.2,92699418,6.0,3,5,8114,3,Yes,14.8
+Sehore,Ashta,Bamuliya Kalan,Industrial,Government,3920.4,31436455,5.0,2,1,9479,2,No,8.8
+Sehore,Rehti,Sehore City,Commercial,Government,11828.3,39526149,6.0,3,4,11347,15,Yes,5.8
+Sehore,Rehti,Dewas Naka,Mixed-use,Cooperative,12880.9,26992218,5.0,3,5,10788,1,No,0.6
+Sehore,Jawar,Dhaturiya Khurd,Mixed-use,Government,1476.6,6825242,7.5,2,1,3213,8,Yes,13.9
+Sehore,Nasrullaganj,Karadiya,Residential,Cooperative,7364.5,52490462,6.0,2,3,3279,7,Yes,13.5
+Sehore,Sehore,Bankheri,Residential,Private,1085.1,2285813,5.0,2,0,11847,11,No,10.1
+Sehore,Nasrullaganj,Paraswada,Industrial,Institutional,11616.7,92438994,5.0,2,1,6978,14,No,13.5
+Sehore,Sehore,Budhni,Mixed-use,Government,14082.5,91968621,7.5,3,3,11908,12,Yes,14.0
+Sehore,Sehore,Ashta,Agricultural,Institutional,9130.3,30023369,6.0,2,0,9262,6,No,5.7
+Sehore,Ashta,Barkheda,Commercial,Government,3982.3,15756884,5.0,2,2,867,14,Yes,1.6
+Sehore,Rehti,Bairagarh,Industrial,Private,7169.9,52316361,7.5,2,4,849,4,Yes,5.8
+Sehore,Budhni,Nasrullaganj,Agricultural,Private,4137.3,6251440,6.0,3,4,5619,2,Yes,16.7
+Sehore,Jawar,Sewas,Residential,Institutional,7764.6,21258946,6.0,3,2,5821,9,Yes,4.0
+Sehore,Ashta,Kachhi Barod,Industrial,Institutional,5771.0,26425579,6.0,3,4,4346,1,Yes,19.2
+Sehore,Ashta,Kothrikalan,Industrial,Private,6119.6,35802565,7.5,2,3,11547,2,No,2.0
+Sehore,Rehti,Sewas,Industrial,Cooperative,14715.8,75622623,6.0,2,0,9368,10,No,16.5
+Sehore,Sehore,Ralayati,Agricultural,Government,9986.8,22756431,5.0,3,0,11836,6,Yes,6.7
+Sehore,Jawar,Bhatkhedi,Commercial,Institutional,5399.5,28687264,7.5,3,3,5410,8,Yes,11.0
+Sehore,Jawar,Rasuliya,Commercial,Government,8711.3,50056315,7.5,2,2,2658,7,No,13.2
+Sehore,Budhni,Khejra Khurd,Industrial,Institutional,8428.6,12915032,6.0,3,3,7058,9,No,12.1
+Sehore,Jawar,Sehore City,Commercial,Private,2342.2,12000279,5.0,2,3,2978,8,No,8.7
+Sehore,Jawar,Bamuliya,Agricultural,Private,9598.5,71874038,7.5,2,1,5291,3,No,18.9
+Sehore,Sehore,Kachhi Barod,Commercial,Private,12072.6,57187011,5.0,2,4,9295,15,No,2.6
+Sehore,Ashta,Rasuliya Kalan,Industrial,Government,8369.1,56241999,5.0,3,3,7736,8,Yes,2.5
+Sehore,Nasrullaganj,Chandbad,Agricultural,Government,10423.9,50512674,7.5,3,1,67,13,Yes,0.3
+Sehore,Budhni,Patla,Residential,Private,12423.0,83614541,6.0,2,1,4886,11,No,9.8
+Sehore,Ashta,Kachnariya,Industrial,Cooperative,14783.0,25892208,7.5,3,0,11155,10,No,2.3
+Sehore,Rehti,Bamuliya Kalan,Industrial,Institutional,11596.5,48949836,6.0,3,2,716,10,No,10.5
+Sehore,Jawar,Salkanpur,Agricultural,Institutional,319.9,1893791,6.0,2,1,4662,3,No,13.7
+Sehore,Rehti,Bankheri,Industrial,Government,14361.2,35305455,5.0,2,2,4045,10,Yes,9.2
+Sehore,Rehti,Doraha Mal,Agricultural,Cooperative,10102.7,44155542,5.0,3,3,10544,10,Yes,1.7
+Sehore,Rehti,Rehti,Residential,Private,1113.1,7425171,5.0,3,0,553,9,Yes,2.8
+Sehore,Rehti,Harpura Mal,Mixed-use,Government,10067.8,78101602,6.0,3,4,3380,4,No,5.9
+Sehore,Jawar,Harpura Kalan,Industrial,Private,9033.8,16824329,7.5,3,3,9391,2,No,7.7
+Sehore,Sehore,Rasuliya Kalan,Industrial,Institutional,10207.4,29810928,5.0,2,1,1551,8,Yes,16.4
+Sehore,Sehore,Kalapipal,Agricultural,Government,11697.9,24985500,6.0,3,2,9753,15,Yes,19.8
+Sehore,Shyampur,Jetpura Kalan,Commercial,Institutional,119.0,890923,7.5,2,0,8997,7,Yes,1.8
+Sehore,Sehore,Budhni,Agricultural,Private,8871.3,48577702,6.0,3,1,2396,8,Yes,8.1
+Sehore,Jawar,Nasrullaganj,Commercial,Government,4858.4,21214051,7.5,2,3,9852,12,Yes,16.3
+Sehore,Budhni,Nasrullaganj,Residential,Private,8872.8,46232495,7.5,2,0,9111,8,Yes,14.6
+Sehore,Nasrullaganj,Mangrola,Residential,Government,7938.8,70331240,5.0,3,5,4615,2,No,10.9
+Sehore,Ichhawar,Bamuliya Khurd,Residential,Government,816.6,2531539,5.0,3,3,7008,2,Yes,15.4
+Sehore,Sehore,Dhaturiya,Mixed-use,Private,7716.7,57768729,5.0,2,5,10456,7,Yes,7.0
+Sehore,Nasrullaganj,Paraswada,Agricultural,Cooperative,12714.3,101390433,7.5,2,0,1496,1,No,13.6
+Sehore,Jawar,Jetpura Khurd,Commercial,Private,12941.3,57733768,5.0,3,4,8304,5,Yes,2.0
+Sehore,Budhni,Kankariya,Commercial,Cooperative,9127.5,43766057,6.0,3,5,521,13,Yes,8.2
+Sehore,Shyampur,Kalapipal,Industrial,Private,7675.6,37071075,5.0,2,3,3919,7,No,0.6
+Sehore,Sehore,Rasuliya Kalan,Commercial,Cooperative,13870.8,32945654,5.0,2,3,7132,7,No,10.3
+Sehore,Ashta,Bilpank,Commercial,Cooperative,9682.2,16314528,6.0,3,1,3118,9,Yes,9.3
+Sehore,Jawar,Karadiya,Mixed-use,Private,2102.8,7845940,6.0,3,3,2545,7,No,19.5
+Sehore,Shyampur,Pachama,Agricultural,Private,8271.7,20709754,7.5,3,5,8769,1,No,0.7
+Sehore,Budhni,Bairagarh,Residential,Cooperative,1711.7,14682614,6.0,3,3,9084,10,Yes,11.5
+Sehore,Ichhawar,Pipliya Khurd,Agricultural,Cooperative,5315.7,9262610,7.5,3,0,10671,2,No,10.6
+Sehore,Ashta,Nasrullaganj,Agricultural,Private,145.1,845607,6.0,3,4,11584,11,Yes,10.5
+Sehore,Shyampur,Harpura Mal,Industrial,Institutional,9620.6,86001856,7.5,2,5,322,13,Yes,11.8
+Sehore,Ashta,Bherunda,Residential,Government,5151.2,5694868,7.5,3,5,641,8,No,3.5
+Sehore,Ashta,Ladkheda,Mixed-use,Institutional,2306.6,5649474,5.0,2,3,9957,4,Yes,12.7
+Sehore,Ashta,Badiyakhedi,Commercial,Private,283.5,2443148,7.5,2,0,2279,13,No,15.7
+Sehore,Sehore,Dhaturiya Khurd,Industrial,Government,3952.7,29405881,6.0,3,1,7743,13,No,19.9
+Sehore,Rehti,Dewas Naka,Residential,Institutional,4631.7,39685780,7.5,3,3,11163,13,No,5.2
+Sehore,Sehore,Bijepur,Industrial,Government,5479.4,18802183,6.0,2,2,5461,12,Yes,5.7
+Sehore,Sehore,Gunaur,Mixed-use,Cooperative,5360.7,42842646,5.0,3,4,3298,13,No,11.3
+Sehore,Jawar,Bamuliya Mal,Agricultural,Cooperative,9479.3,74293142,6.0,2,3,6466,14,No,10.4
+Sehore,Jawar,Kothrikalan,Residential,Cooperative,7133.6,37067608,5.0,3,1,2656,13,No,15.5
+Sehore,Jawar,Bamuliya Mal,Agricultural,Institutional,3718.3,32732842,6.0,3,4,568,6,Yes,15.3
+Sehore,Nasrullaganj,Karadiya,Residential,Institutional,14918.3,18723193,5.0,3,3,7643,3,Yes,1.1
+Sehore,Jawar,Mardikhurd,Commercial,Government,8541.8,56166980,6.0,2,5,8078,15,Yes,16.9
+Sehore,Rehti,Khejra,Agricultural,Private,3686.0,30973491,5.0,3,1,5539,9,No,2.3
+Sehore,Ashta,Jetpura Khurd,Commercial,Private,4554.5,17070145,7.5,2,4,1593,5,Yes,6.9
+Sehore,Budhni,Chandbad,Industrial,Institutional,11594.9,75289356,7.5,2,1,8102,10,No,3.8
+Sehore,Budhni,Barkheda,Commercial,Government,9879.8,55414174,6.0,2,3,5914,3,No,16.4
+Sehore,Ichhawar,Gunaur,Industrial,Cooperative,13599.2,101300371,6.0,2,5,887,9,No,10.0
+Sehore,Jawar,Gunaur,Agricultural,Institutional,4444.9,38388287,6.0,3,0,9939,14,Yes,11.7
+Sehore,Rehti,Pandharinath,Residential,Cooperative,10010.2,83938292,6.0,3,2,11260,4,No,14.0
+Sehore,Sehore,Chandbad,Industrial,Government,8193.7,15250347,6.0,2,1,7296,5,No,2.0
+Sehore,Ichhawar,Kurawar,Agricultural,Cooperative,5668.3,24857917,7.5,2,3,4266,15,Yes,3.6
+Sehore,Sehore,Ichhawar,Mixed-use,Institutional,7923.7,40326182,7.5,3,3,2667,1,Yes,8.5
+Sehore,Jawar,Bilkisganj,Mixed-use,Cooperative,3668.2,26854147,5.0,3,0,7190,12,No,18.8
+Sehore,Nasrullaganj,Dhodal,Residential,Institutional,10838.9,82072675,7.5,2,1,11144,12,No,8.9
+Sehore,Budhni,Bhopal Pura,Commercial,Institutional,11742.1,89501542,7.5,2,2,8276,6,Yes,13.2
+Sehore,Ichhawar,Nasrullaganj,Commercial,Institutional,9148.5,26881337,6.0,3,0,11183,3,Yes,15.7
+Sehore,Jawar,Kachhi Barod,Commercial,Institutional,2057.1,8011366,6.0,3,3,7694,3,Yes,2.3
+Sehore,Rehti,Bairagarh,Mixed-use,Private,11247.4,67818294,5.0,2,4,11637,4,No,5.0
+Sehore,Rehti,Amlaha,Residential,Private,10310.3,80894921,7.5,3,3,1994,11,Yes,6.5
+Sehore,Sehore,Patla,Mixed-use,Private,14235.0,120841215,7.5,2,3,5616,13,Yes,18.2
+Sehore,Jawar,Harpura,Mixed-use,Private,12640.4,26924516,7.5,2,5,927,12,No,4.6
+Sehore,Ichhawar,Harpura,Residential,Government,6004.3,49230100,6.0,3,1,11181,8,No,15.6
+Sehore,Budhni,Ichhawar,Agricultural,Government,8508.0,54957912,6.0,2,3,10592,5,No,17.0
+Sehore,Budhni,Bhatkhedi,Commercial,Private,3874.1,13723489,5.0,2,0,2195,13,No,14.9
+Sehore,Jawar,Harpura Mal,Industrial,Private,13314.9,92647854,6.0,3,0,2836,10,No,10.1
+Sehore,Shyampur,Pipalkheda,Residential,Government,9756.7,13466126,5.0,2,2,6736,11,No,13.6
+Sehore,Nasrullaganj,Ladkheda Khurd,Residential,Government,3662.2,16083332,7.5,2,0,1287,15,Yes,16.6
+Sehore,Ichhawar,Mogra,Commercial,Private,803.1,5623901,5.0,2,1,4650,7,Yes,2.1
+Sehore,Nasrullaganj,Harpura,Commercial,Private,1550.2,8190230,7.5,2,2,3917,3,Yes,15.4
+Sehore,Jawar,Banet Mal,Residential,Cooperative,7882.7,53518162,7.5,3,1,6854,14,Yes,4.8
+Sehore,Budhni,Dhaturiya Khurd,Industrial,Government,11095.1,64372231,6.0,3,5,8014,7,No,3.8
+Sehore,Ashta,Budhni,Agricultural,Government,1285.4,8470780,5.0,2,3,194,8,Yes,8.7
+Sehore,Nasrullaganj,Harpura Mal,Agricultural,Private,11933.3,76019117,7.5,3,0,3004,4,No,0.2
+Sehore,Rehti,Bilkisganj,Residential,Private,9363.5,69181099,6.0,3,2,6003,7,No,2.9
+Sehore,Sehore,Kachnariya,Agricultural,Cooperative,12354.7,71661196,6.0,3,3,1332,4,No,9.0
+Sehore,Budhni,Doraha Mal,Mixed-use,Cooperative,11271.2,87595921,5.0,3,3,1795,3,No,15.3
+Sehore,Sehore,Ralayati,Mixed-use,Government,14104.1,56106706,6.0,2,3,1662,4,No,15.0
+Sehore,Ashta,Dhaturiya,Commercial,Government,10335.9,87038972,6.0,3,0,4996,5,No,17.7
+Sehore,Ichhawar,Dewas Naka,Industrial,Government,10934.6,11008822,7.5,2,0,7538,7,Yes,13.7
+Sehore,Ichhawar,Ladkheda Khurd,Residential,Institutional,2848.7,14502360,5.0,3,4,6955,4,No,5.3
+Sehore,Ashta,Bamuliya,Industrial,Institutional,5706.4,50305677,6.0,3,0,3596,7,Yes,0.2
+Sehore,Nasrullaganj,Bijepur,Commercial,Cooperative,10269.0,85892719,5.0,3,5,3769,12,Yes,15.3
+Sehore,Ichhawar,Patla,Mixed-use,Private,9946.9,23289048,5.0,3,2,9852,4,No,1.4
+Sehore,Nasrullaganj,Jawar,Industrial,Government,8718.8,14435265,6.0,2,1,8464,3,No,9.6
+Sehore,Jawar,Budhni,Residential,Private,6739.5,38193498,6.0,2,3,5533,11,No,10.6
+Sehore,Nasrullaganj,Bagmau,Industrial,Institutional,8758.0,40202422,7.5,2,2,2691,15,Yes,2.2
+Sehore,Budhni,Barkheda,Agricultural,Cooperative,11874.7,105717581,6.0,2,4,10204,9,Yes,19.9
+Sehore,Ashta,Jhal,Residential,Cooperative,3232.0,23937192,7.5,3,3,4035,2,No,4.1
+Sehore,Budhni,Dhaturiya,Mixed-use,Cooperative,14717.6,57872353,6.0,3,1,6839,2,No,12.0
+Sehore,Sehore,Ladkui,Industrial,Private,1403.1,10822730,5.0,2,3,8740,3,Yes,2.4
+Sehore,Jawar,Rasuliya Khurd,Residential,Cooperative,1226.7,10953039,6.0,2,5,11446,3,Yes,7.8
+Sehore,Jawar,Sonda Khurd,Residential,Government,1227.1,7253832,7.5,3,2,9526,1,Yes,6.3
+Sehore,Ashta,Bagwada,Industrial,Government,9052.5,63348315,6.0,3,4,3734,6,No,18.1
+Sehore,Jawar,Banet Mal,Mixed-use,Private,2365.0,18458568,7.5,2,4,10406,3,Yes,18.2
+Sehore,Rehti,Kachhi Barod,Industrial,Institutional,1120.5,6500683,7.5,2,2,9186,15,Yes,12.6
+Sehore,Nasrullaganj,Dewas Naka,Industrial,Government,13576.7,25121640,7.5,2,5,3128,7,Yes,2.5
+Sehore,Sehore,Bilpank,Mixed-use,Institutional,5421.5,9657552,5.0,3,2,3879,2,No,7.9
+Sehore,Ashta,Kachnariya Kalan,Commercial,Private,13429.8,99485781,7.5,3,4,10887,12,No,15.5
+Sehore,Ashta,Dhaturiya Khurd,Mixed-use,Cooperative,10460.8,36056607,7.5,3,1,10365,5,Yes,11.3
+Sehore,Ichhawar,Kachhi Barod,Industrial,Cooperative,9569.9,77863410,6.0,2,3,6611,9,Yes,1.4
+Sehore,Jawar,Ladkui,Mixed-use,Cooperative,2946.3,13053107,5.0,3,5,2279,2,No,13.2
+Sehore,Nasrullaganj,Ashta,Commercial,Institutional,2058.5,4885246,5.0,3,0,11327,10,Yes,16.2
+Sehore,Ashta,Sonda,Commercial,Government,11024.1,49289148,6.0,2,0,8967,2,No,5.9
+Sehore,Ichhawar,Bairagarh,Mixed-use,Institutional,2397.1,21291038,5.0,2,5,4629,4,No,0.2
+Sehore,Nasrullaganj,Ralayati,Industrial,Institutional,10547.2,89691693,5.0,3,5,1117,6,No,19.8
+Sehore,Ashta,Bamuliya Kalan,Mixed-use,Institutional,1617.5,8022707,5.0,2,1,7708,1,No,6.3
+Sehore,Ichhawar,Dewas Naka,Agricultural,Private,10290.9,61629252,7.5,2,3,1296,11,Yes,0.6
+Sehore,Jawar,Karadiya,Industrial,Institutional,9278.2,22730744,7.5,2,0,10440,3,Yes,9.7
+Sehore,Sehore,Jhal,Mixed-use,Cooperative,9031.2,65051208,7.5,3,1,3846,9,No,2.0
+Sehore,Nasrullaganj,Kurawar,Residential,Government,9163.7,10354438,7.5,2,2,2127,5,Yes,6.0
+Sehore,Sehore,Kalapipal,Commercial,Government,4110.8,10402476,6.0,2,1,4266,4,No,7.5
+Sehore,Sehore,Jhal,Mixed-use,Institutional,10996.3,55661542,6.0,3,1,4707,4,Yes,7.7
+Sehore,Ichhawar,Gunaur,Agricultural,Institutional,390.7,1231451,6.0,2,4,5741,3,No,12.2
+Sehore,Shyampur,Ladkheda Khurd,Residential,Government,8574.2,63906503,7.5,3,2,5403,4,No,12.1
+Sehore,Shyampur,Ladkheda,Agricultural,Private,3938.5,7864422,7.5,2,0,666,13,No,5.6
+Sehore,Shyampur,Ladkui,Agricultural,Institutional,11114.4,65398962,6.0,3,4,7154,7,No,11.8
+Sehore,Nasrullaganj,Paraswada,Residential,Cooperative,10535.9,49103706,7.5,2,3,9622,1,Yes,16.9
+Sehore,Shyampur,Bilkisganj,Residential,Private,14453.5,39301125,7.5,3,5,7390,2,No,7.9
+Sehore,Rehti,Sonda Khurd,Industrial,Institutional,80.8,299740,7.5,3,0,11293,2,No,9.9
+Sehore,Nasrullaganj,Jetpura,Mixed-use,Government,3129.8,20513817,6.0,3,4,8522,6,Yes,17.7
+Sehore,Nasrullaganj,Harpura Khurd,Residential,Institutional,11740.6,50111557,7.5,2,3,5672,5,Yes,2.8
+Sehore,Nasrullaganj,Bhopal Pura,Mixed-use,Cooperative,1155.7,8842850,7.5,2,2,7352,2,No,19.2
+Sehore,Ichhawar,Dhodal,Residential,Government,8120.6,64723994,6.0,3,5,2875,13,No,17.5
+Sehore,Nasrullaganj,Pipliya,Residential,Cooperative,11428.0,34226234,7.5,3,4,4055,13,No,17.2
+Sehore,Ashta,Jetpura Kalan,Industrial,Government,4900.3,18652265,5.0,2,0,1351,14,Yes,8.8
+Sehore,Sehore,Kalapipal Road,Agricultural,Private,14505.2,85335820,5.0,2,2,10580,15,No,3.0
+Sehore,Shyampur,Paraswada,Agricultural,Cooperative,11404.1,15853766,5.0,3,2,6848,3,Yes,18.9
+Sehore,Sehore,Ladkui,Agricultural,Institutional,10225.6,27509714,7.5,3,3,8384,13,No,15.0
+Sehore,Jawar,Bilpank,Residential,Private,10140.0,22351741,5.0,3,3,11185,7,Yes,9.6
+Sehore,Ashta,Mogra,Commercial,Private,13297.8,45367109,6.0,3,3,7062,3,No,17.8
+Sehore,Sehore,Bagwada,Industrial,Cooperative,8109.7,53304760,7.5,3,3,4391,13,No,19.3
+Sehore,Rehti,Bamuliya Kalan,Agricultural,Institutional,9778.9,83390470,7.5,3,1,9674,6,Yes,9.0
+Sehore,Shyampur,Bamuliya,Residential,Government,7184.9,33954742,7.5,3,2,459,5,Yes,0.5
+Sehore,Shyampur,Sonda Khurd,Industrial,Institutional,1281.3,7398460,6.0,2,2,1496,2,No,15.1
+Sehore,Jawar,Dhaturiya Khurd,Commercial,Private,9360.1,13717327,5.0,2,4,4600,12,Yes,15.9
+Sehore,Rehti,Pipalkheda,Agricultural,Government,3693.1,12276004,6.0,3,1,8657,13,No,13.1
+Sehore,Sehore,Rasuliya,Commercial,Institutional,14311.2,118930434,7.5,2,3,7092,1,Yes,17.2
+Sehore,Ashta,Jetpura,Industrial,Private,12843.6,71474108,5.0,2,0,4072,14,No,11.7
+Sehore,Rehti,Sonda Khurd,Residential,Private,9032.1,64336245,7.5,3,2,1366,2,Yes,13.7
+Sehore,Rehti,Rampura,Commercial,Cooperative,11830.3,38016132,6.0,2,2,5070,8,No,8.6
+Sehore,Budhni,Pipliya,Industrial,Cooperative,10060.4,32649148,6.0,3,3,11047,11,No,11.0
+Sehore,Ichhawar,Bamuliya Kalan,Residential,Institutional,10703.3,42287463,6.0,3,0,8680,11,Yes,5.6
+Sehore,Ichhawar,Bilpank,Commercial,Private,10971.5,61374707,5.0,3,3,4732,14,Yes,6.4
+Sehore,Shyampur,Banet Mal,Commercial,Cooperative,2687.0,6031048,6.0,2,2,1151,4,Yes,10.7
+Sehore,Sehore,Rehti,Agricultural,Cooperative,4668.3,37070592,5.0,2,2,7484,12,No,3.4
+Sehore,Shyampur,Dewas Naka,Agricultural,Government,119.7,433136,6.0,3,0,323,15,Yes,18.3
+Sehore,Jawar,Rampura,Industrial,Government,12587.5,112493198,7.5,3,3,5130,15,No,9.6
+Sehore,Budhni,Pipalia,Residential,Government,13786.6,22207992,7.5,2,0,2365,6,No,4.0
+Sehore,Sehore,Karadiya,Mixed-use,Private,5291.0,45539267,7.5,3,5,2799,12,Yes,9.8
+Sehore,Rehti,Magarda,Mixed-use,Private,12148.0,62928046,7.5,2,1,9126,7,No,7.3
+Sehore,Budhni,Pachama,Industrial,Institutional,11387.8,27587130,7.5,2,0,9677,4,No,10.7
+Sehore,Budhni,Gunaur,Residential,Private,14891.9,129323325,5.0,3,3,3147,5,Yes,14.1
+Sehore,Ichhawar,Kankariya,Commercial,Private,10361.9,83003093,7.5,3,5,4017,13,Yes,16.8
+Sehore,Budhni,Bhopal Pura,Residential,Institutional,2388.7,19675296,6.0,2,0,4895,12,No,1.9
+Sehore,Jawar,Bilkisganj,Agricultural,Institutional,5487.7,42759056,5.0,3,1,688,4,Yes,16.2
+Sehore,Nasrullaganj,Ashta,Industrial,Cooperative,8029.7,51179293,5.0,2,4,6722,6,No,13.3
+Sehore,Rehti,Karadiya,Industrial,Cooperative,11142.0,74243195,5.0,3,2,5023,2,Yes,12.0
+Sehore,Budhni,Patla,Industrial,Institutional,5171.3,7449832,6.0,2,4,1737,1,No,19.4
+Sehore,Sehore,Rasuliya Khurd,Industrial,Private,337.7,2756095,7.5,2,1,10931,5,Yes,16.0
+Sehore,Budhni,Ladkheda,Mixed-use,Government,6307.7,31712986,5.0,2,5,1421,11,No,7.2
+Sehore,Sehore,Dhaturiya,Industrial,Cooperative,14322.7,17814802,5.0,3,3,9436,13,Yes,14.9
+Sehore,Ashta,Kachnariya,Mixed-use,Government,2156.2,15949894,7.5,3,3,2171,13,Yes,11.1
+Sehore,Shyampur,Jawar,Commercial,Government,2254.8,3095867,7.5,3,2,9206,6,No,14.7
+Sehore,Nasrullaganj,Salkanpur,Mixed-use,Cooperative,14094.0,30414632,6.0,2,2,5533,3,Yes,6.7
+Sehore,Ashta,Patla,Mixed-use,Cooperative,317.8,1284175,6.0,2,1,3030,5,Yes,8.4
+Sehore,Rehti,Dewas Naka,Industrial,Institutional,6811.2,50655909,7.5,3,0,11813,10,Yes,5.2
+Sehore,Budhni,Rasuliya Kalan,Mixed-use,Institutional,6579.9,57268122,6.0,2,0,1586,15,No,6.7
+Sehore,Rehti,Jhal,Commercial,Government,7761.2,38317787,7.5,3,5,6290,6,No,14.0
+Sehore,Jawar,Doraha,Commercial,Cooperative,9912.3,14072834,7.5,2,1,9742,1,Yes,19.8
+Sehore,Jawar,Harpura Mal,Industrial,Private,13837.8,67195737,7.5,3,5,7377,15,Yes,15.1
+Sehore,Ashta,Ladkui,Mixed-use,Private,3173.1,6251088,7.5,3,4,9665,13,No,14.6
+Sehore,Ichhawar,Bilpank,Agricultural,Institutional,1175.4,7863877,5.0,3,3,9280,12,Yes,19.1
+Sehore,Jawar,Kankariya,Industrial,Government,8447.1,48217666,5.0,3,3,3573,11,Yes,16.4
+Sehore,Rehti,Amlaha,Commercial,Cooperative,7441.9,55536125,6.0,3,5,8712,12,No,16.7
+Sehore,Rehti,Pachama,Commercial,Government,5564.0,35099172,7.5,2,1,8660,15,Yes,14.4
+Sehore,Ashta,Barkheda,Mixed-use,Government,2381.6,9498137,5.0,3,4,8475,6,No,10.8
+Sehore,Nasrullaganj,Banet Mal,Industrial,Cooperative,13607.2,83182295,7.5,2,4,6590,5,No,16.1
+Sehore,Jawar,Borkhedi,Agricultural,Institutional,8652.0,66167097,6.0,3,1,1350,4,No,12.8
+Sehore,Budhni,Borkhedi,Agricultural,Institutional,10280.5,68601305,7.5,2,4,11519,10,No,5.6
+Sehore,Shyampur,Mardikhurd,Residential,Private,10609.9,35321002,7.5,3,5,2613,7,No,6.5
+Sehore,Budhni,Dhaturiya Khurd,Residential,Cooperative,6412.1,23578327,6.0,3,2,5264,2,No,15.6
+Sehore,Sehore,Kankariya,Residential,Cooperative,6653.7,38530340,5.0,2,0,9318,4,No,14.8
+Sehore,Ichhawar,Nasrullaganj,Residential,Cooperative,11781.5,90682075,5.0,3,4,7838,11,Yes,3.5
+Sehore,Nasrullaganj,Patla,Commercial,Institutional,11409.1,83686232,5.0,3,5,9883,3,No,7.7
+Sehore,Ashta,Bilpank,Mixed-use,Institutional,6583.5,43143405,5.0,2,2,182,13,Yes,4.0
+Sehore,Nasrullaganj,Gunaur,Residential,Private,12590.5,46196447,5.0,3,5,4015,6,No,8.1
+Sehore,Shyampur,Kachhi Barod,Agricultural,Institutional,3977.3,17240128,5.0,3,1,9647,3,No,0.9
+Sehore,Sehore,Jamuniya,Agricultural,Cooperative,9524.2,20022621,5.0,2,5,5501,12,Yes,8.0
+Sehore,Nasrullaganj,Bamuliya Khurd,Mixed-use,Private,1677.7,10950334,7.5,3,3,7331,12,Yes,16.1
+Sehore,Rehti,Shyampur,Commercial,Private,13201.8,113456435,6.0,2,4,4078,14,Yes,13.5
+Sehore,Shyampur,Magarda,Agricultural,Government,1413.0,3207113,5.0,3,2,3614,10,No,8.0
+Sehore,Nasrullaganj,Pathar,Industrial,Private,6731.5,39554849,5.0,3,2,1396,11,Yes,12.2
+Sehore,Budhni,Paraswada,Industrial,Institutional,5605.3,12474112,7.5,3,2,1622,13,No,12.1
+Sehore,Ichhawar,Magarda,Commercial,Private,6487.3,20790117,7.5,2,4,11075,13,Yes,10.4
+Sehore,Rehti,Bamuliya Mal,Mixed-use,Cooperative,4139.9,18875999,6.0,3,2,9591,15,Yes,9.7
+Sehore,Rehti,Harpura Khurd,Agricultural,Institutional,9757.7,65053663,7.5,3,1,7126,9,No,13.2
+Sehore,Budhni,Magarda,Industrial,Government,14265.2,97108807,7.5,3,4,930,8,No,18.9
+Sehore,Jawar,Dewas Naka,Residential,Institutional,3220.8,18519403,6.0,2,0,10928,1,Yes,2.5
+Sehore,Rehti,Rasuliya Khurd,Agricultural,Cooperative,6866.4,19430055,6.0,3,1,10916,2,No,13.9
+Sehore,Shyampur,Chandbad,Commercial,Institutional,14143.4,67130055,7.5,3,3,4220,2,Yes,6.9
+Sehore,Shyampur,Kankariya,Residential,Cooperative,8046.8,64408919,6.0,3,1,10201,11,No,3.1
+Sehore,Ichhawar,Mangrola,Agricultural,Institutional,5294.8,6042551,7.5,3,3,9844,5,No,7.3
+Sehore,Budhni,Dhaturiya Khurd,Industrial,Cooperative,741.1,5409525,7.5,3,5,10540,2,Yes,8.3
+Sehore,Jawar,Ladkui,Agricultural,Cooperative,108.1,123876,5.0,3,3,9764,8,Yes,5.2
+Sehore,Shyampur,Jetpura Kalan,Mixed-use,Cooperative,10827.8,80700631,7.5,2,2,2089,9,No,14.3
+Sehore,Rehti,Shyampur,Mixed-use,Government,7529.8,24601431,7.5,3,0,2059,8,Yes,3.9
+Sehore,Sehore,Pandharinath,Residential,Private,6945.0,41157441,5.0,2,0,7231,12,Yes,18.8
+Sehore,Shyampur,Bagmau,Agricultural,Private,7374.1,32887080,7.5,2,4,5171,6,Yes,8.0
+Sehore,Ichhawar,Barkheda,Agricultural,Government,9995.6,71620508,7.5,3,3,6633,11,Yes,7.1
+Sehore,Jawar,Kalapipal,Industrial,Government,5570.8,35599940,6.0,3,0,8062,1,No,2.6
+Sehore,Jawar,Khejra,Residential,Government,3518.8,13242116,5.0,2,4,169,2,No,3.9
+Sehore,Shyampur,Kankariya,Commercial,Cooperative,9558.0,84154801,5.0,3,3,11066,15,Yes,6.3
+Sehore,Sehore,Ralayati,Residential,Institutional,7840.8,9242527,7.5,2,5,894,15,No,13.5
+Sehore,Jawar,Rasuliya,Industrial,Institutional,8445.9,18808522,5.0,2,2,3023,11,No,4.8
+Sehore,Shyampur,Pipliya Khurd,Agricultural,Private,2191.0,11070332,7.5,3,3,9606,2,Yes,16.2
+Sehore,Ichhawar,Bankheri,Commercial,Private,4016.7,25150160,6.0,2,3,1403,15,Yes,11.8
+Sehore,Ichhawar,Dhodal,Mixed-use,Institutional,5963.2,42134696,6.0,3,2,10358,11,No,7.6
+Sehore,Rehti,Ladkui,Commercial,Institutional,10321.7,36499644,6.0,2,0,8582,2,No,1.8
+Sehore,Sehore,Mogra,Commercial,Private,10332.3,22266890,5.0,2,5,9767,4,No,16.8
+Sehore,Sehore,Pipliya,Agricultural,Private,8092.9,66219924,6.0,2,2,6308,11,Yes,3.4
+Sehore,Budhni,Jetpura,Mixed-use,Government,3039.0,10907413,5.0,2,0,3074,8,Yes,10.9
+Sehore,Sehore,Ashta,Commercial,Private,7661.7,61505045,6.0,3,3,7961,1,Yes,19.8
+Sehore,Shyampur,Jhal,Residential,Government,11650.2,46807376,7.5,3,0,7966,7,No,13.8
+Sehore,Budhni,Rasuliya Kalan,Industrial,Government,14380.2,71784538,5.0,3,4,8627,14,No,11.3
+Sehore,Nasrullaganj,Kachhi Barod,Mixed-use,Cooperative,12223.7,33969207,5.0,2,3,4922,11,No,15.9
+Sehore,Nasrullaganj,Bamuliya Kalan,Industrial,Cooperative,4533.8,25890622,5.0,3,0,5340,12,Yes,12.2
+Sehore,Ashta,Badiyakhedi,Agricultural,Private,14481.6,97816620,6.0,2,1,4938,3,No,16.3
+Sehore,Budhni,Kalapipal Road,Industrial,Private,1920.9,2983562,6.0,2,1,6556,9,Yes,11.6
+Sehore,Shyampur,Ashta,Industrial,Institutional,2693.3,23393476,5.0,2,4,4129,11,No,14.6
+Sehore,Rehti,Dhaturiya,Industrial,Private,2177.7,4147762,7.5,2,4,11647,9,No,7.4
+Sehore,Nasrullaganj,Pipliya,Residential,Government,12983.4,109378027,5.0,2,2,8983,4,No,3.9
+Sehore,Budhni,Sehore City,Industrial,Institutional,6773.6,54751795,6.0,2,3,5153,6,No,7.6
+Sehore,Jawar,Doraha Mal,Agricultural,Private,467.9,1077759,5.0,3,0,1498,3,Yes,3.9
+Sehore,Rehti,Bhatkhedi,Mixed-use,Cooperative,8528.6,9342873,5.0,3,4,7484,2,No,18.6
+Sehore,Budhni,Jamuniya,Residential,Government,567.3,2431700,6.0,2,4,5021,2,Yes,5.1
+Sehore,Sehore,Sehore City,Agricultural,Private,14450.6,43741391,5.0,3,1,3966,8,No,11.2
+Sehore,Budhni,Harpura Mal,Industrial,Cooperative,6906.0,54732503,6.0,2,0,6403,5,Yes,6.3
+Sehore,Shyampur,Jetpura Khurd,Commercial,Private,9614.7,45952045,5.0,2,1,3749,3,No,11.6
+Sehore,Sehore,Mogra,Agricultural,Cooperative,13450.4,41860573,6.0,2,0,5001,9,No,17.9
+Sehore,Ashta,Pipliya Khurd,Agricultural,Cooperative,10902.4,29847854,5.0,2,2,6390,1,No,16.9
+Sehore,Ichhawar,Borkhedi,Residential,Cooperative,8947.7,69699721,6.0,3,3,6825,14,Yes,2.2
+Sehore,Ashta,Borkhedi,Mixed-use,Cooperative,5931.7,47743676,6.0,3,5,5802,7,No,9.3
+Sehore,Shyampur,Kothrikalan,Commercial,Cooperative,10272.2,27536754,7.5,3,2,11196,1,Yes,11.6
+Sehore,Nasrullaganj,Banet Mal,Industrial,Institutional,11145.3,12162445,6.0,3,5,9718,12,Yes,18.5
+Sehore,Sehore,Kothri,Commercial,Government,13977.8,101399184,6.0,2,4,7305,15,No,17.8
+Sehore,Shyampur,Kalapipal Road,Agricultural,Cooperative,689.9,4300861,7.5,3,1,6214,4,No,9.4
+Sehore,Ichhawar,Ralayati,Residential,Private,903.2,4066603,5.0,3,0,2180,9,No,3.5
+Sehore,Ashta,Sonda,Mixed-use,Government,4368.3,10098232,5.0,2,0,2394,4,Yes,5.1
+Sehore,Sehore,Budhni,Industrial,Private,12531.0,107960357,6.0,3,5,3762,11,Yes,8.0
+Sehore,Rehti,Dhaturiya Khurd,Commercial,Government,5168.1,27398609,6.0,3,1,9860,5,Yes,2.8
+Sehore,Rehti,Bagwada,Industrial,Private,572.5,2324534,6.0,3,4,9154,6,No,10.7
+Sehore,Rehti,Bagwada,Residential,Private,14430.8,87364199,7.5,2,2,2781,6,No,19.3
+Sehore,Ichhawar,Kukri,Residential,Institutional,3773.9,17180797,6.0,2,2,5506,13,Yes,9.6
+Sehore,Sehore,Gunaur,Mixed-use,Cooperative,8201.8,10000489,5.0,2,1,11880,10,Yes,3.5
+Sehore,Jawar,Doraha,Industrial,Private,13537.3,23612304,7.5,3,4,6624,7,Yes,19.0
+Sehore,Ichhawar,Bijepur,Industrial,Cooperative,2459.4,19882734,6.0,2,5,1299,5,Yes,16.1
+Sehore,Rehti,Sonda,Commercial,Private,7150.4,45278222,6.0,3,2,1931,7,Yes,4.8
+Sehore,Ichhawar,Bijepur,Mixed-use,Private,7107.4,8209680,5.0,2,1,8685,8,No,6.8
+Sehore,Budhni,Kothrikalan,Residential,Government,10242.1,70106972,7.5,2,0,11898,15,No,7.3
+Sehore,Rehti,Khejra,Residential,Cooperative,4189.4,20889663,5.0,2,0,4458,7,No,2.7
+Sehore,Shyampur,Karadiya,Residential,Private,5384.2,22861476,7.5,3,2,4568,3,Yes,4.7
+Sehore,Sehore,Nasrullaganj,Industrial,Institutional,4441.9,23732287,5.0,2,0,9435,6,No,2.9
+Sehore,Jawar,Doraha Mal,Mixed-use,Government,6016.6,40056973,5.0,3,0,1490,14,No,6.8
+Sehore,Ichhawar,Bilpank,Commercial,Cooperative,7322.6,23015875,7.5,3,4,11579,2,No,0.2
+Sehore,Rehti,Shyampur,Residential,Cooperative,7485.6,66245558,6.0,2,0,10165,3,No,1.6
+Sehore,Ichhawar,Shyampur,Residential,Government,8281.7,56041966,5.0,2,1,11601,3,No,16.9
+Sehore,Nasrullaganj,Bagmau,Commercial,Cooperative,8815.5,44466854,7.5,2,2,8824,11,No,18.3
+Sehore,Budhni,Doraha,Industrial,Government,12046.9,74297998,5.0,3,4,2751,1,No,6.8
+Sehore,Shyampur,Dewas Naka,Residential,Institutional,13727.9,46567972,6.0,2,4,6800,3,No,2.7
+Sehore,Budhni,Sewas,Mixed-use,Government,10421.1,25245510,7.5,3,5,7415,4,No,14.2
+Sehore,Shyampur,Borkhedi,Commercial,Institutional,4512.2,27447041,5.0,3,2,10251,15,No,10.4
+Sehore,Ichhawar,Kachnariya Kalan,Industrial,Institutional,7190.2,26607102,6.0,3,1,8545,14,Yes,16.7
+Sehore,Ashta,Amlaha,Agricultural,Private,9639.4,19306643,6.0,3,0,10314,1,Yes,11.4
+Sehore,Ashta,Kalapipal Road,Residential,Cooperative,10509.1,51110312,6.0,3,1,4768,15,Yes,8.2
+Sehore,Ichhawar,Paraswada,Agricultural,Institutional,8941.0,74950096,5.0,3,4,3833,1,Yes,14.4
+Sehore,Nasrullaganj,Ladkheda Khurd,Residential,Private,10207.2,22317715,5.0,2,5,1912,13,No,3.8
+Sehore,Ichhawar,Pipalkheda,Agricultural,Private,3938.7,34187967,6.0,3,4,258,15,Yes,12.7
+Sehore,Nasrullaganj,Paraswada,Mixed-use,Government,3324.0,12098273,7.5,3,3,5066,3,Yes,11.5
+Sehore,Jawar,Rasuliya Khurd,Agricultural,Cooperative,10291.1,85341523,6.0,3,0,5832,4,Yes,15.8
+Sehore,Ichhawar,Jhal,Commercial,Institutional,7017.4,50770744,6.0,3,0,749,12,Yes,3.0
+Sehore,Ashta,Bagmau,Residential,Private,6530.3,50540701,6.0,2,5,5157,5,Yes,9.1
+Sehore,Shyampur,Bagwada,Agricultural,Institutional,3956.3,33655149,7.5,3,1,10557,4,Yes,8.1
+Sehore,Shyampur,Kalapipal Road,Commercial,Private,11041.8,50162865,6.0,3,4,3730,10,Yes,6.2
+Sehore,Jawar,Banet Mal,Mixed-use,Cooperative,8845.2,28458660,5.0,2,5,5731,3,No,11.2
+Sehore,Jawar,Dhodal,Industrial,Government,3781.9,27929893,7.5,2,1,4084,1,No,4.7
+Sehore,Rehti,Bagwada,Commercial,Private,2777.4,7887878,6.0,2,1,2549,5,No,18.7
+Sehore,Ashta,Rasuliya Kalan,Mixed-use,Institutional,2927.9,22109903,5.0,2,1,3820,6,Yes,6.6
+Sehore,Budhni,Ladkheda,Residential,Government,3788.2,7790631,5.0,2,3,11661,2,No,18.9
+Sehore,Rehti,Mangrola,Industrial,Private,12075.3,104429336,6.0,2,2,2538,3,No,18.9
+Sehore,Sehore,Kankariya,Residential,Private,8938.5,20113015,6.0,2,1,5305,4,Yes,18.8
+Sehore,Budhni,Pipliya Khurd,Residential,Government,12348.6,84737085,6.0,2,2,11772,12,Yes,14.6
+Sehore,Nasrullaganj,Bamuliya Kalan,Agricultural,Private,9277.7,74183464,5.0,3,5,8196,14,No,7.2
+Sehore,Budhni,Pipalkheda,Industrial,Government,2671.3,13675583,7.5,2,2,6760,4,Yes,16.8
+Sehore,Sehore,Bherunda,Industrial,Government,12693.0,20251273,7.5,3,5,7137,4,No,2.7
+Sehore,Ashta,Paraswada,Industrial,Private,4744.9,15721250,5.0,3,4,9263,11,No,10.1
+Sehore,Rehti,Jetpura Kalan,Industrial,Cooperative,6951.8,11253377,5.0,2,5,6971,1,Yes,14.9
+Sehore,Ashta,Kachhi Barod,Residential,Private,13753.6,97957595,6.0,2,0,3597,10,Yes,9.8
+Sehore,Budhni,Mangrola,Mixed-use,Government,650.9,4812748,6.0,2,3,4032,9,Yes,8.2
+Sehore,Shyampur,Mangrola,Agricultural,Private,7949.4,51515387,6.0,2,2,10334,1,No,6.7
+Sehore,Sehore,Harpura Mal,Mixed-use,Government,5752.5,13856494,5.0,2,3,2607,12,No,3.2
+Sehore,Ashta,Rasuliya Kalan,Mixed-use,Private,10124.6,86556389,6.0,3,1,10409,4,No,4.3
+Sehore,Sehore,Pathar,Residential,Cooperative,7775.2,53005202,7.5,2,4,3686,1,No,12.1
+Sehore,Rehti,Kachhi Barod,Agricultural,Institutional,14656.0,85891766,5.0,3,3,1351,5,No,9.7
+Sehore,Ashta,Jhal,Industrial,Cooperative,6785.7,10497647,7.5,3,3,1704,2,No,6.2
+Sehore,Sehore,Shyampur,Agricultural,Institutional,12329.7,32770194,6.0,2,0,8303,1,No,4.3
+Sehore,Ichhawar,Budhni,Residential,Government,5294.4,40656522,6.0,3,2,3554,4,No,14.1
+Sehore,Shyampur,Chandpur,Residential,Government,1563.4,7756078,7.5,3,0,9747,13,Yes,16.8
+Sehore,Budhni,Bhatkhedi,Agricultural,Cooperative,10125.6,11147495,5.0,2,2,10941,1,Yes,19.1
+Sehore,Nasrullaganj,Magarda,Agricultural,Private,9900.1,88846479,6.0,2,4,11845,1,Yes,11.4
+Sehore,Shyampur,Ladkheda,Industrial,Government,7844.8,37862794,6.0,3,0,6468,4,Yes,4.1
+Sehore,Nasrullaganj,Bagwada,Mixed-use,Government,11604.9,17123167,5.0,2,2,3710,6,Yes,12.3
+Sehore,Jawar,Budhni,Industrial,Institutional,1666.8,14889054,7.5,3,2,4497,7,No,3.1
+Sehore,Shyampur,Doraha Mal,Commercial,Institutional,1568.7,9169183,6.0,2,1,5568,3,No,15.6
+Sehore,Sehore,Nasrullaganj,Residential,Government,1980.7,2572612,5.0,3,0,6149,7,No,9.1
+Sehore,Budhni,Banet,Agricultural,Private,9916.7,51063634,7.5,2,2,1725,15,Yes,15.5
+Sehore,Ashta,Magarda,Residential,Cooperative,6086.0,8201227,7.5,2,1,3613,10,Yes,9.8
+Sehore,Nasrullaganj,Mardikhurd,Industrial,Private,8788.9,35620876,5.0,3,0,5397,3,No,7.9
+Sehore,Rehti,Gunaur,Agricultural,Institutional,4599.7,5144789,5.0,3,5,9148,3,No,10.8
+Sehore,Sehore,Salkanpur,Residential,Government,13035.1,37510374,5.0,3,2,730,4,Yes,16.8
+Sehore,Budhni,Mangrola,Residential,Government,5753.5,23273986,7.5,2,2,2041,10,Yes,13.4
+Sehore,Sehore,Sehore City,Industrial,Private,445.6,2064732,5.0,2,0,9555,13,Yes,14.7
+Sehore,Sehore,Bamuliya Mal,Mixed-use,Government,13334.8,90813306,6.0,2,2,1088,1,Yes,5.3
+Sehore,Nasrullaganj,Kurawar,Commercial,Private,7773.8,14668497,7.5,2,2,209,6,Yes,14.0
+Sehore,Jawar,Harpura,Agricultural,Private,6718.4,38281249,5.0,3,2,7429,1,No,8.3
+Sehore,Nasrullaganj,Jawar,Industrial,Cooperative,1573.3,9887651,7.5,3,4,3534,2,Yes,4.0
+Sehore,Nasrullaganj,Harpura Kalan,Industrial,Institutional,4775.4,9556274,5.0,3,2,10886,8,No,15.8
+Sehore,Shyampur,Khejra,Residential,Government,3284.7,29381702,6.0,3,2,10179,11,No,0.2
+Sehore,Jawar,Bagwada,Mixed-use,Private,10643.6,44122781,7.5,3,0,3094,14,No,19.3
+Sehore,Budhni,Sehore City,Industrial,Private,3424.3,15111499,6.0,3,1,1120,12,Yes,7.0
+Sehore,Sehore,Chandpur,Residential,Private,1291.7,11588624,7.5,3,5,5494,5,No,15.8
+Sehore,Ichhawar,Harpura Khurd,Commercial,Cooperative,638.8,5396690,5.0,2,2,7272,5,No,9.3
+Sehore,Nasrullaganj,Harpura Mal,Industrial,Institutional,7670.8,39382777,6.0,2,5,4087,7,Yes,0.6
+Sehore,Ashta,Paraswada,Industrial,Private,11322.1,51584917,5.0,3,2,9456,15,No,12.0
+Sehore,Jawar,Rehti,Industrial,Private,1730.9,13985217,6.0,2,4,11575,13,No,16.7
+Sehore,Ashta,Mardikhurd,Mixed-use,Private,2619.7,4565101,6.0,3,0,5893,6,No,9.0
+Sehore,Jawar,Bilpank,Commercial,Institutional,9980.8,68301509,7.5,3,2,2700,4,Yes,9.7
+Sehore,Ashta,Ladkui,Commercial,Institutional,3717.5,3755041,5.0,3,4,11432,13,Yes,7.8
+Sehore,Sehore,Kachnariya,Commercial,Cooperative,10787.1,93394269,7.5,3,5,7527,4,Yes,19.9
+Sehore,Jawar,Bilpank,Agricultural,Cooperative,10441.5,23369777,7.5,3,5,11891,3,Yes,15.9
+Sehore,Rehti,Kukri,Industrial,Institutional,14548.7,42901361,7.5,2,3,10844,13,No,11.1
+Sehore,Budhni,Jetpura,Residential,Government,4160.3,10842015,5.0,3,4,6448,8,Yes,8.7
+Sehore,Rehti,Rasuliya,Mixed-use,Private,7207.1,20410248,6.0,3,4,2102,2,Yes,7.8
+Sehore,Rehti,Ichhawar,Industrial,Government,14022.2,55639465,6.0,3,2,6614,4,No,0.4
+Sehore,Nasrullaganj,Bamuliya Mal,Agricultural,Institutional,7331.1,57003997,5.0,2,2,10886,3,No,13.9
+Sehore,Budhni,Bijepur,Industrial,Cooperative,14310.2,81074863,5.0,3,2,2116,10,Yes,6.7
+Sehore,Ichhawar,Badiyakhedi,Residential,Private,794.8,1304771,5.0,2,0,5402,7,Yes,8.4
+Sehore,Shyampur,Salkanpur,Mixed-use,Institutional,11833.7,103468464,7.5,2,1,1487,14,Yes,0.1
+Sehore,Ichhawar,Dhaturiya Khurd,Commercial,Institutional,10016.9,40105103,7.5,2,5,11299,15,No,9.6
+Sehore,Jawar,Jetpura Khurd,Commercial,Private,995.5,6294033,7.5,2,3,11129,15,No,19.0
+Sehore,Jawar,Ladkheda Khurd,Industrial,Institutional,14543.9,98856556,5.0,2,1,1226,13,Yes,17.6
+Sehore,Ashta,Sonda,Commercial,Private,7931.9,70374945,6.0,2,3,6348,2,Yes,16.6
+Sehore,Ichhawar,Salkanpur,Industrial,Institutional,11487.5,74924040,6.0,2,3,8352,4,No,18.3
+Sehore,Budhni,Sonda,Industrial,Cooperative,4166.8,32054397,5.0,2,4,10968,2,Yes,13.2
+Sehore,Rehti,Chandbad,Mixed-use,Government,13291.8,80821012,6.0,3,0,2914,7,Yes,9.3
+Sehore,Nasrullaganj,Kachnariya Kalan,Mixed-use,Institutional,12697.2,29499744,5.0,3,1,10124,7,No,5.2
+Sehore,Nasrullaganj,Bagwada,Industrial,Cooperative,7648.9,61014246,5.0,2,2,3696,4,Yes,8.6
+Sehore,Ashta,Kachnariya Kalan,Mixed-use,Private,4861.5,24295138,5.0,3,2,11559,6,Yes,15.4
+Sehore,Sehore,Dhaturiya,Industrial,Cooperative,13941.7,19756001,6.0,2,5,2539,1,No,19.1
+Sehore,Jawar,Khejra Khurd,Commercial,Private,6233.8,50435156,6.0,3,5,418,4,Yes,3.9
+Sehore,Nasrullaganj,Doraha,Mixed-use,Private,2694.1,9579679,7.5,3,3,3775,12,No,19.4
+Sehore,Jawar,Kachnariya Kalan,Agricultural,Cooperative,12802.5,45151564,6.0,2,4,10593,14,Yes,5.2
+Sehore,Shyampur,Khejra,Residential,Private,1040.7,6663914,6.0,3,0,3628,12,No,3.1
+Sehore,Rehti,Pipalkheda,Industrial,Cooperative,1632.8,3726868,7.5,3,5,2677,4,Yes,0.7
+Sehore,Ashta,Bijepur,Residential,Institutional,6017.0,18014643,7.5,2,4,2771,11,No,19.9
+Sehore,Ichhawar,Pipliya,Industrial,Government,14426.3,111204899,5.0,2,0,7778,11,Yes,1.8
+Sehore,Shyampur,Bilpank,Industrial,Institutional,11456.5,38091306,6.0,2,1,93,8,Yes,0.2
+Sehore,Shyampur,Budhni,Mixed-use,Institutional,2134.9,10161446,7.5,2,3,11221,12,Yes,9.9
+Sehore,Sehore,Pipalia,Industrial,Institutional,1068.0,6405485,7.5,3,2,5489,2,Yes,0.5
+Sehore,Rehti,Bilkisganj,Residential,Private,9307.2,60581353,6.0,2,1,7083,15,Yes,4.2
+Sehore,Ashta,Ashta,Commercial,Cooperative,240.2,1108373,5.0,2,2,677,3,Yes,0.2
+Sehore,Jawar,Jetpura Kalan,Agricultural,Government,13167.2,80556397,5.0,3,2,3403,10,Yes,19.6
+Sehore,Ichhawar,Harpura Mal,Residential,Private,13078.3,87306987,5.0,2,3,7034,10,No,16.7
+Sehore,Shyampur,Jetpura Khurd,Agricultural,Private,3791.0,29816308,6.0,3,2,4190,2,Yes,7.9
+Sehore,Sehore,Pipalkheda,Agricultural,Cooperative,143.9,933363,6.0,3,5,5477,9,Yes,2.1
+Sehore,Budhni,Jamuniya,Industrial,Institutional,2209.1,18916450,7.5,2,4,108,10,Yes,6.0
+Sehore,Budhni,Harpura Kalan,Residential,Institutional,12286.3,76587579,6.0,3,0,11827,13,Yes,2.5
+Sehore,Ichhawar,Dhodal,Agricultural,Government,10496.1,68964762,5.0,2,2,8294,14,Yes,19.7
+Sehore,Shyampur,Rasuliya Kalan,Agricultural,Government,5299.6,16789695,5.0,3,3,6678,3,No,14.9
+Sehore,Jawar,Kalapipal Road,Agricultural,Private,11592.1,19654602,6.0,2,2,5282,9,No,16.7
+Sehore,Shyampur,Mogra,Mixed-use,Government,6075.8,16820200,6.0,3,4,9676,1,Yes,0.5
+Sehore,Rehti,Mangrola,Mixed-use,Private,10623.9,61024438,5.0,3,0,5120,14,Yes,3.6
+Sehore,Jawar,Bhatkhedi,Agricultural,Institutional,9938.4,38916022,5.0,2,2,5827,10,No,8.9
+Sehore,Shyampur,Dewas Naka,Mixed-use,Private,1676.1,4201874,6.0,2,0,11660,5,No,9.4
+Sehore,Ichhawar,Ralayati,Agricultural,Institutional,11524.5,74478576,5.0,3,0,9052,10,No,19.4
+Sehore,Shyampur,Rehti,Residential,Institutional,9916.7,86414967,5.0,2,1,3350,7,No,1.3
+Sehore,Jawar,Khejra,Industrial,Cooperative,10236.9,15998061,7.5,2,0,11303,15,No,5.7
+Sehore,Budhni,Barkheda,Commercial,Cooperative,8693.6,68526435,7.5,2,3,1772,11,No,13.9
+Sehore,Ashta,Amlaha,Commercial,Cooperative,11242.7,90564731,7.5,3,1,8460,6,No,10.3
+Sehore,Budhni,Bijepur,Agricultural,Government,14539.8,68908373,7.5,2,0,11711,15,Yes,12.9
+Sehore,Shyampur,Chandpur,Industrial,Institutional,9262.9,81900185,7.5,3,2,5172,8,No,17.4
+Sehore,Nasrullaganj,Mardikhurd,Residential,Private,6822.3,38561299,5.0,3,1,6367,11,No,5.8
+Sehore,Jawar,Dewas Naka,Industrial,Institutional,14903.2,27913714,6.0,2,5,4295,4,No,11.6
+Sehore,Jawar,Bamuliya Kalan,Mixed-use,Institutional,14325.7,87310031,7.5,2,3,9978,12,No,7.3
+Sehore,Rehti,Mogra,Mixed-use,Government,13835.2,68830591,6.0,2,3,7864,9,No,19.9
+Sehore,Jawar,Kankariya,Residential,Cooperative,12627.8,82679122,5.0,3,5,11026,2,No,9.4
+Sehore,Sehore,Pandharinath,Commercial,Institutional,9891.2,60685964,5.0,3,4,8808,4,No,11.7
+Sehore,Ichhawar,Salkanpur,Commercial,Institutional,4295.2,12414720,5.0,3,4,9681,10,No,2.7
+Sehore,Rehti,Banet Mal,Residential,Government,3425.2,24386857,5.0,3,2,3254,3,No,4.8
+Sehore,Rehti,Bherunda,Agricultural,Cooperative,2405.7,13842119,5.0,2,1,2146,4,No,9.7
+Sehore,Budhni,Bairagarh,Industrial,Institutional,13302.5,75575233,7.5,3,2,6081,6,No,19.7
+Sehore,Ashta,Kothrikalan,Residential,Private,6213.2,29587930,5.0,2,3,5115,5,No,11.3
+Sehore,Shyampur,Pipalkheda,Residential,Government,1688.0,9300454,7.5,2,5,2466,8,Yes,16.9
+Sehore,Rehti,Ichhawar,Industrial,Cooperative,1622.2,3618432,5.0,2,5,11684,11,Yes,7.4
+Sehore,Nasrullaganj,Pathar,Industrial,Institutional,3785.1,3917456,6.0,3,2,5355,13,No,11.7
+Sehore,Ashta,Paraswada,Industrial,Government,10608.9,46993515,6.0,3,3,8879,10,No,18.5
+Sehore,Jawar,Bilpank,Commercial,Cooperative,6196.3,55080842,7.5,2,2,11164,14,No,0.8
+Sehore,Ichhawar,Doraha Mal,Commercial,Cooperative,8518.2,57642504,5.0,3,4,334,3,Yes,3.1
+Sehore,Shyampur,Bhatkhedi,Agricultural,Private,6054.1,28232039,7.5,2,3,10590,15,No,0.6
+Sehore,Budhni,Magarda,Residential,Government,657.0,1746077,5.0,3,2,10070,1,No,8.8
+Sehore,Shyampur,Harpura,Residential,Cooperative,2800.2,4455358,7.5,2,5,3943,13,Yes,11.8
+Sehore,Budhni,Kalapipal Road,Commercial,Cooperative,11765.3,69123515,5.0,2,2,3725,1,No,1.8
+Sehore,Ichhawar,Sonda Khurd,Residential,Private,13473.9,27047328,5.0,2,5,7640,8,No,3.7
+Sehore,Ashta,Karadiya,Agricultural,Institutional,7405.7,39485635,6.0,2,4,2430,1,No,4.0
+Sehore,Ichhawar,Doraha Mal,Mixed-use,Private,14403.0,127420545,5.0,3,4,9117,1,No,5.2
+Sehore,Sehore,Rasuliya,Mixed-use,Institutional,2129.3,17137274,6.0,3,0,9353,7,Yes,13.0
+Sehore,Nasrullaganj,Ralayati,Commercial,Institutional,13758.9,123755669,5.0,3,3,3613,8,No,13.9
+Sehore,Shyampur,Dewas Naka,Mixed-use,Institutional,290.3,298669,7.5,3,3,5261,8,No,9.2
+Sehore,Ashta,Jhal,Residential,Government,13580.8,69419519,7.5,3,1,8991,5,Yes,8.0
+Sehore,Ashta,Kalapipal Road,Commercial,Government,13412.2,87127519,5.0,3,2,2008,8,Yes,0.1
+Sehore,Jawar,Dewas Naka,Residential,Cooperative,576.5,2362232,7.5,3,4,8492,1,Yes,1.6
+Sehore,Sehore,Pachama,Agricultural,Cooperative,14543.7,81704005,6.0,2,1,7688,10,Yes,18.0
+Sehore,Ichhawar,Jetpura,Commercial,Institutional,3634.3,14481396,7.5,3,0,6585,13,Yes,1.8
+Sehore,Budhni,Bamuliya Kalan,Mixed-use,Institutional,8378.0,43384600,5.0,2,3,69,12,No,9.8
+Sehore,Budhni,Rasuliya,Commercial,Private,7234.7,44789405,7.5,2,3,4723,1,No,4.6
+Sehore,Sehore,Gunaur,Mixed-use,Institutional,11001.6,63554271,6.0,2,5,4861,7,Yes,13.4
+Sehore,Rehti,Kothri,Residential,Private,13901.5,77364618,5.0,2,5,7733,1,Yes,10.0
+Sehore,Rehti,Ichhawar,Commercial,Private,5633.6,12330700,7.5,3,4,7808,3,Yes,14.1
+Sehore,Ichhawar,Rehti,Residential,Private,14847.2,35294599,6.0,3,4,9930,8,No,13.0
+Sehore,Rehti,Rasuliya Kalan,Commercial,Cooperative,4873.7,38680339,6.0,3,2,2786,6,Yes,7.7
+Sehore,Nasrullaganj,Jetpura Kalan,Commercial,Private,4276.7,18114854,5.0,3,5,3510,8,No,0.9
+Sehore,Rehti,Kurawar,Commercial,Government,6922.1,50170090,7.5,2,3,6992,13,No,14.9
+Sehore,Shyampur,Pachama,Mixed-use,Private,11173.7,91669893,5.0,3,2,8183,13,Yes,16.2
+Sehore,Shyampur,Dewas Naka,Mixed-use,Private,12015.1,62090672,7.5,3,4,8391,2,No,5.5
+Sehore,Ashta,Pipliya,Residential,Government,14343.6,105794237,7.5,3,1,4690,12,Yes,13.5
+Sehore,Shyampur,Bamuliya,Agricultural,Institutional,480.0,2850058,7.5,3,1,3042,5,No,15.3
+Sehore,Rehti,Patla,Industrial,Private,1529.8,2956308,7.5,2,5,8538,6,Yes,19.2
+Sehore,Nasrullaganj,Sonda,Industrial,Institutional,8979.1,67774709,5.0,2,2,9501,7,Yes,10.1
+Sehore,Jawar,Jawar,Industrial,Government,9790.4,64082474,7.5,2,0,2609,3,No,5.4
+Sehore,Rehti,Bamuliya Kalan,Industrial,Government,209.1,1633593,6.0,2,4,8521,14,No,18.4
+Sehore,Budhni,Bamuliya Kalan,Commercial,Private,12819.7,95313486,6.0,3,4,11991,9,No,9.0
+Sehore,Sehore,Sehore City,Agricultural,Government,8791.4,74584507,5.0,3,5,9022,15,No,13.7
+Sehore,Ichhawar,Bilkisganj,Agricultural,Cooperative,1251.6,3085560,6.0,2,2,5688,13,Yes,12.5
+Sehore,Ichhawar,Kalapipal,Industrial,Cooperative,9325.5,46884661,7.5,3,4,8926,9,No,18.8
+Sehore,Rehti,Bairagarh,Agricultural,Institutional,7729.8,62362645,6.0,2,1,4598,1,Yes,18.4
+Sehore,Ichhawar,Kherdi,Commercial,Cooperative,14921.2,124375868,7.5,3,4,7176,3,No,6.7
+Sehore,Budhni,Kherdi,Commercial,Institutional,5703.0,17072306,7.5,2,0,2559,14,No,16.8
+Sehore,Nasrullaganj,Bairagarh,Industrial,Government,6375.2,46580974,6.0,3,0,1195,6,No,11.1
+Sehore,Sehore,Chandbad,Commercial,Government,13027.7,19500118,6.0,2,5,6913,6,No,10.4
+Sehore,Rehti,Bilpank,Residential,Cooperative,604.0,4018064,6.0,3,1,4114,1,Yes,16.8
+Sehore,Ichhawar,Dhaturiya Khurd,Industrial,Private,8090.5,49238118,5.0,3,2,7530,14,No,8.4
+Sehore,Budhni,Kachhi Barod,Commercial,Private,3208.8,21140306,6.0,2,4,8049,9,Yes,18.1
+Sehore,Sehore,Doraha,Agricultural,Institutional,5253.0,41467858,6.0,3,3,3845,6,No,6.6
+Sehore,Nasrullaganj,Bilkisganj,Mixed-use,Private,2545.5,19946831,7.5,2,2,2335,2,Yes,18.3
+Sehore,Sehore,Jhal,Mixed-use,Private,13677.1,48263621,7.5,3,3,9705,15,No,3.6
+Sehore,Ichhawar,Doraha Mal,Mixed-use,Institutional,6779.2,8731791,5.0,2,1,1348,11,Yes,16.8
+Sehore,Ichhawar,Bamuliya Kalan,Mixed-use,Cooperative,1440.3,9892978,5.0,2,5,2660,15,Yes,4.2
+Sehore,Sehore,Pachama,Mixed-use,Cooperative,14704.0,29616916,6.0,3,4,6426,3,No,18.9
+Sehore,Rehti,Banet,Industrial,Government,7975.4,55111992,5.0,2,1,153,9,No,9.0
+Sehore,Jawar,Khejra,Industrial,Private,14352.3,15185096,5.0,2,1,4407,11,No,16.3
+Sehore,Rehti,Borkhedi,Commercial,Institutional,13369.4,31924444,7.5,2,3,8237,11,Yes,1.2
+Sehore,Rehti,Ladkui,Agricultural,Institutional,10609.3,50484673,5.0,2,3,3664,12,Yes,3.5
+Sehore,Rehti,Mogra,Residential,Institutional,10661.1,77924909,5.0,2,2,5656,6,No,18.2
+Sehore,Jawar,Kherdi,Industrial,Cooperative,9766.6,32672924,5.0,3,3,9190,9,Yes,7.3
+Sehore,Sehore,Rasuliya Kalan,Agricultural,Cooperative,13052.1,61108337,7.5,3,2,6277,10,Yes,6.0
+Sehore,Nasrullaganj,Pipliya,Agricultural,Cooperative,7532.0,21286281,5.0,2,4,1205,12,Yes,5.7
+Sehore,Rehti,Harpura Kalan,Mixed-use,Cooperative,13776.9,62018454,5.0,3,1,3968,11,No,18.8
+Sehore,Nasrullaganj,Harpura,Industrial,Institutional,554.1,2382987,7.5,3,1,1019,2,Yes,18.9
+Sehore,Ashta,Amlaha,Commercial,Private,10431.6,30570753,7.5,3,0,6209,3,Yes,5.0
+Sehore,Sehore,Gunaur,Mixed-use,Private,4861.4,39381827,5.0,2,4,11087,1,Yes,7.4
+Sehore,Jawar,Pipalia,Industrial,Institutional,12578.6,32475647,6.0,3,0,2168,11,No,9.9
+Sehore,Shyampur,Doraha,Agricultural,Cooperative,5537.9,24654438,7.5,3,3,11466,15,No,7.1
+Sehore,Shyampur,Magarda,Mixed-use,Institutional,9205.2,36515449,6.0,2,2,5361,15,Yes,13.8
+Sehore,Sehore,Chandbad,Mixed-use,Private,6691.2,22769485,6.0,3,0,9211,4,No,18.8
+Sehore,Rehti,Paraswada,Agricultural,Government,12150.4,18148127,6.0,2,0,6511,11,No,2.0
+Sehore,Budhni,Bamuliya Kalan,Commercial,Private,4546.6,37561375,6.0,3,5,4897,6,Yes,1.3
+Sehore,Jawar,Shyampur,Commercial,Cooperative,9489.7,67569262,6.0,3,1,471,9,Yes,6.1
+Sehore,Ashta,Salkanpur,Agricultural,Government,2650.8,22525271,5.0,3,2,207,12,Yes,11.7
+Sehore,Sehore,Bilpank,Agricultural,Private,8672.0,14933474,7.5,2,4,685,6,Yes,7.1
+Sehore,Rehti,Kherdi,Mixed-use,Private,10634.4,34652245,6.0,3,0,2283,13,Yes,18.1
+Sehore,Rehti,Dewas Naka,Industrial,Private,1368.3,11220546,5.0,2,1,5007,12,Yes,5.3
+Sehore,Rehti,Gopalpur,Residential,Government,3277.9,23394690,7.5,3,5,2931,15,No,8.6
+Sehore,Sehore,Kurawar,Commercial,Cooperative,3649.1,27569288,5.0,2,1,474,13,Yes,12.4
+Sehore,Jawar,Rampura,Residential,Government,668.3,2218751,6.0,2,1,10176,9,Yes,11.2
+Sehore,Budhni,Kherdi,Industrial,Cooperative,4586.1,17811078,5.0,2,4,1814,11,Yes,10.3
+Sehore,Budhni,Jetpura Kalan,Commercial,Government,4868.3,42421417,7.5,2,0,7296,3,Yes,15.2
+Sehore,Sehore,Jamuniya,Residential,Institutional,14609.1,97766998,7.5,2,3,1443,1,Yes,13.8
+Sehore,Budhni,Bamuliya Khurd,Residential,Cooperative,4415.2,15755533,5.0,2,1,11882,4,Yes,0.6
+Sehore,Jawar,Khejra,Agricultural,Institutional,6493.5,56267457,5.0,3,4,7828,13,No,7.0
+Sehore,Shyampur,Paraswada,Agricultural,Government,5422.9,42717846,6.0,2,1,1282,14,No,15.1
+Sehore,Jawar,Bherunda,Industrial,Private,12541.9,78977550,7.5,2,0,10737,14,Yes,6.4
+Sehore,Shyampur,Ichhawar,Commercial,Cooperative,12906.9,34154163,6.0,3,3,422,1,No,11.9
+Sehore,Nasrullaganj,Ladkheda,Mixed-use,Cooperative,6006.4,35057966,7.5,2,1,3624,12,No,1.3
+Sehore,Shyampur,Kachhi Barod,Agricultural,Private,11737.8,66200983,5.0,3,5,845,9,No,4.0
+Sehore,Ichhawar,Ladkui,Agricultural,Government,12678.2,93725514,6.0,3,4,8093,5,No,17.6
+Sehore,Jawar,Bamuliya Khurd,Commercial,Government,7064.4,40961011,5.0,3,1,2378,9,No,18.3
+Sehore,Ichhawar,Banet Mal,Agricultural,Institutional,11161.0,42953843,5.0,2,4,1923,15,No,15.7
+Sehore,Jawar,Kankariya,Mixed-use,Government,11692.0,33692394,6.0,2,4,11689,8,Yes,8.0
+Sehore,Jawar,Patla,Commercial,Private,565.5,3709033,6.0,3,3,6015,9,No,8.3
+Sehore,Nasrullaganj,Sewas,Industrial,Cooperative,14160.5,44265604,6.0,2,3,1497,3,Yes,8.1
+Sehore,Budhni,Paraswada,Agricultural,Institutional,13362.7,74840464,6.0,3,0,2046,5,No,10.3
+Sehore,Ashta,Pipliya,Residential,Private,11259.5,35521899,5.0,3,3,2970,9,Yes,14.2
+Sehore,Jawar,Pachama,Residential,Private,6257.9,25342450,5.0,3,3,558,14,Yes,17.6
+Sehore,Budhni,Kurawar,Mixed-use,Government,6043.1,42221561,6.0,3,2,11670,11,No,7.6
+Sehore,Rehti,Jetpura,Commercial,Cooperative,7551.6,22461394,7.5,3,1,8239,8,Yes,19.8
+Sehore,Ashta,Bankheri,Agricultural,Institutional,9507.7,33448917,6.0,3,5,6771,13,No,0.7
+Sehore,Jawar,Sehore City,Residential,Private,9046.5,38984073,5.0,2,3,2504,4,No,16.0
+Sehore,Shyampur,Khejra,Commercial,Private,9802.4,66795781,6.0,2,3,8739,4,No,13.2
+Sehore,Ashta,Kherdi,Agricultural,Cooperative,400.4,2930907,5.0,3,0,11783,10,Yes,8.2
+Sehore,Rehti,Rehti,Mixed-use,Private,1118.9,4805570,7.5,3,0,3991,5,No,11.3
+Sehore,Jawar,Gopalpur,Industrial,Private,312.7,1363303,6.0,3,5,10875,10,No,17.5
+Sehore,Budhni,Kankariya,Commercial,Institutional,3885.8,22943526,6.0,3,4,5445,5,Yes,16.7
+Sehore,Shyampur,Harpura Kalan,Industrial,Government,7161.8,16819119,5.0,2,0,6847,15,Yes,13.0
+Sehore,Shyampur,Pipalia,Agricultural,Institutional,6957.5,43819114,6.0,3,4,3066,4,No,13.5
+Sehore,Sehore,Ladkui,Mixed-use,Government,12363.8,54159636,7.5,3,5,1542,11,Yes,1.2
+Sehore,Shyampur,Ashta,Industrial,Private,1951.7,13070188,6.0,3,3,6686,2,Yes,0.9
+Sehore,Nasrullaganj,Bilpank,Agricultural,Institutional,1420.7,11888437,6.0,2,5,11610,15,Yes,6.3
+Sehore,Rehti,Kothrikalan,Mixed-use,Government,9627.4,46857961,7.5,3,5,5935,14,No,13.2
+Sehore,Budhni,Bamuliya Mal,Commercial,Private,13781.1,59485402,6.0,3,2,10490,8,No,2.0
+Sehore,Budhni,Magarda,Mixed-use,Government,13262.3,90602543,5.0,3,0,11111,15,No,1.6
+Sehore,Ashta,Jamuniya,Mixed-use,Private,1810.6,7843836,5.0,3,3,4273,5,No,14.3
+Sehore,Budhni,Kachhi Barod,Mixed-use,Government,980.4,5502494,6.0,3,1,4997,14,No,4.3
+Sehore,Rehti,Banet,Commercial,Cooperative,14999.8,95291374,6.0,3,3,127,1,No,11.3
+Sehore,Budhni,Ladkheda Khurd,Commercial,Institutional,3694.4,13575717,5.0,2,0,10696,12,Yes,11.1
+Sehore,Ichhawar,Dhaturiya,Industrial,Cooperative,8610.5,48945935,7.5,3,5,6699,7,Yes,3.1
+Sehore,Sehore,Rasuliya,Commercial,Government,12447.9,76837125,6.0,3,0,6765,5,No,15.2
+Sehore,Ichhawar,Kachhi Barod,Residential,Private,2898.6,25925639,6.0,2,5,9777,14,Yes,9.0
+Sehore,Jawar,Jamuniya,Mixed-use,Private,7953.7,40539430,7.5,3,5,11601,13,No,15.1
+Sehore,Jawar,Dhaturiya,Residential,Cooperative,12024.2,88447629,7.5,2,4,8485,4,No,10.1
+Sehore,Ichhawar,Jetpura Khurd,Industrial,Cooperative,10860.2,57847937,6.0,2,4,6764,6,Yes,17.1
+Sehore,Nasrullaganj,Jetpura Khurd,Agricultural,Institutional,5972.9,27075957,6.0,3,3,5955,11,No,1.9
+Sehore,Ichhawar,Rampura,Residential,Cooperative,14969.2,47475868,6.0,3,0,711,4,No,6.7
+Sehore,Ichhawar,Kothrikalan,Residential,Government,6607.0,16097360,7.5,2,0,3600,3,No,13.3
+Sehore,Nasrullaganj,Kachnariya,Commercial,Institutional,14290.5,39748233,5.0,2,3,4275,13,Yes,14.7
+Sehore,Jawar,Dhodal,Residential,Cooperative,7762.9,16869578,5.0,3,3,6598,12,No,7.4
+Sehore,Ichhawar,Magarda,Mixed-use,Government,7274.2,44103587,7.5,2,0,11848,13,No,16.8
+Sehore,Jawar,Ladkheda,Industrial,Government,2976.3,14704516,5.0,2,2,2172,3,No,14.0
+Sehore,Ichhawar,Sewas,Commercial,Cooperative,2166.0,15794873,5.0,3,5,2945,3,No,15.0
+Sehore,Jawar,Kachhi Barod,Residential,Government,12163.9,81980866,7.5,2,0,8950,12,No,2.9
+Sehore,Jawar,Bamuliya,Residential,Government,11166.5,12161708,5.0,2,1,3271,11,Yes,12.7
+Sehore,Jawar,Mangrola,Agricultural,Institutional,6027.5,42966121,5.0,2,2,10628,8,Yes,5.5
+Sehore,Jawar,Ralayati,Residential,Institutional,11310.9,73483141,5.0,3,3,9411,11,No,10.9
+Sehore,Sehore,Bairagarh,Agricultural,Institutional,4662.9,31816139,7.5,2,0,6073,8,Yes,9.3
+Sehore,Ichhawar,Jhal,Agricultural,Private,4902.3,32876332,7.5,3,1,10661,10,No,10.5
+Sehore,Rehti,Bamuliya Kalan,Commercial,Institutional,10909.3,22498162,7.5,2,5,9424,1,Yes,12.1
+Sehore,Shyampur,Jetpura Khurd,Mixed-use,Government,10191.6,16738901,6.0,2,1,2753,2,No,15.2
+Sehore,Sehore,Kachnariya,Agricultural,Private,10239.6,69832780,5.0,3,0,6540,7,No,17.6
+Sehore,Sehore,Rasuliya Kalan,Residential,Cooperative,9721.8,27077469,6.0,3,3,7767,2,No,16.6
+Sehore,Sehore,Bagwada,Commercial,Institutional,10884.5,18636608,7.5,2,1,8696,6,Yes,6.3
+Sehore,Shyampur,Pachama,Commercial,Government,1619.2,6184951,6.0,2,5,7287,5,Yes,11.5
+Sehore,Sehore,Bilpank,Mixed-use,Institutional,9257.1,77163767,6.0,2,1,9164,10,No,6.5
+Sehore,Nasrullaganj,Sonda Khurd,Agricultural,Cooperative,11698.1,72801321,5.0,2,3,1003,9,No,4.4
+Sehore,Ashta,Kothrikalan,Residential,Private,9959.8,68627112,6.0,2,3,11051,7,Yes,13.7
+Sehore,Ichhawar,Kachnariya,Industrial,Cooperative,3136.9,20815888,5.0,2,5,3400,5,No,5.4
+Sehore,Jawar,Kalapipal Road,Residential,Cooperative,10039.6,10448284,5.0,2,0,9932,1,No,11.0
+Sehore,Sehore,Pipalkheda,Residential,Cooperative,3181.5,25041146,5.0,3,2,5034,15,No,15.5
+Sehore,Jawar,Jetpura Kalan,Industrial,Institutional,9241.4,55825518,6.0,2,3,7107,13,Yes,15.8
+Sehore,Ashta,Kalapipal Road,Commercial,Cooperative,1523.2,6578197,7.5,3,5,9212,2,Yes,5.8
+Sehore,Shyampur,Bagwada,Agricultural,Cooperative,6575.1,36802065,6.0,3,3,3546,12,Yes,10.8
+Sehore,Ashta,Harpura Khurd,Commercial,Private,9915.0,40769772,6.0,2,4,3185,8,No,14.8
+Sehore,Shyampur,Kurawar,Mixed-use,Government,14651.8,46702779,6.0,3,0,9982,14,No,10.2
+Sehore,Jawar,Rampura,Residential,Cooperative,2433.5,8728870,5.0,2,0,8430,14,No,5.7
+Sehore,Ichhawar,Jetpura,Commercial,Institutional,11636.0,33250510,6.0,3,4,5456,3,Yes,3.8
+Sehore,Budhni,Banet Mal,Agricultural,Cooperative,560.3,1614267,6.0,2,0,8587,9,Yes,4.3
+Sehore,Nasrullaganj,Sonda Khurd,Mixed-use,Institutional,5775.9,5807865,6.0,2,1,7864,7,No,8.9
+Sehore,Shyampur,Jhal,Mixed-use,Private,9883.5,79569353,6.0,2,1,2956,2,No,1.0
+Sehore,Jawar,Bagmau,Industrial,Institutional,14687.2,79457651,6.0,2,5,9274,15,Yes,0.9
+Sehore,Nasrullaganj,Bherunda,Agricultural,Government,3285.7,13085152,7.5,3,5,11766,11,No,0.1
+Sehore,Jawar,Pipliya,Agricultural,Institutional,11258.2,80286288,5.0,2,4,5599,13,No,3.9
+Sehore,Ashta,Kachhi Barod,Residential,Private,2830.6,9495040,6.0,3,0,8929,2,No,11.2
+Sehore,Sehore,Dhaturiya Khurd,Residential,Institutional,9145.2,65532698,5.0,2,3,10297,13,No,0.8
+Sehore,Rehti,Magarda,Residential,Private,10103.9,69894335,7.5,2,4,6796,9,No,1.7
+Sehore,Sehore,Bamuliya Mal,Industrial,Private,7286.8,38548218,7.5,3,4,2468,10,Yes,14.2
+Sehore,Rehti,Budhni,Industrial,Private,9034.4,15085956,7.5,2,1,2351,2,Yes,5.7
+Sehore,Rehti,Harpura,Commercial,Private,8473.1,72327227,6.0,2,5,904,14,Yes,9.6
+Sehore,Budhni,Gopalpur,Industrial,Institutional,7870.5,29829608,5.0,3,2,8912,1,No,8.0
+Sehore,Budhni,Doraha Mal,Commercial,Cooperative,11851.8,82076698,7.5,2,5,3810,15,Yes,19.9
+Sehore,Rehti,Doraha,Industrial,Institutional,7396.6,12917564,5.0,2,4,7121,1,Yes,10.9
+Sehore,Budhni,Jetpura Kalan,Commercial,Government,13132.0,77697437,7.5,2,1,1021,3,No,7.2
+Sehore,Shyampur,Kherdi,Commercial,Private,6483.5,14297073,5.0,3,5,5634,10,No,11.1
+Sehore,Budhni,Budhni,Mixed-use,Cooperative,9528.3,53032272,6.0,2,2,5936,1,No,3.3
+Sehore,Budhni,Patla,Residential,Government,11905.7,12466294,5.0,3,2,1741,12,Yes,5.1
+Sehore,Sehore,Shyampur,Mixed-use,Private,10401.5,51971151,5.0,3,0,9090,14,Yes,5.5
+Sehore,Rehti,Jetpura,Agricultural,Institutional,525.2,2222395,7.5,3,4,619,7,Yes,13.9
+Sehore,Shyampur,Jetpura,Agricultural,Cooperative,6528.4,35645161,7.5,3,4,10762,1,No,5.2
+Sehore,Nasrullaganj,Bilkisganj,Agricultural,Government,10004.1,62659700,6.0,3,3,10708,8,No,3.7
+Sehore,Jawar,Jetpura Khurd,Mixed-use,Institutional,6855.8,48141389,7.5,2,4,5708,4,Yes,2.0
+Sehore,Nasrullaganj,Dewas Naka,Commercial,Cooperative,1922.1,17133269,7.5,3,4,5295,10,Yes,2.8
+Sehore,Sehore,Paraswada,Mixed-use,Cooperative,14363.1,24107297,6.0,3,1,11832,9,No,8.8
+Sehore,Jawar,Kankariya,Mixed-use,Government,4109.4,35052494,7.5,3,3,10707,1,Yes,8.0
+Sehore,Sehore,Harpura,Industrial,Cooperative,12337.1,41487436,5.0,2,2,8196,3,Yes,1.8
+Sehore,Ichhawar,Harpura Khurd,Commercial,Institutional,2755.3,7231650,5.0,3,5,6444,14,Yes,0.1
+Sehore,Rehti,Sewas,Mixed-use,Institutional,9035.0,72538046,6.0,2,0,5980,14,Yes,6.9
+Sehore,Ichhawar,Ashta,Agricultural,Government,5010.4,35775942,5.0,2,4,4509,6,No,0.4
+Sehore,Jawar,Pathar,Commercial,Government,2309.4,15715031,7.5,2,0,9954,2,Yes,18.4
+Sehore,Nasrullaganj,Jetpura,Commercial,Private,11909.0,38314943,7.5,2,2,557,13,No,10.3
+Sehore,Nasrullaganj,Doraha Mal,Commercial,Cooperative,13149.2,63822371,7.5,2,5,5026,1,Yes,2.0
+Sehore,Budhni,Kalapipal,Mixed-use,Government,3483.0,9529788,7.5,2,4,1836,11,Yes,19.2
+Sehore,Sehore,Kothrikalan,Agricultural,Government,14603.5,54769391,6.0,3,1,11179,6,No,10.1
+Sehore,Shyampur,Pathar,Agricultural,Government,6301.8,44981976,6.0,2,1,8143,14,Yes,6.4
+Sehore,Nasrullaganj,Banet,Commercial,Institutional,3102.8,6000942,6.0,2,4,463,6,Yes,19.7
+Sehore,Nasrullaganj,Magarda,Agricultural,Government,8346.0,43550587,7.5,3,1,166,5,No,8.0
+Sehore,Sehore,Pachama,Industrial,Private,8021.6,42696451,6.0,3,2,11629,12,No,1.7
+Sehore,Ichhawar,Nasrullaganj,Industrial,Institutional,3177.5,20565145,5.0,3,4,5946,10,Yes,2.1
+Sehore,Ichhawar,Pipalkheda,Commercial,Private,9877.5,12601052,6.0,2,2,4364,4,Yes,12.7
+Sehore,Budhni,Ashta,Industrial,Private,4218.3,13875031,5.0,3,2,5825,12,No,6.3
+Sehore,Jawar,Ladkui,Residential,Cooperative,1522.5,3014329,6.0,2,1,4031,15,No,15.7
+Sehore,Shyampur,Dhaturiya,Mixed-use,Cooperative,12642.6,59916131,5.0,2,0,3425,13,No,4.6
+Sehore,Nasrullaganj,Kalapipal Road,Mixed-use,Cooperative,5515.3,36905711,7.5,3,4,11796,7,Yes,14.7
+Sehore,Budhni,Gopalpur,Mixed-use,Cooperative,881.0,5888990,5.0,2,2,9432,10,Yes,10.0
+Sehore,Nasrullaganj,Ladkui,Industrial,Cooperative,14666.2,40430669,5.0,3,2,9607,14,Yes,19.1
+Sehore,Jawar,Ladkui,Residential,Government,2577.3,7301218,7.5,3,2,9171,1,No,0.4
+Sehore,Shyampur,Pipalia,Residential,Institutional,10999.0,88289287,7.5,2,3,9152,8,No,9.3
+Sehore,Shyampur,Bamuliya,Residential,Cooperative,348.5,1471198,6.0,3,3,255,1,No,7.6
+Sehore,Ichhawar,Harpura,Mixed-use,Government,1872.6,16359839,7.5,2,0,9569,14,Yes,17.2
+Sehore,Sehore,Mangrola,Commercial,Cooperative,8369.5,25884462,6.0,2,3,4333,12,Yes,12.0
+Sehore,Jawar,Ashta,Agricultural,Institutional,9686.2,87044069,6.0,2,5,651,15,No,8.1
+Sehore,Sehore,Rehti,Agricultural,Institutional,14829.0,26039811,5.0,3,5,4385,4,No,10.5
+Sehore,Nasrullaganj,Kherdi,Mixed-use,Private,1758.0,9083301,6.0,3,2,1656,3,No,3.7
+Sehore,Ashta,Badiyakhedi,Commercial,Cooperative,8395.4,14329151,7.5,2,2,9210,12,Yes,15.8
+Sehore,Nasrullaganj,Ladkheda Khurd,Mixed-use,Private,1320.8,5661157,6.0,3,2,9101,13,No,11.5
+Sehore,Nasrullaganj,Dhaturiya,Residential,Government,7534.6,53025834,5.0,2,3,3219,15,No,6.8
+Sehore,Shyampur,Bhopal Pura,Industrial,Cooperative,6961.3,35901749,6.0,3,2,9355,4,No,15.8
+Sehore,Sehore,Doraha,Commercial,Institutional,1412.3,4314166,7.5,2,4,5719,4,Yes,19.2
+Sehore,Nasrullaganj,Bhopal Pura,Industrial,Cooperative,12836.1,32551180,7.5,2,5,8078,14,No,2.4
+Sehore,Ashta,Rehti,Residential,Private,1303.4,7661798,6.0,3,4,53,5,No,3.8
+Sehore,Jawar,Sonda,Agricultural,Cooperative,9307.6,65759362,6.0,2,0,91,14,No,2.0
+Sehore,Sehore,Bamuliya,Industrial,Private,4733.0,28543419,7.5,2,2,7934,4,Yes,7.7
+Sehore,Sehore,Khejra Khurd,Commercial,Cooperative,6825.2,60215097,7.5,3,0,788,13,Yes,15.3
+Sehore,Shyampur,Banet,Industrial,Institutional,3417.9,8160606,6.0,3,4,9321,8,Yes,17.9
+Sehore,Rehti,Bamuliya Khurd,Industrial,Private,9995.4,70201411,6.0,3,5,7323,10,Yes,3.2
+Sehore,Shyampur,Khejra Khurd,Residential,Private,1805.2,6652419,7.5,2,3,11124,8,Yes,12.5
+Sehore,Ichhawar,Sonda,Residential,Cooperative,7659.0,32553869,7.5,3,0,622,15,No,13.5
+Sehore,Shyampur,Bankheri,Agricultural,Cooperative,14795.7,71474995,7.5,3,1,11467,15,Yes,19.9
+Sehore,Sehore,Mardikhurd,Agricultural,Cooperative,841.8,3418912,5.0,3,3,8123,11,No,17.7
+Sehore,Rehti,Kalapipal Road,Industrial,Institutional,11051.5,56870364,7.5,3,3,10192,5,No,19.5
+Sehore,Budhni,Kachnariya,Agricultural,Government,4184.1,19024347,6.0,3,5,641,12,Yes,5.1
+Sehore,Rehti,Chandpur,Industrial,Cooperative,2611.2,16136244,7.5,3,5,8638,10,No,6.4
+Sehore,Jawar,Rasuliya Khurd,Mixed-use,Institutional,5044.9,6134016,6.0,3,2,9126,14,Yes,15.5
+Sehore,Shyampur,Kukri,Residential,Institutional,3505.2,9559723,7.5,3,3,9558,4,Yes,14.5
+Sehore,Budhni,Bagwada,Industrial,Cooperative,4599.9,31843559,5.0,3,0,7827,4,No,4.3
+Sehore,Nasrullaganj,Kurawar,Agricultural,Private,10847.9,44374319,5.0,3,0,5198,2,Yes,16.1
+Sehore,Ichhawar,Sonda,Agricultural,Government,13050.7,60237399,7.5,3,1,3361,15,No,18.5
+Sehore,Shyampur,Mardikhurd,Industrial,Institutional,10399.5,93412836,6.0,3,5,661,4,Yes,17.0
+Sehore,Ichhawar,Jamuniya,Commercial,Cooperative,4025.7,14836293,5.0,2,5,9480,5,Yes,1.2
+Sehore,Budhni,Budhni,Commercial,Cooperative,6588.3,32042262,7.5,2,5,9820,6,Yes,7.9
+Sehore,Nasrullaganj,Pipliya Khurd,Industrial,Cooperative,8521.5,40516846,7.5,2,1,405,7,Yes,5.3
+Sehore,Jawar,Harpura Khurd,Industrial,Institutional,4102.3,35164271,7.5,2,2,425,13,No,13.4
+Sehore,Ichhawar,Sonda,Residential,Government,11427.1,14077577,6.0,3,2,7139,13,No,1.3
+Sehore,Budhni,Rasuliya Kalan,Mixed-use,Private,14126.3,81900244,5.0,3,0,3628,10,Yes,2.6
+Sehore,Shyampur,Khejra Khurd,Agricultural,Institutional,9005.5,51385361,6.0,2,5,3443,15,Yes,10.0
+Sehore,Shyampur,Ashta,Agricultural,Private,7380.0,11284798,5.0,3,5,6003,2,Yes,16.4
+Sehore,Nasrullaganj,Shyampur,Industrial,Private,14487.0,75646513,7.5,3,3,8748,12,No,10.3
+Sehore,Jawar,Ashta,Commercial,Institutional,7801.8,55784121,6.0,2,3,5433,11,No,13.8
+Sehore,Ashta,Bairagarh,Agricultural,Government,7229.8,36962945,7.5,2,1,1978,14,No,11.1
+Sehore,Jawar,Bamuliya Mal,Industrial,Institutional,3745.9,32161492,6.0,3,5,8557,6,No,19.0
+Sehore,Nasrullaganj,Shyampur,Mixed-use,Institutional,14948.0,85218387,5.0,2,1,10300,1,No,12.6
+Sehore,Rehti,Jhal,Residential,Institutional,2385.4,14203889,5.0,2,5,5974,3,Yes,16.7
+Sehore,Ashta,Paraswada,Mixed-use,Cooperative,5766.0,15865489,7.5,2,1,5919,14,No,7.1
+Sehore,Ashta,Bagwada,Residential,Cooperative,8990.9,51655857,6.0,3,0,2999,11,No,4.2
+Sehore,Ichhawar,Ichhawar,Residential,Government,13006.4,78345921,6.0,2,0,9199,15,No,0.2
+Sehore,Nasrullaganj,Paraswada,Commercial,Private,9991.4,52490824,7.5,2,5,6349,15,Yes,16.2
+Sehore,Ashta,Dewas Naka,Mixed-use,Private,11743.9,14800384,5.0,2,2,4921,9,No,14.2
+Sehore,Jawar,Sewas,Agricultural,Cooperative,11366.8,55507583,6.0,2,4,8658,12,Yes,5.5
+Sehore,Rehti,Rasuliya Kalan,Agricultural,Government,7931.9,14593298,5.0,2,3,2431,14,Yes,15.3
+Sehore,Ichhawar,Jhal,Agricultural,Government,8836.3,70200756,5.0,3,1,5986,6,No,13.7
+Sehore,Budhni,Magarda,Agricultural,Private,3715.7,31564433,5.0,3,5,11956,14,No,16.9
+Sehore,Nasrullaganj,Rampura,Industrial,Cooperative,1621.4,11988077,5.0,3,4,9133,5,Yes,17.7
+Sehore,Rehti,Ichhawar,Mixed-use,Government,9843.8,32532329,7.5,3,0,3938,15,No,0.6
+Sehore,Sehore,Kalapipal Road,Agricultural,Institutional,11775.1,68421280,5.0,3,2,8378,9,Yes,17.2
+Sehore,Ichhawar,Bamuliya Mal,Commercial,Cooperative,6624.5,24099156,6.0,3,5,8187,15,No,5.5
+Sehore,Ichhawar,Bhatkhedi,Agricultural,Private,1962.8,10038770,5.0,3,5,9664,13,Yes,9.7
+Sehore,Shyampur,Bamuliya Kalan,Residential,Private,7442.4,49756602,6.0,3,4,4706,9,No,11.4
+Sehore,Sehore,Khejra Khurd,Agricultural,Private,6590.7,13580629,7.5,3,3,10846,14,No,2.4
+Sehore,Rehti,Rasuliya,Mixed-use,Government,5205.1,6449003,5.0,3,3,7369,5,Yes,7.6
+Sehore,Budhni,Kothrikalan,Commercial,Cooperative,2281.1,11089348,6.0,2,0,4687,14,No,19.0
+Sehore,Jawar,Mardikhurd,Residential,Cooperative,13603.5,82923617,5.0,2,2,4685,6,No,11.2
+Sehore,Nasrullaganj,Harpura Kalan,Agricultural,Institutional,13324.9,52076964,6.0,2,0,6996,9,Yes,4.2
+Sehore,Shyampur,Sonda Khurd,Industrial,Private,8442.5,61280340,6.0,2,2,9561,2,Yes,10.1
+Sehore,Ashta,Bairagarh,Commercial,Private,7146.8,28333162,6.0,3,4,5310,13,Yes,2.0
+Sehore,Shyampur,Kherdi,Commercial,Government,5913.3,24065501,5.0,2,0,10998,11,No,0.8
+Sehore,Rehti,Rasuliya Khurd,Residential,Private,578.5,2299216,7.5,2,4,1332,2,Yes,7.5
+Sehore,Jawar,Bhopal Pura,Residential,Government,6136.0,8516159,7.5,2,5,11156,12,Yes,14.2
+Sehore,Sehore,Bagwada,Industrial,Private,2839.3,2894699,7.5,2,4,9233,11,No,10.4
+Sehore,Budhni,Harpura Mal,Mixed-use,Government,7960.9,26005176,6.0,2,3,7468,7,No,5.0
+Sehore,Nasrullaganj,Chandbad,Residential,Government,4540.7,29945353,5.0,3,1,6681,7,No,9.7
+Sehore,Ichhawar,Sonda,Agricultural,Institutional,12735.6,38986950,7.5,2,5,2777,13,No,12.0
+Sehore,Sehore,Sonda,Commercial,Cooperative,8940.7,55518521,7.5,2,5,11405,9,No,8.9
+Sehore,Nasrullaganj,Khejra,Mixed-use,Government,4721.6,24608017,7.5,2,2,4264,7,Yes,19.7
+Sehore,Rehti,Bagwada,Residential,Institutional,5007.8,22521574,6.0,2,1,10126,5,Yes,18.8
+Sehore,Sehore,Kherdi,Residential,Cooperative,4082.6,35278581,6.0,3,3,10989,13,Yes,19.2
+Sehore,Budhni,Bamuliya Mal,Mixed-use,Government,12609.6,70768959,5.0,2,5,10698,11,Yes,5.4
+Sehore,Shyampur,Chandbad,Commercial,Private,3460.2,9212125,6.0,3,0,6387,11,Yes,4.2
+Sehore,Sehore,Jamuniya,Agricultural,Institutional,7476.9,22108149,6.0,3,2,9620,7,No,13.5
+Sehore,Shyampur,Bamuliya Mal,Industrial,Institutional,12399.1,58064963,6.0,2,0,5826,6,Yes,17.0
+Sehore,Ichhawar,Pipalkheda,Industrial,Cooperative,3976.2,12101907,7.5,3,1,6836,15,Yes,3.4
+Sehore,Ashta,Bhatkhedi,Industrial,Private,3890.0,17408312,5.0,3,2,2959,1,Yes,5.9
+Sehore,Budhni,Banet Mal,Mixed-use,Cooperative,6690.7,31093722,5.0,3,1,880,4,No,1.7
+Sehore,Budhni,Bagmau,Mixed-use,Institutional,10086.4,63132566,6.0,3,2,10328,2,Yes,4.6
+Sehore,Rehti,Jawar,Mixed-use,Private,9418.5,83929453,5.0,2,5,9268,9,No,18.0
+Sehore,Sehore,Pipalia,Commercial,Cooperative,10100.5,66003874,5.0,3,1,3444,4,Yes,0.1
+Sehore,Ashta,Rampura,Mixed-use,Private,11071.2,54564679,5.0,3,1,2129,10,Yes,10.6
+Sehore,Rehti,Paraswada,Agricultural,Cooperative,5478.8,31715589,6.0,2,3,360,12,Yes,7.1
+Sehore,Sehore,Pandharinath,Residential,Institutional,3296.3,27123694,7.5,2,0,5163,14,Yes,12.6
+Sehore,Shyampur,Rasuliya,Residential,Government,679.0,1096236,7.5,2,1,1831,7,No,5.8
+Sehore,Jawar,Paraswada,Residential,Institutional,14975.3,43632845,5.0,2,2,4077,2,Yes,8.9
+Sehore,Jawar,Kurawar,Commercial,Cooperative,6420.8,24470440,5.0,2,1,3347,7,Yes,18.1
+Sehore,Rehti,Magarda,Mixed-use,Private,6324.3,13688102,6.0,3,2,5593,3,No,9.2
+Sehore,Ichhawar,Jawar,Commercial,Cooperative,9465.5,45288202,5.0,2,3,11912,6,Yes,0.3
+Sehore,Rehti,Banet Mal,Industrial,Cooperative,701.7,3952240,6.0,3,0,1213,3,Yes,14.0
+Sehore,Budhni,Badiyakhedi,Industrial,Government,12168.1,106771550,6.0,2,4,3812,13,Yes,0.4
+Sehore,Rehti,Khejra,Mixed-use,Institutional,11032.4,72889998,5.0,3,2,7800,14,Yes,17.9
+Sehore,Nasrullaganj,Salkanpur,Commercial,Private,10617.5,29916049,5.0,3,1,6537,11,No,8.3
+Sehore,Rehti,Ladkheda Khurd,Agricultural,Private,8637.2,18496356,5.0,3,0,10739,15,Yes,6.5
+Sehore,Nasrullaganj,Bijepur,Mixed-use,Private,11703.5,20928316,7.5,2,1,4710,7,No,14.5
+Sehore,Jawar,Sonda Khurd,Commercial,Government,177.2,860475,6.0,3,1,7676,12,Yes,0.2
+Sehore,Nasrullaganj,Bherunda,Industrial,Institutional,3560.6,30025148,5.0,2,0,7626,1,No,8.9
+Sehore,Budhni,Banet,Agricultural,Government,8312.8,53531872,5.0,2,5,9313,12,No,1.9
+Sehore,Rehti,Pachama,Mixed-use,Private,6853.9,40033911,6.0,2,2,9950,2,No,19.0
+Sehore,Jawar,Doraha Mal,Mixed-use,Government,535.5,3540490,5.0,3,5,5998,15,Yes,15.5
+Sehore,Jawar,Bagwada,Residential,Cooperative,8865.8,79439379,6.0,3,5,8234,1,No,14.5
+Sehore,Ashta,Badiyakhedi,Agricultural,Institutional,13926.9,110870757,5.0,3,4,3369,15,No,9.4
+Sehore,Shyampur,Pachama,Agricultural,Private,8682.1,35906220,5.0,3,4,10667,6,No,3.0
+Sehore,Ichhawar,Mogra,Residential,Government,6207.2,43951293,7.5,3,5,1112,2,No,10.3
+Sehore,Ashta,Bherunda,Residential,Government,6585.2,6755244,7.5,2,4,4610,14,Yes,16.3
+Sehore,Budhni,Dhaturiya Khurd,Industrial,Private,810.9,2084368,5.0,3,5,6705,11,Yes,10.6
+Sehore,Rehti,Jetpura Kalan,Mixed-use,Cooperative,7016.9,34576336,6.0,2,0,4597,11,No,2.8
+Sehore,Sehore,Rampura,Commercial,Private,1649.3,6080660,7.5,3,2,7160,1,No,9.0
+Sehore,Rehti,Kalapipal Road,Agricultural,Cooperative,10454.8,57537427,5.0,2,1,654,6,Yes,19.4
+Sehore,Rehti,Ladkheda,Commercial,Cooperative,11972.4,81949354,7.5,2,2,785,1,No,7.2
+Sehore,Sehore,Khejra Khurd,Agricultural,Cooperative,9613.3,24159125,7.5,2,4,2191,12,Yes,9.9
+Sehore,Shyampur,Jetpura,Mixed-use,Cooperative,14162.6,46130757,6.0,2,2,10113,15,No,13.1
+Sehore,Nasrullaganj,Ladkui,Mixed-use,Government,5642.8,32927339,7.5,3,0,2957,6,Yes,15.5
+Sehore,Budhni,Bamuliya Kalan,Commercial,Private,10479.7,85267767,6.0,2,1,6300,13,No,2.3
+Sehore,Budhni,Bilpank,Industrial,Government,3225.4,9391732,5.0,2,5,1300,4,No,11.2
+Sehore,Ashta,Harpura Khurd,Industrial,Government,7772.7,53665439,6.0,3,1,3907,6,No,3.6
+Sehore,Ichhawar,Jawar,Commercial,Institutional,11651.2,100769318,6.0,3,4,2079,2,Yes,11.2
+Sehore,Sehore,Pipliya Khurd,Mixed-use,Government,4412.5,17416661,6.0,2,4,2756,13,Yes,2.8
+Sehore,Jawar,Bilkisganj,Industrial,Cooperative,7699.4,28373651,5.0,2,4,10716,5,No,7.5
+Sehore,Ashta,Karadiya,Agricultural,Cooperative,10415.4,51656106,6.0,2,3,4975,4,Yes,18.3
+Sehore,Nasrullaganj,Ladkui,Agricultural,Institutional,3159.4,9418426,7.5,2,0,11353,6,No,7.1
+Sehore,Ichhawar,Paraswada,Commercial,Private,9314.0,47730095,7.5,2,3,9741,12,No,9.1
+Sehore,Rehti,Sonda Khurd,Commercial,Institutional,3020.4,16953334,6.0,3,3,128,13,No,6.6
+Sehore,Sehore,Bagmau,Agricultural,Government,11628.2,65509532,6.0,3,0,1040,13,Yes,0.4
+Sehore,Ichhawar,Jamuniya,Mixed-use,Cooperative,3965.8,10087453,6.0,2,0,72,2,Yes,10.1
+Sehore,Sehore,Bamuliya Kalan,Mixed-use,Private,3274.8,7351888,7.5,2,2,7394,6,Yes,10.6
+Sehore,Budhni,Pandharinath,Residential,Institutional,10772.3,14011205,5.0,3,3,6102,7,Yes,12.9
+Sehore,Sehore,Pathar,Commercial,Cooperative,2875.7,22020265,6.0,3,2,6869,3,Yes,18.2
+Sehore,Budhni,Bilpank,Agricultural,Institutional,11912.3,71281633,7.5,2,1,10922,4,No,0.2
+Sehore,Budhni,Ralayati,Commercial,Institutional,3497.8,14268817,5.0,3,2,7787,11,Yes,14.4
+Sehore,Ashta,Sonda Khurd,Residential,Government,13901.0,72339634,5.0,2,3,9521,13,No,2.3
+Sehore,Jawar,Magarda,Commercial,Private,3955.6,28086182,5.0,2,0,2842,3,No,12.7
+Sehore,Shyampur,Magarda,Industrial,Private,5793.9,7722349,7.5,3,3,4196,11,Yes,10.6
+Sehore,Rehti,Khejra,Residential,Government,3337.5,8598971,6.0,3,5,252,3,No,19.6
+Sehore,Budhni,Dhodal,Industrial,Institutional,8314.7,37532210,7.5,2,5,6164,12,No,11.0
+Sehore,Ashta,Dhodal,Commercial,Institutional,8922.3,21069759,7.5,2,5,11282,2,No,3.3
+Sehore,Nasrullaganj,Rampura,Residential,Institutional,1723.6,1817913,5.0,2,4,5978,12,No,18.0
+Sehore,Jawar,Kherdi,Residential,Institutional,12832.4,55147292,5.0,2,0,2708,14,Yes,2.3
+Sehore,Nasrullaganj,Shyampur,Commercial,Private,9319.7,47052464,6.0,3,3,10179,9,No,8.1
+Sehore,Nasrullaganj,Bijepur,Residential,Government,6993.2,59553845,7.5,2,1,10897,7,No,17.7
+Sehore,Rehti,Kachnariya Kalan,Residential,Cooperative,4737.6,15088713,7.5,2,2,3185,13,Yes,14.4
+Sehore,Ashta,Pandharinath,Residential,Government,999.6,3515756,5.0,2,0,5936,7,Yes,17.8
+Sehore,Jawar,Bairagarh,Commercial,Institutional,14016.6,123104541,7.5,2,1,11953,15,No,8.0
+Sehore,Sehore,Borkhedi,Residential,Government,14986.2,33940553,5.0,3,1,4197,3,Yes,10.8
+Sehore,Shyampur,Shyampur,Industrial,Cooperative,5822.2,20304889,5.0,2,5,10445,15,No,12.8
+Sehore,Sehore,Pipalkheda,Industrial,Institutional,853.0,4531686,6.0,3,1,1279,1,No,13.0
+Sehore,Ichhawar,Bairagarh,Residential,Private,3677.2,10109739,5.0,3,0,355,12,No,19.3
+Sehore,Ichhawar,Pathar,Industrial,Government,5222.4,12861596,6.0,3,0,7207,12,Yes,11.9
+Sehore,Shyampur,Jhal,Commercial,Institutional,10513.8,28978594,7.5,2,4,2823,13,Yes,18.2
+Sehore,Jawar,Jetpura Kalan,Commercial,Cooperative,8275.3,36509255,5.0,3,5,700,5,Yes,13.0
+Sehore,Jawar,Harpura Kalan,Industrial,Government,1259.8,7449913,6.0,2,0,1371,12,No,13.7
+Sehore,Ichhawar,Jetpura Khurd,Residential,Government,4835.7,16923458,6.0,2,2,162,14,No,19.7
+Sehore,Ashta,Dewas Naka,Industrial,Institutional,171.5,937885,6.0,3,5,9517,10,No,4.0
+Sehore,Rehti,Paraswada,Industrial,Cooperative,10588.9,45710453,5.0,2,4,238,13,No,18.2
+Sehore,Rehti,Doraha,Mixed-use,Institutional,8322.5,57581582,6.0,2,1,6124,10,No,6.8
+Sehore,Jawar,Salkanpur,Residential,Institutional,9216.0,35095911,5.0,3,1,10854,12,No,2.3
+Sehore,Budhni,Ichhawar,Mixed-use,Cooperative,7508.4,28088918,7.5,2,3,3808,7,No,14.7
+Sehore,Ashta,Dhodal,Residential,Institutional,1048.1,3038241,5.0,2,1,4323,3,No,17.3
+Sehore,Shyampur,Rampura,Industrial,Private,14896.3,38578084,7.5,2,1,10426,14,Yes,2.9
+Sehore,Budhni,Ralayati,Residential,Government,5351.3,42199041,7.5,3,5,11223,14,No,17.6
+Sehore,Budhni,Doraha,Commercial,Cooperative,11258.1,96638702,6.0,2,3,3612,2,Yes,6.2
+Sehore,Jawar,Chandpur,Residential,Private,14945.0,75187530,5.0,2,0,7127,12,No,15.7
+Sehore,Nasrullaganj,Jetpura Khurd,Residential,Private,3584.4,30188655,5.0,2,1,11600,7,No,11.0
+Sehore,Rehti,Kurawar,Residential,Private,2004.5,10035326,6.0,2,5,4192,1,Yes,9.0
+Sehore,Ichhawar,Sewas,Agricultural,Cooperative,1015.2,6167603,6.0,3,5,10410,4,Yes,15.2
+Sehore,Nasrullaganj,Bilpank,Mixed-use,Cooperative,12939.2,101343574,5.0,2,0,4639,4,No,13.3
+Sehore,Nasrullaganj,Ladkui,Commercial,Institutional,4637.1,8512733,6.0,3,0,787,13,Yes,6.0
+Sehore,Sehore,Sehore City,Residential,Private,9464.8,17833584,5.0,2,2,6052,6,No,11.5
+Sehore,Ichhawar,Jawar,Industrial,Government,10294.7,20828501,5.0,3,3,11395,8,Yes,13.2
+Sehore,Shyampur,Pachama,Residential,Cooperative,10752.5,88705807,6.0,3,3,7850,12,No,18.4
+Sehore,Budhni,Ladkui,Mixed-use,Cooperative,7013.6,11303486,5.0,2,4,9450,4,No,12.9
+Sehore,Ichhawar,Shyampur,Agricultural,Cooperative,3434.4,10987628,5.0,3,2,5646,12,No,18.6
+Sehore,Budhni,Rasuliya Khurd,Industrial,Government,4265.8,22644605,7.5,2,3,9532,11,No,15.6
+Sehore,Ashta,Bagwada,Residential,Institutional,13155.5,97861957,7.5,3,4,3207,15,Yes,15.4
+Sehore,Rehti,Chandpur,Industrial,Government,571.9,4691994,6.0,2,1,9610,3,No,1.7
+Sehore,Rehti,Bamuliya,Residential,Cooperative,3480.3,12223187,6.0,3,0,2348,1,No,19.3
+Sehore,Budhni,Harpura Kalan,Commercial,Cooperative,8419.1,27217602,5.0,3,2,11231,11,No,14.4
+Sehore,Jawar,Jetpura Khurd,Agricultural,Institutional,4293.6,30375369,5.0,3,4,11653,10,No,9.2
+Sehore,Ichhawar,Rasuliya Khurd,Commercial,Private,11453.3,14319704,5.0,3,1,11176,11,Yes,18.5
+Sehore,Ashta,Bamuliya Khurd,Agricultural,Cooperative,11416.4,17631573,5.0,2,2,6645,2,No,7.4
+Sehore,Shyampur,Mangrola,Residential,Institutional,1494.1,12104878,7.5,3,4,7054,7,No,1.7
+Sehore,Sehore,Bamuliya,Agricultural,Government,14402.1,28928976,6.0,3,3,1021,12,No,11.3
+Sehore,Sehore,Gopalpur,Residential,Private,12093.6,106874730,7.5,3,3,275,4,Yes,3.2
+Sehore,Shyampur,Jawar,Agricultural,Institutional,3424.0,24097223,6.0,2,1,5095,14,No,13.2
+Sehore,Shyampur,Bamuliya Mal,Agricultural,Private,11341.1,69324717,5.0,3,1,8461,2,No,8.9
+Sehore,Ichhawar,Jetpura,Industrial,Government,4311.8,5082103,7.5,2,0,11192,4,Yes,2.0
+Sehore,Sehore,Pathar,Commercial,Government,3772.1,28338175,6.0,3,2,1637,9,Yes,3.4
+Sehore,Rehti,Kalapipal Road,Residential,Cooperative,928.5,2753786,5.0,3,2,3290,12,Yes,7.1
+Sehore,Sehore,Banet Mal,Industrial,Institutional,502.7,3770322,7.5,3,1,6274,3,No,1.9
+Sehore,Ichhawar,Pipalia,Residential,Private,12338.6,37789131,7.5,2,0,9747,14,Yes,12.8
+Sehore,Ashta,Pachama,Residential,Cooperative,1608.7,11093664,7.5,2,0,591,6,Yes,3.6
+Sehore,Nasrullaganj,Jetpura,Commercial,Cooperative,11779.9,53032062,5.0,3,1,9233,5,Yes,6.4
+Sehore,Sehore,Bherunda,Residential,Cooperative,1701.3,11030132,7.5,3,2,2371,7,Yes,10.7
+Sehore,Rehti,Karadiya,Commercial,Cooperative,11466.8,102903971,6.0,2,3,8732,3,No,1.3
+Sehore,Budhni,Khejra,Mixed-use,Institutional,14514.9,35761511,5.0,2,1,5740,9,No,11.9
+Sehore,Rehti,Pipliya,Residential,Government,14239.2,98171840,7.5,3,5,2858,9,Yes,6.8
+Sehore,Shyampur,Karadiya,Residential,Cooperative,10763.8,54549239,7.5,3,1,5959,5,No,18.3
+Sehore,Rehti,Banet,Agricultural,Cooperative,7425.7,36084367,6.0,3,4,6448,5,Yes,0.8
+Sehore,Sehore,Pathar,Residential,Private,6566.6,26872214,7.5,2,3,4926,9,No,2.6
+Sehore,Shyampur,Rasuliya,Agricultural,Government,7492.8,43080169,7.5,3,5,4805,11,No,0.5
+Sehore,Budhni,Chandbad,Residential,Private,13298.4,40338164,6.0,2,2,4199,13,No,14.6
+Sehore,Sehore,Shyampur,Residential,Cooperative,981.9,7532050,7.5,2,1,10408,12,No,9.4
+Sehore,Shyampur,Bilpank,Commercial,Cooperative,14286.8,55497810,5.0,3,2,3347,2,No,15.5
+Sehore,Jawar,Paraswada,Agricultural,Private,9764.3,27819600,7.5,3,1,11092,11,No,19.0
+Sehore,Ichhawar,Paraswada,Mixed-use,Institutional,2397.0,20128034,6.0,2,3,9741,15,No,11.4
+Sehore,Nasrullaganj,Magarda,Agricultural,Institutional,10691.9,40974709,6.0,2,1,7400,12,Yes,14.5
+Sehore,Shyampur,Pathar,Commercial,Cooperative,10961.9,57359995,5.0,2,5,4635,15,Yes,3.3
+Sehore,Jawar,Pipalkheda,Commercial,Cooperative,5860.9,27507300,6.0,2,5,4584,1,No,14.6
+Sehore,Sehore,Magarda,Agricultural,Private,1285.1,6964537,5.0,2,0,310,6,Yes,18.8
+Sehore,Ichhawar,Mangrola,Mixed-use,Government,644.9,4642996,6.0,3,4,5891,3,Yes,8.9
+Sehore,Sehore,Jamuniya,Industrial,Institutional,2803.8,16821683,6.0,3,1,3805,14,No,4.0
+Sehore,Ichhawar,Ralayati,Mixed-use,Government,9150.0,65494719,7.5,2,0,5697,2,Yes,0.3
+Sehore,Sehore,Sehore City,Industrial,Cooperative,11368.3,17526484,5.0,3,5,8601,7,No,19.4
+Sehore,Rehti,Ladkui,Industrial,Private,5469.0,21065435,5.0,2,0,5884,3,Yes,11.3
+Sehore,Jawar,Kothri,Mixed-use,Cooperative,3392.0,21444649,7.5,3,0,7853,10,Yes,16.8
+Sehore,Shyampur,Mogra,Commercial,Private,14737.5,86927761,5.0,3,0,5151,9,No,1.1
+Sehore,Ichhawar,Banet Mal,Industrial,Institutional,9129.5,69709682,7.5,2,4,2497,7,Yes,0.1
+Sehore,Ashta,Gopalpur,Commercial,Government,490.6,3062164,6.0,2,1,2036,9,No,7.0
+Sehore,Jawar,Kalapipal Road,Agricultural,Cooperative,11604.6,23803809,5.0,2,2,10219,15,No,18.9
+Sehore,Budhni,Paraswada,Agricultural,Cooperative,11860.2,14664530,5.0,2,0,9074,9,Yes,15.9
+Sehore,Ashta,Kachnariya Kalan,Agricultural,Private,7015.7,7677266,7.5,3,0,3671,15,Yes,1.0
+Sehore,Sehore,Dewas Naka,Agricultural,Cooperative,4922.2,31808114,6.0,2,4,5600,10,Yes,6.1
+Sehore,Ashta,Bairagarh,Mixed-use,Cooperative,2705.6,8075840,6.0,3,5,6494,3,No,3.6
+Sehore,Sehore,Magarda,Residential,Private,4377.4,28533598,5.0,3,1,10720,9,No,15.3
+Sehore,Rehti,Shyampur,Agricultural,Cooperative,2261.8,11073663,6.0,3,5,3218,15,No,12.1
+Sehore,Jawar,Bagmau,Agricultural,Private,6432.1,51653364,7.5,3,3,4251,1,No,11.2
+Sehore,Sehore,Bilpank,Mixed-use,Institutional,8030.8,36718015,7.5,2,0,944,7,No,9.2
+Sehore,Ichhawar,Kalapipal,Agricultural,Private,7599.7,45586906,7.5,3,4,10063,15,No,4.4
+Sehore,Shyampur,Jawar,Residential,Government,4238.8,11453614,5.0,3,5,4407,6,Yes,18.5
+Sehore,Nasrullaganj,Bagwada,Industrial,Private,4114.5,4204787,5.0,3,5,9703,4,No,7.0
+Sehore,Shyampur,Bhatkhedi,Industrial,Government,14787.4,121248998,7.5,2,0,3663,11,Yes,9.4
+Sehore,Jawar,Magarda,Industrial,Private,2183.5,8985402,6.0,2,0,2578,14,Yes,0.2
+Sehore,Rehti,Paraswada,Mixed-use,Institutional,11832.1,22730781,5.0,2,5,5046,3,No,15.5
+Sehore,Sehore,Budhni,Residential,Private,13141.9,48219671,6.0,2,3,10754,10,Yes,14.0
+Sehore,Jawar,Ichhawar,Commercial,Institutional,1171.8,9704522,5.0,3,2,10769,4,Yes,11.8
+Sehore,Rehti,Jhal,Mixed-use,Institutional,9278.7,59729114,6.0,3,0,8214,13,Yes,8.6
+Sehore,Ashta,Dewas Naka,Agricultural,Cooperative,1561.8,5035199,5.0,2,3,564,1,No,14.7
+Sehore,Budhni,Bamuliya Mal,Industrial,Institutional,13384.7,43763871,6.0,3,0,10868,12,No,4.8
+Sehore,Shyampur,Jhal,Commercial,Private,13605.7,110699797,7.5,3,2,151,12,No,5.2
+Sehore,Rehti,Rampura,Industrial,Cooperative,1899.3,4166923,7.5,3,2,1148,5,Yes,9.8
+Sehore,Rehti,Bilpank,Residential,Institutional,1703.7,11708006,7.5,3,1,6902,4,No,13.8
+Sehore,Ichhawar,Bilkisganj,Commercial,Government,3137.9,8630549,7.5,2,0,5195,10,Yes,0.4
+Sehore,Budhni,Ladkui,Commercial,Private,4398.9,14009770,7.5,3,2,6929,8,No,1.5
+Sehore,Nasrullaganj,Barkheda,Industrial,Cooperative,5907.6,19929921,6.0,2,4,1434,15,Yes,8.1
+Sehore,Nasrullaganj,Bhatkhedi,Industrial,Cooperative,7413.9,54086499,7.5,3,3,6152,14,No,14.4
+Sehore,Sehore,Ladkheda,Agricultural,Cooperative,14592.2,20063567,6.0,2,0,8244,11,No,17.0
+Sehore,Ichhawar,Pipliya Khurd,Industrial,Institutional,4996.6,17814089,5.0,2,3,6009,1,No,11.5
+Sehore,Shyampur,Kukri,Commercial,Cooperative,14941.3,70883878,6.0,3,1,2779,1,No,1.6
+Sehore,Rehti,Doraha Mal,Residential,Cooperative,13364.9,31559096,7.5,3,5,3853,11,No,15.7
+Sehore,Nasrullaganj,Rehti,Residential,Cooperative,12022.1,25457290,6.0,3,1,9620,1,Yes,3.3
+Sehore,Budhni,Bamuliya,Commercial,Private,2974.2,15917581,5.0,2,1,374,15,Yes,2.3
+Sehore,Budhni,Pipliya,Agricultural,Private,6055.2,18242716,7.5,3,2,8619,8,No,7.5
+Sehore,Nasrullaganj,Harpura Kalan,Commercial,Cooperative,1636.8,2616519,5.0,3,4,7545,15,No,7.0
+Sehore,Jawar,Karadiya,Residential,Cooperative,14368.1,115484453,5.0,3,5,1508,11,Yes,6.6
+Sehore,Sehore,Kalapipal,Mixed-use,Cooperative,14602.8,43509665,5.0,3,5,8851,7,No,1.5
+Sehore,Ichhawar,Harpura Khurd,Industrial,Private,10412.1,60390665,7.5,2,5,7130,3,No,17.2
+Sehore,Nasrullaganj,Rasuliya Kalan,Industrial,Cooperative,10578.9,24807153,5.0,3,5,8842,5,Yes,8.7
+Sehore,Rehti,Barkheda,Industrial,Cooperative,2933.3,14229708,7.5,2,0,114,3,No,16.3
+Sehore,Ashta,Jetpura Khurd,Mixed-use,Institutional,12852.4,89062603,5.0,2,1,8897,11,No,3.3
+Sehore,Ichhawar,Bherunda,Agricultural,Private,8616.2,52311471,6.0,3,1,5042,14,No,8.4
+Sehore,Ichhawar,Kothrikalan,Residential,Private,5909.0,26000683,5.0,2,4,3525,11,No,0.8
+Sehore,Ichhawar,Pathar,Commercial,Government,5798.3,20782621,7.5,2,2,287,4,Yes,12.9
+Sehore,Rehti,Karadiya,Mixed-use,Institutional,1057.9,3373892,5.0,2,1,4688,9,No,3.9
+Sehore,Rehti,Jawar,Industrial,Institutional,5586.6,39551648,7.5,2,5,4092,3,Yes,17.1
+Sehore,Shyampur,Ichhawar,Commercial,Institutional,4105.9,14034949,5.0,2,0,10203,1,No,9.7
+Sehore,Ichhawar,Chandpur,Agricultural,Government,14085.4,28646171,6.0,3,5,10586,4,No,8.8
+Sehore,Rehti,Bamuliya,Industrial,Cooperative,1047.9,2114862,6.0,3,1,5580,6,No,11.2
+Sehore,Budhni,Pathar,Industrial,Private,2761.5,11369292,6.0,2,2,11245,4,Yes,16.0
+Sehore,Ichhawar,Kachnariya Kalan,Agricultural,Government,6983.1,9832445,5.0,2,2,1014,15,Yes,4.2
+Sehore,Nasrullaganj,Amlaha,Commercial,Private,6595.0,31526725,7.5,3,4,3014,15,No,16.3
+Sehore,Shyampur,Salkanpur,Commercial,Private,12483.7,72707182,7.5,2,1,7421,15,Yes,13.8
+Sehore,Budhni,Patla,Industrial,Institutional,9023.9,49982247,6.0,3,3,10993,15,Yes,19.0
+Sehore,Ichhawar,Bilkisganj,Residential,Cooperative,14111.0,35218018,5.0,2,5,6465,14,No,12.0
+Sehore,Ashta,Sehore City,Agricultural,Institutional,2908.7,8753688,5.0,3,2,4803,5,Yes,16.5
+Sehore,Sehore,Pipliya Khurd,Residential,Institutional,2278.5,14856151,7.5,2,5,973,8,Yes,3.4
+Sehore,Shyampur,Pipalkheda,Mixed-use,Government,4841.6,22729010,5.0,3,4,5286,11,No,2.2
+Sehore,Jawar,Salkanpur,Mixed-use,Institutional,3333.3,3713689,7.5,2,0,10955,7,Yes,12.7
+Sehore,Ichhawar,Magarda,Mixed-use,Cooperative,9709.2,46669743,6.0,3,2,6644,6,No,2.5
+Sehore,Ichhawar,Gunaur,Agricultural,Cooperative,9841.0,28840367,6.0,3,5,3598,4,Yes,14.3
+Sehore,Sehore,Harpura Kalan,Industrial,Institutional,14079.1,100944288,6.0,3,5,6780,12,Yes,6.7
+Sehore,Shyampur,Karadiya,Industrial,Government,4758.6,42374812,5.0,3,0,11995,14,No,8.0
+Sehore,Sehore,Harpura Kalan,Mixed-use,Institutional,13703.7,58475124,6.0,2,0,10545,15,Yes,14.1
+Sehore,Shyampur,Karadiya,Commercial,Government,8575.0,35683081,6.0,3,5,2338,2,Yes,11.3
+Sehore,Ichhawar,Paraswada,Agricultural,Private,11006.7,40813854,6.0,3,5,3293,8,Yes,4.7
+Sehore,Sehore,Sonda,Residential,Institutional,1125.7,2421802,6.0,3,1,990,3,No,1.0
+Sehore,Budhni,Amlaha,Industrial,Government,2749.8,15059329,5.0,2,4,3331,6,Yes,6.3
+Sehore,Jawar,Kachnariya Kalan,Commercial,Government,9141.7,36148525,5.0,3,4,6507,15,Yes,11.2
+Sehore,Ashta,Paraswada,Industrial,Institutional,3036.2,4358410,7.5,3,4,3530,11,No,15.1
+Sehore,Sehore,Paraswada,Mixed-use,Private,830.4,7320740,7.5,2,2,5021,7,No,19.6
+Sehore,Sehore,Kachnariya Kalan,Agricultural,Government,6516.9,42192176,5.0,3,1,8537,7,Yes,17.6
+Sehore,Rehti,Budhni,Mixed-use,Institutional,5084.0,12436177,7.5,3,1,9403,8,Yes,7.6
+Sehore,Ichhawar,Pipalia,Commercial,Institutional,6763.1,50837825,6.0,2,5,5033,12,No,18.4
+Sehore,Ichhawar,Gopalpur,Residential,Institutional,7055.5,17917413,7.5,2,2,10503,5,No,8.4
+Sehore,Budhni,Shyampur,Agricultural,Private,14065.1,47625799,7.5,3,0,9009,1,No,17.4
+Sehore,Sehore,Dhaturiya,Mixed-use,Cooperative,11385.7,79354667,7.5,3,4,2825,5,No,12.1
+Sehore,Nasrullaganj,Budhni,Commercial,Institutional,1324.1,11462219,7.5,3,3,1470,4,No,5.5
+Sehore,Jawar,Dhaturiya Khurd,Commercial,Private,8203.4,43934491,5.0,3,4,3173,5,No,8.5
+Sehore,Budhni,Chandbad,Commercial,Cooperative,14486.1,84305372,5.0,2,0,11083,15,Yes,3.3
+Sehore,Ashta,Doraha,Industrial,Government,1509.3,10738756,5.0,2,0,10325,3,Yes,11.6
+Sehore,Rehti,Kothrikalan,Commercial,Private,13928.5,40934849,6.0,2,5,1140,5,Yes,11.9
+Sehore,Ichhawar,Bilkisganj,Commercial,Cooperative,758.9,2242739,7.5,3,3,3118,1,Yes,3.7
+Sehore,Rehti,Kachnariya Kalan,Residential,Government,1537.4,11048165,6.0,3,3,9475,12,Yes,0.3
+Sehore,Ashta,Doraha Mal,Residential,Private,14272.2,57227883,6.0,2,1,4867,14,No,10.6
+Sehore,Nasrullaganj,Ladkui,Mixed-use,Cooperative,1776.9,14757444,6.0,3,5,8124,5,No,12.4
+Sehore,Budhni,Khejra Khurd,Residential,Cooperative,241.1,1172002,7.5,2,0,4219,1,Yes,12.5
+Sehore,Ashta,Bijepur,Commercial,Institutional,9436.3,52307418,5.0,2,1,2798,2,No,13.4
+Sehore,Ashta,Ichhawar,Agricultural,Government,2735.0,18004921,7.5,2,1,11244,12,No,3.8
+Sehore,Shyampur,Badiyakhedi,Commercial,Institutional,2281.5,18141489,5.0,2,1,1880,2,No,9.4
+Sehore,Rehti,Bairagarh,Commercial,Government,2578.6,10547090,7.5,2,0,1417,7,No,10.2
+Sehore,Budhni,Jhal,Industrial,Cooperative,11073.9,95508839,5.0,2,2,1620,6,Yes,10.2
+Sehore,Nasrullaganj,Dhaturiya,Industrial,Cooperative,3569.2,4018647,5.0,2,4,9444,5,Yes,9.7
+Sehore,Rehti,Pipalia,Residential,Institutional,14185.7,15539088,5.0,2,4,8600,5,Yes,1.3
+Sehore,Rehti,Ichhawar,Industrial,Institutional,11946.9,12198147,6.0,3,1,9024,5,No,18.6
+Sehore,Shyampur,Nasrullaganj,Commercial,Cooperative,7602.8,34131337,7.5,3,0,163,9,Yes,19.9
+Sehore,Shyampur,Pipalkheda,Agricultural,Institutional,12475.2,46382045,7.5,2,2,5418,12,Yes,1.8
+Sehore,Ichhawar,Ralayati,Commercial,Cooperative,9647.3,85428838,5.0,2,4,3120,10,Yes,2.4
+Sehore,Jawar,Paraswada,Residential,Institutional,1690.5,11852521,5.0,2,2,503,7,Yes,17.0
+Sehore,Ashta,Doraha,Mixed-use,Private,5509.0,13387758,5.0,3,2,1102,2,No,12.8
+Sehore,Nasrullaganj,Gopalpur,Residential,Private,6956.5,44148362,6.0,3,3,9335,7,No,19.0
+Sehore,Budhni,Harpura,Agricultural,Private,6761.6,42476064,5.0,3,5,4928,9,Yes,18.8
+Sehore,Budhni,Bagmau,Residential,Private,1569.0,11021455,6.0,3,5,6716,8,No,9.3
+Sehore,Sehore,Doraha,Mixed-use,Institutional,2008.4,11078244,7.5,2,0,7978,1,Yes,15.8
+Sehore,Shyampur,Kalapipal,Agricultural,Institutional,1200.5,9839266,6.0,2,1,2549,11,Yes,11.1
+Sehore,Nasrullaganj,Kachnariya,Commercial,Institutional,6825.6,54548864,6.0,3,5,2277,6,Yes,14.6
+Sehore,Ashta,Bamuliya Khurd,Agricultural,Government,8019.2,41644309,7.5,3,1,5960,12,No,3.6
+Sehore,Shyampur,Dhaturiya,Mixed-use,Government,3287.2,22346475,7.5,3,5,10323,1,Yes,14.0
+Sehore,Nasrullaganj,Ichhawar,Mixed-use,Government,8663.9,36449644,6.0,2,5,9985,13,No,15.3
+Sehore,Nasrullaganj,Mangrola,Agricultural,Institutional,2098.9,9737427,7.5,2,2,11892,13,No,15.9
+Sehore,Rehti,Paraswada,Commercial,Private,8331.9,45182695,7.5,3,3,2770,13,Yes,9.5
+Sehore,Rehti,Amlaha,Commercial,Institutional,13432.7,114347378,7.5,2,0,1759,7,No,4.0
+Sehore,Nasrullaganj,Nasrullaganj,Residential,Institutional,10392.1,21465302,6.0,3,5,3265,5,No,3.6
+Sehore,Sehore,Ladkui,Industrial,Government,12011.7,62766327,6.0,2,1,3244,6,No,0.7
+Sehore,Nasrullaganj,Khejra,Agricultural,Institutional,12004.3,23258891,7.5,3,1,4488,14,No,18.7
+Sehore,Budhni,Doraha,Residential,Cooperative,5145.8,41759549,6.0,3,4,5496,8,No,3.4
+Sehore,Budhni,Ladkheda Khurd,Mixed-use,Institutional,2760.1,16570756,6.0,3,1,8334,2,No,1.6
+Sehore,Budhni,Bherunda,Industrial,Institutional,11306.3,69346635,5.0,3,5,6397,5,Yes,11.8
+Sehore,Shyampur,Bhopal Pura,Agricultural,Cooperative,10948.3,39256982,7.5,3,2,10620,10,Yes,7.3
+Sehore,Ashta,Nasrullaganj,Industrial,Institutional,12158.1,37553022,7.5,2,4,3658,14,No,9.7
+Sehore,Ichhawar,Banet Mal,Commercial,Private,5146.9,24315503,7.5,2,2,5363,12,Yes,20.0
+Sehore,Ashta,Rampura,Residential,Government,3824.8,33801816,5.0,3,4,10534,11,No,18.8
+Sehore,Nasrullaganj,Pipalia,Residential,Private,13820.1,83683951,5.0,3,3,9722,7,Yes,14.5
+Sehore,Sehore,Kalapipal Road,Industrial,Government,11269.3,93592410,7.5,2,1,1096,9,No,12.0
+Sehore,Ashta,Badiyakhedi,Agricultural,Private,6417.1,50027932,6.0,3,0,5784,10,Yes,2.1
+Sehore,Ichhawar,Karadiya,Residential,Government,10929.0,27629458,6.0,2,0,4216,13,Yes,3.8
+Sehore,Shyampur,Dhaturiya,Mixed-use,Cooperative,11854.9,103112988,7.5,2,5,2239,2,Yes,1.3
+Sehore,Sehore,Bilkisganj,Agricultural,Institutional,2183.9,2824854,6.0,3,3,10173,10,No,10.2
