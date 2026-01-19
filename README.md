@@ -62,17 +62,17 @@ Sehore_RealEstate_WebApp/
 ```bash
 ##  Installation & Setup
 
-1️⃣ Clone the Repository
+ Clone the Repository
 git clone https://github.com/YOUR_USERNAME/Sehore-RealEstate-Price-Predictor-AI.git
 cd Sehore-RealEstate-Price-Predictor-AI
 
-3️⃣ Install Dependencies
+ Install Dependencies
 pip install -r requirements.txt
 
-4️⃣ Run the Streamlit App
+ Run the Streamlit App
 streamlit run app.py
 
-5️⃣ Open in Browser
+ Open in Browser
 http://localhost:8501
 
 
