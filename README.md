@@ -144,13 +144,14 @@ Multiple regression models were trained and evaluated using:
 ---
  
  ### Contributions are welcome.
-Feel free to fork the repository and submit a pull request.
+Feel free to fork the repository and submit a pull request..
 - Virtual Environment (venv)
 
 ### 👨‍💻 Author
 
 **Jatin Kushwaha**  
 [GitHub](https://github.com/Jk319) | [LinkedIn](https://linkedin.com/in/jatin-kushwaha)
+
 
 
 
