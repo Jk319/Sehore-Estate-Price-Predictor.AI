@@ -144,7 +144,7 @@ Multiple regression models were trained and evaluated using:
 ---
  
  ### Contributions are welcome.
-Feel free to fork the repository and submit a pull request..
+Feel free to fork the repository and submit a pull request.
 - Virtual Environment (venv)
 
 ### 👨‍💻 Author
