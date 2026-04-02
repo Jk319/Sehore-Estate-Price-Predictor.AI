@@ -143,7 +143,7 @@ Multiple regression models were trained and evaluated using:
 
 ---
  
- ### Contributions are welcome.
+ ### Contributions are welcome..
 Feel free to fork the repository and submit a pull request.
 - Virtual Environment (venv)
 
