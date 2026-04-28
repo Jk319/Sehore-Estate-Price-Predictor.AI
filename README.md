@@ -150,7 +150,7 @@ Feel free to fork the repository and submit a pull request.
 ### 👨‍💻 Author
 
 **Jatin Kushwaha**  
-[GitHub](https://github.com/Jk319) | [LinkedIn](https://linkedin.com/in/jatin-kushwaha).
+[GitHub](https://github.com/Jk319) | [LinkedIn](https://linkedin.com/in/jatin-kushwaha)..
 
 
 
